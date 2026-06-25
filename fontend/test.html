@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>个人语录 API 测试台</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: "Microsoft YaHei", "PingFang SC", sans-serif;
+    background: #f5f7fa;
+    color: #2c3e50;
+    padding: 20px;
+  }
+  h1 { font-size: 22px; margin-bottom: 16px; color: #2c3e50; }
+  h2 { font-size: 16px; margin-bottom: 10px; color: #34495e; border-bottom: 2px solid #409eff; padding-bottom: 6px; }
+
+  .container { max-width: 1100px; margin: 0 auto; }
+
+  .config-panel {
+    background: #fff;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 16px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  }
+  .config-row { display: flex; gap: 12px; flex-wrap: wrap; align-items: center; }
+  .config-row label { font-size: 13px; color: #666; }
+  .config-row input {
+    padding: 6px 10px; border: 1px solid #dcdfe6; border-radius: 4px;
+    font-size: 14px; min-width: 200px;
+  }
+  .config-row input:focus { outline: none; border-color: #409eff; }
+
+  .api-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  @media (max-width: 800px) { .api-grid { grid-template-columns: 1fr; } }
+
+  .card {
+    background: #fff;
+    border-radius: 8px;
+    padding: 14px 16px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  }
+  .card .method-tag {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #fff;
+    margin-right: 8px;
+  }
+  .method-get    { background: #67c23a; }
+  .method-post   { background: #409eff; }
+  .method-put    { background: #e6a23c; }
+  .method-delete { background: #f56c6c; }
+
+  .card .endpoint {
+    font-family: "Consolas", monospace;
+    font-size: 13px;
+    color: #606266;
+  }
+
+  .param-grid {
+    display: grid;
+    grid-template-columns: 110px 1fr;
+    gap: 8px 10px;
+    margin: 12px 0;
+    align-items: center;
+  }
+  .param-grid label { font-size: 13px; color: #555; text-align: right; }
+  .param-grid input, .param-grid select, .param-grid textarea {
+    width: 100%;
+    padding: 6px 10px;
+    border: 1px solid #dcdfe6;
+    border-radius: 4px;
+    font-size: 13px;
+    font-family: inherit;
+  }
+  .param-grid textarea { resize: vertical; min-height: 60px; font-family: "Consolas", monospace; }
+  .param-grid input:focus, .param-grid select:focus, .param-grid textarea:focus {
+    outline: none; border-color: #409eff;
+  }
+
+  .btn {
+    padding: 8px 18px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    background: #409eff;
+    color: #fff;
+    transition: background 0.2s;
+  }
+  .btn:hover { background: #337ecc; }
+  .btn:disabled { background: #a0cfff; cursor: not-allowed; }
+
+  .response-box {
+    margin-top: 12px;
+    padding: 10px;
+    background: #282c34;
+    color: #abb2bf;
+    border-radius: 4px;
+    font-family: "Consolas", monospace;
+    font-size: 12px;
+    max-height: 280px;
+    overflow: auto;
+    white-space: pre-wrap;
+    word-break: break-all;
+    min-height: 60px;
+  }
+  .response-box.success { border-left: 4px solid #67c23a; }
+  .response-box.error   { border-left: 4px solid #f56c6c; }
+
+  .status-line {
+    font-size: 12px;
+    margin-top: 6px;
+    padding: 4px 8px;
+    border-radius: 3px;
+    display: inline-block;
+  }
+  .status-200 { background: #e1f3d8; color: #67c23a; }
+  .status-4xx { background: #fde2e2; color: #f56c6c; }
+  .status-5xx { background: #faecd8; color: #e6a23c; }
+
+  .result-table {
+    margin-top: 10px;
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+  }
+  .result-table th, .result-table td {
+    padding: 5px 8px;
+    text-align: left;
+    border-bottom: 1px solid #ebeef5;
+  }
+  .result-table th { background: #f5f7fa; color: #606266; font-weight: 500; width: 100px; }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>📡 个人语录 API 测试台</h1>
+
+  <!-- 全局配置 -->
+  <div class="config-panel">
+    <h2>⚙️ 全局配置</h2>
+    <div class="config-row">
+      <label>API Base：<input id="apiBase" value="http://127.0.0.1:5000"></label>
+      <label>X-Token：<input id="apiToken" value="dancehole"></label>
+      <button class="btn" onclick="testHealth()">🔍 健康检查</button>
+      <span id="healthStatus" class="status-line">未测试</span>
+    </div>
+  </div>
+
+  <div class="api-grid">
+
+    <!-- 1. 推送接口 -->
+    <div class="card">
+      <h2>
+        <span class="method-tag method-get">GET</span>
+        <span class="endpoint">/push</span>
+      </h2>
+      <div class="param-grid">
+        <label>c（类型）</label>
+        <input id="push_c" placeholder="例如：学习（留空不过滤）">
+        <label>min_length</label>
+        <input id="push_min" type="number" value="0">
+        <label>max_length</label>
+        <input id="push_max" type="number" value="30">
+        <label>encode</label>
+        <select id="push_encode">
+          <option value="json">json（默认）</option>
+          <option value="text">text（纯文本）</option>
+        </select>
+      </div>
+      <button class="btn" onclick="testPush()">发送请求</button>
+      <div id="push_status"></div>
+      <div id="push_table"></div>
+      <div id="push_response" class="response-box">点击上方按钮发送请求...</div>
+    </div>
+
+    <!-- 2. 反馈接口 -->
+    <div class="card">
+      <h2>
+        <span class="method-tag method-post">POST</span>
+        <span class="endpoint">/feedback</span>
+      </h2>
+      <div class="param-grid">
+        <label>id（语录ID）</label>
+        <input id="fb_id" type="number" placeholder="例如：23">
+        <label>type（反馈）</label>
+        <select id="fb_type">
+          <option value="helpful">helpful（有帮助 ×1.6）</option>
+          <option value="received">received（已收到 ×0.5）</option>
+          <option value="learned">learned（学到了 ×0.5）</option>
+          <option value="done">done（做到了 ×0.3）</option>
+          <option value="muted">muted（不再提醒 ×0.05）</option>
+        </select>
+      </div>
+      <button class="btn" onclick="testFeedback()">发送请求</button>
+      <div id="fb_status"></div>
+      <div id="fb_response" class="response-box">点击上方按钮发送请求...</div>
+    </div>
+
+    <!-- 3. 新增语录 -->
+    <div class="card">
+      <h2>
+        <span class="method-tag method-post">POST</span>
+        <span class="endpoint">/add</span>
+      </h2>
+      <div class="param-grid">
+        <label>topic *</label>
+        <input id="add_topic" placeholder="主题/标题">
+        <label>plaintext *</label>
+        <textarea id="add_plaintext" placeholder="正文内容"></textarea>
+        <label>class</label>
+        <input id="add_class" placeholder="分类（对应 type）">
+        <label>tag</label>
+        <input id="add_tag" placeholder="标签/出处（对应 from）">
+        <label>from_who</label>
+        <input id="add_from_who" placeholder="作者（对应 from_who）">
+      </div>
+      <button class="btn" onclick="testAdd()">发送请求</button>
+      <div id="add_status"></div>
+      <div id="add_response" class="response-box">点击上方按钮发送请求...</div>
+    </div>
+
+    <!-- 4. 编辑语录 -->
+    <div class="card">
+      <h2>
+        <span class="method-tag method-put">PUT</span>
+        <span class="endpoint">/edit</span>
+      </h2>
+      <div class="param-grid">
+        <label>id *</label>
+        <input id="edit_id" type="number" placeholder="语录 ID">
+        <label>topic *</label>
+        <input id="edit_topic" placeholder="主题/标题">
+        <label>plaintext *</label>
+        <textarea id="edit_plaintext" placeholder="正文内容"></textarea>
+        <label>class</label>
+        <input id="edit_class" placeholder="分类">
+        <label>tag</label>
+        <input id="edit_tag" placeholder="标签">
+        <label>from_who</label>
+        <input id="edit_from_who" placeholder="作者">
+      </div>
+      <button class="btn" onclick="testEdit()">发送请求</button>
+      <div id="edit_status"></div>
+      <div id="edit_response" class="response-box">点击上方按钮发送请求...</div>
+    </div>
+
+    <!-- 5. 删除语录 -->
+    <div class="card">
+      <h2>
+        <span class="method-tag method-delete">DELETE</span>
+        <span class="endpoint">/delete</span>
+      </h2>
+      <div class="param-grid">
+        <label>id *</label>
+        <input id="del_id" type="number" placeholder="语录 ID">
+      </div>
+      <p style="font-size:12px;color:#f56c6c;margin-bottom:8px;">⚠️ 软删除（status 置为 muted），非物理删除</p>
+      <button class="btn" onclick="testDelete()">发送请求</button>
+      <div id="del_status"></div>
+      <div id="del_response" class="response-box">点击上方按钮发送请求...</div>
+    </div>
+
+    <!-- 6. 健康检查（带 token 验证也测一下） -->
+    <div class="card">
+      <h2>
+        <span class="method-tag method-get">GET</span>
+        <span class="endpoint">/health</span>
+      </h2>
+      <p style="font-size:13px;color:#666;margin:10px 0;">
+        无需 Token，用于验证服务是否存活。
+      </p>
+      <button class="btn" onclick="testHealth2()">发送请求</button>
+      <div id="health2_status"></div>
+      <div id="health2_response" class="response-box">点击上方按钮发送请求...</div>
+    </div>
+
+  </div>
+</div>
+
+<script>
+// ==================== 工具函数 ====================
+function getBase() {
+  return document.getElementById('apiBase').value.trim().replace(/\/+$/, '');
+}
+function getToken() {
+  return document.getElementById('apiToken').value.trim();
+}
+function buildHeaders(extra = {}) {
+  return Object.assign({ 'Content-Type': 'application/json', 'X-Token': getToken() }, extra);
+}
+
+function showStatus(id, code) {
+  const el = document.getElementById(id);
+  let cls = 'status-4xx', txt = 'HTTP ' + code;
+  if (code >= 200 && code < 300) { cls = 'status-200'; txt = '✅ HTTP ' + code + ' 成功'; }
+  else if (code >= 500) { cls = 'status-5xx'; txt = '❌ HTTP ' + code + ' 服务端错误'; }
+  else { txt = '⚠️ HTTP ' + code; }
+  el.className = 'status-line ' + cls;
+  el.textContent = txt;
+}
+
+function showResponse(id, text, isError) {
+  const el = document.getElementById(id);
+  el.className = 'response-box ' + (isError ? 'error' : 'success');
+  el.textContent = text;
+}
+
+function prettyJson(obj) {
+  return JSON.stringify(obj, null, 2);
+}
+
+function formatTs(ts) {
+  if (!ts) return '-';
+  const d = new Date(ts * 1000);
+  return d.toLocaleString('zh-CN');
+}
+
+// ==================== 健康检查（顶栏） ====================
+async function testHealth() {
+  const statusEl = document.getElementById('healthStatus');
+  try {
+    const r = await fetch(getBase() + '/health');
+    const data = await r.json();
+    statusEl.className = 'status-line ' + (r.ok ? 'status-200' : 'status-5xx');
+    statusEl.textContent = r.ok ? '✅ 服务正常' : '❌ 异常';
+  } catch (e) {
+    statusEl.className = 'status-line status-5xx';
+    statusEl.textContent = '❌ 连接失败';
+  }
+}
+
+// ==================== 1. 推送接口 ====================
+async function testPush() {
+  const c = document.getElementById('push_c').value.trim();
+  const min = document.getElementById('push_min').value;
+  const max = document.getElementById('push_max').value;
+  const enc = document.getElementById('push_encode').value;
+
+  const qs = new URLSearchParams();
+  if (c) qs.set('c', c);
+  qs.set('min_length', min);
+  qs.set('max_length', max);
+  qs.set('encode', enc);
+
+  const url = getBase() + '/push?' + qs.toString();
+
+  try {
+    const r = await fetch(url, { headers: buildHeaders({ 'Content-Type': undefined }) });
+    showStatus('push_status', r.status);
+
+    if (enc === 'text') {
+      const text = await r.text();
+      showResponse('push_response', text, !r.ok);
+      document.getElementById('push_table').innerHTML = '';
+    } else {
+      const data = await r.json();
+      showResponse('push_response', prettyJson(data), !r.ok);
+      if (r.ok && data.id) {
+        // 自动填充到 feedback / edit / delete
+        document.getElementById('fb_id').value = data.id;
+        document.getElementById('edit_id').value = data.id;
+        document.getElementById('del_id').value = data.id;
+        document.getElementById('edit_topic').value = data.topic || '';
+        document.getElementById('edit_plaintext').value = data.content || '';
+        document.getElementById('edit_class').value = data.type || '';
+        document.getElementById('edit_tag').value = data.from || '';
+        document.getElementById('edit_from_who').value = data.from_who || '';
+
+        document.getElementById('push_table').innerHTML = `
+          <table class="result-table">
+            <tr><th>id</th><td>${data.id}</td></tr>
+            <tr><th>topic（标题）</th><td>${escapeHtml(data.topic)}</td></tr>
+            <tr><th>content（正文）</th><td>${escapeHtml(data.content)}</td></tr>
+            <tr><th>type</th><td>${escapeHtml(data.type)}</td></tr>
+            <tr><th>from</th><td>${escapeHtml(data.from)}</td></tr>
+            <tr><th>from_who</th><td>${escapeHtml(data.from_who)}</td></tr>
+            <tr><th>created_at</th><td>${data.created_at}（${formatTs(data.created_at)}）</td></tr>
+            <tr><th>length</th><td>${data.length}</td></tr>
+          </table>
+        `;
+      } else {
+        document.getElementById('push_table').innerHTML = '';
+      }
+    }
+  } catch (e) {
+    showStatus('push_status', 0);
+    showResponse('push_response', '请求失败：' + e.message, true);
+  }
+}
+
+// ==================== 2. 反馈 ====================
+async function testFeedback() {
+  const id = document.getElementById('fb_id').value;
+  const type = document.getElementById('fb_type').value;
+
+  if (!id) { alert('请填写 id'); return; }
+
+  try {
+    const r = await fetch(getBase() + '/feedback', {
+      method: 'POST',
+      headers: buildHeaders(),
+      body: JSON.stringify({ id: Number(id), type })
+    });
+    showStatus('fb_status', r.status);
+    const data = await r.json();
+    showResponse('fb_response', prettyJson(data), !r.ok);
+  } catch (e) {
+    showStatus('fb_status', 0);
+    showResponse('fb_response', '请求失败：' + e.message, true);
+  }
+}
+
+// ==================== 3. 新增 ====================
+async function testAdd() {
+  const topic = document.getElementById('add_topic').value.trim();
+  const plaintext = document.getElementById('add_plaintext').value.trim();
+  const class_ = document.getElementById('add_class').value.trim();
+  const tag = document.getElementById('add_tag').value.trim();
+  const from_who = document.getElementById('add_from_who').value.trim();
+
+  if (!topic || !plaintext) { alert('topic 和 plaintext 必填'); return; }
+
+  try {
+    const r = await fetch(getBase() + '/add', {
+      method: 'POST',
+      headers: buildHeaders(),
+      body: JSON.stringify({ topic, plaintext, class: class_, tag, from_who })
+    });
+    showStatus('add_status', r.status);
+    const data = await r.json();
+    showResponse('add_response', prettyJson(data), !r.ok);
+
+    if (r.ok && data.id) {
+      document.getElementById('fb_id').value = data.id;
+      document.getElementById('edit_id').value = data.id;
+      document.getElementById('del_id').value = data.id;
+    }
+  } catch (e) {
+    showStatus('add_status', 0);
+    showResponse('add_response', '请求失败：' + e.message, true);
+  }
+}
+
+// ==================== 4. 编辑 ====================
+async function testEdit() {
+  const id = document.getElementById('edit_id').value;
+  const topic = document.getElementById('edit_topic').value.trim();
+  const plaintext = document.getElementById('edit_plaintext').value.trim();
+  const class_ = document.getElementById('edit_class').value.trim();
+  const tag = document.getElementById('edit_tag').value.trim();
+  const from_who = document.getElementById('edit_from_who').value.trim();
+
+  if (!id || !topic || !plaintext) { alert('id、topic、plaintext 必填'); return; }
+
+  try {
+    const r = await fetch(getBase() + '/edit', {
+      method: 'PUT',
+      headers: buildHeaders(),
+      body: JSON.stringify({ id: Number(id), topic, plaintext, class: class_, tag, from_who })
+    });
+    showStatus('edit_status', r.status);
+    const data = await r.json();
+    showResponse('edit_response', prettyJson(data), !r.ok);
+  } catch (e) {
+    showStatus('edit_status', 0);
+    showResponse('edit_response', '请求失败：' + e.message, true);
+  }
+}
+
+// ==================== 5. 删除 ====================
+async function testDelete() {
+  const id = document.getElementById('del_id').value;
+  if (!id) { alert('请填写 id'); return; }
+  if (!confirm('确定要软删除这条语录吗？')) return;
+
+  try {
+    const r = await fetch(getBase() + '/delete', {
+      method: 'DELETE',
+      headers: buildHeaders(),
+      body: JSON.stringify({ id: Number(id) })
+    });
+    showStatus('del_status', r.status);
+    const data = await r.json();
+    showResponse('del_response', prettyJson(data), !r.ok);
+  } catch (e) {
+    showStatus('del_status', 0);
+    showResponse('del_response', '请求失败：' + e.message, true);
+  }
+}
+
+// ==================== 6. 健康检查（卡片版） ====================
+async function testHealth2() {
+  try {
+    const r = await fetch(getBase() + '/health');
+    showStatus('health2_status', r.status);
+    const data = await r.json();
+    showResponse('health2_response', prettyJson(data), !r.ok);
+  } catch (e) {
+    showStatus('health2_status', 0);
+    showResponse('health2_response', '请求失败：' + e.message, true);
+  }
+}
+
+// ==================== HTML 转义 ====================
+function escapeHtml(str) {
+  if (str == null) return '';
+  const div = document.createElement('div');
+  div.appendChild(document.createTextNode(str));
+  return div.innerHTML;
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>欢迎回家</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            width: 100vw;
+            height: 100vh;
+            background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: "Microsoft YaHei", "PingFang SC", sans-serif;
+            overflow: hidden;
+        }
+
+        /* 主容器 */
+        .container {
+            text-align: center;
+            max-width: 90%;
+            animation: fadeIn 2s ease;
+        }
+
+        /* 主标题 */
+        .title {
+            font-size: 10vw;
+            font-weight: bold;
+            color: #d16984;
+            margin-bottom: 30px;
+            text-shadow: 0 4px 10px rgba(0,0,0,0.1);
+            animation: bounce 3s infinite ease-in-out;
+        }
+
+        /* 温馨提示 */
+        .tip {
+            font-size: 5vw;
+            color: #885a70;
+            line-height: 1.6;
+            text-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        /* 小装饰 */
+        .decoration {
+            font-size: 7vw;
+            margin: 20px 0;
+            opacity: 0.8;
+        }
+
+        /* 动画 */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(30px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        @keyframes bounce {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-10px); }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="decoration">🏠✨</div>
+        <div class="title">妈咪 欢迎回家</div>
+        <div class="tip">饭菜在桌上<br>热一下再吃哦 ❤️</div>
+    </div>
+</body>
+</html>

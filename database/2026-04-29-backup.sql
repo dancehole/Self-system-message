@@ -1,0 +1,3618 @@
+-- 导出时间: 2026-04-29 18:17:52.621662
+-- 导出记录数: 1062
+
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('工作量结束后要有文档支持,让自己的工作更加的标准话流程化', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('为什么字节11点上班', '因为正常来说上午是干不了活的（时间太短），就算上午很早上班也就是开开会，写写文档和日报就过了。不如延长下午工作的时间 ', '工作', '', '2026-04-29 18:07:42', '2026-04-29 15:32:32', 10, '2026-04-29 15:55:41', 6, 0, NULL, 'helpful', 'active', NULL, 2);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('为了一个很小的提升可能要付出巨大的成本，但是可以为此带来长期的收益', '', '个人提升', '', '2026-04-29 18:07:42', '2026-04-29 15:31:29', 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 3);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('什么都要大胆尝试一下，别人遇到问题的时候才能帮别人解决', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 4);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要成为小众人的自嗨(实验室里闭塞 就业 比赛这么多还找不到好工作。已经变成眼界小的自嗨了)', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 5);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('demo有多重要：demo能干一件事就代表能干一万件事（解决万事开头难的问题）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 6);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('没有什么是完美的，项目永远有优化空间
+开启新项目 or 维护旧项目？
+优先开启新项目，
+旧项目能用就行。
+实用为主', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 7);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('关于本地创建代码仓库研究：
+', '目录建议如下：
+需要研究的项目名称
+| 
+| -- 自己的git项目
+| -- 参考的/clone下来的项目', '项目与产品', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 16:48:35', 7, 0, NULL, NULL, 'active', NULL, 8);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('什么能力重要？
+为什么要参加竞赛？
+你干过什么
+你是什么岗位？做的内容是什么？
+最大的问题和挑战？
+怎么解决的？
+解决完增强了什么能力？有什么反思？提升
+把他讲成一个故事【讲故事】
+有时候技术壁垒没那么高，很多东西就算硬背也行，产品其实没那么优秀，但是区别在于讲故事的能力，可能技术没那么优秀
+硬实力和软实力都很重要', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 9);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('自己输出的时候，多多反问（你们有什么问题吗）/有人反问，就说出自己理解的意思（重复一遍or自己的想法说出来）', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 10);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('先把系统做多领域做杂，再考虑每个领域的优化（ps：能跑就暂时别动了）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 11);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要熟悉一些通用的软件逻辑：搜索，登录认证，等等', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 12);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('而大公司基本都靠自研，哪怕相对没那么成熟，但是自研可以确保成本低', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 13);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('小公司不养闲人。。你懂吧', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 14);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('前端项目在没有后端的情况下一无是处，啥都干的前提是啥都会。。', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 15);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('三个月入门前端，真不是假话。。', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 16);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要考虑系统迭代性：xx系统，再加一个xx功能/体量，需要改多少，再加十个呢？', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 17);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('拿来学计算机的功夫，别的专业别人可以学会书法，花花，跳舞，剪辑，吉他，....，而我只能抱着个计算机', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 18);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('自己一定要熟悉整个项目有关的所有代码，因为你不知道会出什么问题（不止你负责的部分）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 17:54:45', 1, 0, NULL, NULL, 'active', NULL, 19);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('青马两个商科的人，都是读秒下班5：30
+不分配活就啥也不干', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 20);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('安装包要留着：特别是环境的（可能也是环境修复和卸载工具）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 21);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('
+具体业务代码会不会写另一回事，环境至少要配的熟悉熟悉的
+', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 22);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【字节实习同学】组内目前情况：
+实习生共6个，3工程，3算法
+工程：我；华科本科（打算回学校保研）；某硕士（打算冲转正）
+算法：北大研一（实习完回学校）；另外两个硕士等导师的活忙完 预计下个月才来', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 23);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('乐观 悲观时间估计', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 24);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('大家都会把临时说的话，记录的想法放在文件传输助手上，怎么解决这个问题？
+', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 25);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('一堆事，开会，oncall，提测，加埋点，配各种白名单，黑名单', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 26);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('i人和e人真的在公司里不可调和', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 27);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('增加独处时间可以显著认识不同的人', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 28);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('并非只有技术路线，fmt（梦婷）取得成果基本不靠任何技术 而且老师内推等等渠道也能有很好的去处', '', '人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 29);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('当初只看到了sjd比较新，却没有往远处考虑，等自己毕业了，sjd是深圳的二儿子，但可能未来几年就有3、4、5、6儿子，sjd就失宠了', '', '其他', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 30);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('总体来说，在智能硬件领域，本科生比研究生要好，研究生比博士要好，博士比教授要好。产业化落地的技术水平，本科就足够了，后面都可以在创业中边干边学，而最需要激发和保护的，是学生的创业热情和动力，不要被传统的教育模式削弱。
+【魏大琪 李老师】', '', '人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 31);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('有趣的科研，应该是来源于生活，应用于生活', '', '项目与产品', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 32);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【了解项目三连问】接手项目提问', '1、目前这个项目处于什么阶段
+2、这个需求交付时间要求是怎么样的
+3、调整后的需求设计大概什么时候可以调整完同步出来
+4、研发的话提前过一遍最新的需求材料，再拉通过需求', '工作', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:35', 5, 0, NULL, NULL, 'active', NULL, 33);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('项目要有过程性记录', '项目要有会议记录，比如git记录（自动记录git）不然持续推进的项目 容易不好写周报', '工作', '', '2026-04-29 18:07:42', '2026-04-29 17:05:15', 10, '2026-04-29 17:04:28', 1, 0, NULL, NULL, 'active', NULL, 34);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要有自己的积累：至少让别人觉得“你很专业”。现在的市场不是靠忽悠就可以赚钱的了 。对自己的专业要有专业的知识和技能，随时能拿出来用的那种（至少解决问题的时候多试错，排除错误的方法，而不是干瞪眼）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 35);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要自己瞎搞：
+工作时时刻考虑被裁之后（不要买房上杠杆）
+不轻易辞职创业', '', '人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 36);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('过去的时代，就是靠吃时代红利+会来事实现财富自由。但现在要考虑时代正在变化', '', '人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 37);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('宣传时（摆摊位）的媒体无关性
+如果一群人站在摊位前，有说有笑，大家可能没那么愿意接近
+反而没人的时候，大家可能会看一眼展板内容（或者屏幕ppt）
+但是一个人都没有的时候，大家也不会乐意接近', '', '其他', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 38);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('差异化竞争，始终选一条人比较少的，竞争没那么大的路', '', '人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 39);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('关于A股，投资，股票：
+股票有风险，投资需谨慎。你都知道是投资了，亏了不是很正常？谁逼你炒股的？
+在强调一遍，a股不反应中国经济，那是个赌场', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 40);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('新加坡，足够小，比澳门还小，用腿就可以一天走完
+你这么小体量，想干个人均gdp很高出来，也很容易啊～你没有那么多考虑的因素
+什么人民素质不均，地理因素差异，历史差异，自然资源差异，教育
+你想想就你们村，或者城市一个区的大小', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 41);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('计算机行业就是一个量变产生质变的过程', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 42);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('考研复习是一个延迟满足很强的东西，不要自我怀疑。只要学习就是在进步', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 43);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('大厂最低20x14k（最少28w）有些能开到22k（30w），行情好岗位好能开到30x19（57w）
+中厂高的17x13k（22w）一般也只能开到13x13（17w）
+小厂小公司最多12x13（15w），一般都是10x12（12w），或者9x12k（10w左右）
+大厂一年=小厂两年，大厂2年=中厂3年', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 44);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('给大学生的50条建议：', '给即将踏入社会的学弟学妹们：
+        ♦珍惜应届生的身份，能考公就考，能考选调就不要考普通公务员，选调能定向就定向
+        ♦找工作时以任何理由收费的千万别去，小到体检费之类的，涉及钱财多个心眼，别轻易相信中介的话，遇到没听过名字的公司千万查清楚，小公司面试记得录音
+        ♦关于租房，最好和朋友一起去看房，一是安全，二是可以试一下房间隔音。遇到心仪的房子，一定记得录好视频，拍下有瑕疵的地方，防止退房的时候和房东扯皮被冤枉扣钱。看房时的床试一下（省得睡觉时突然发现一个大洞），一定要看房东的房产证等相关证件，以防二房东。拍下水表，电表，燃气表底数。如果合租一定要注意安全，出门在外保护好自己。注意用水用电！
+        ♦学会记账，每个月开销分门别类，比如分交通费、电话费、餐饮费、生活费、交际应酬费、服装费、学习费等，每一类设置上限。钱再少也要尽量分配在多元化用途上，不要轻易突破你设置的底线，挤占其它的开销。对于缺钱的人而言，管理住你钱的用途，其实就管住了你时间的用途。花呗借呗白条之类的能不用尽量不用
+        ♦关于同事，你会遇到各种性格的同事，有些人会让你感到绝望，会两面三刀，大部分人在职场，都有很多说不出的委屈，不管別人怎么对你，你尽量做到对事不对人，同时要像优秀的同事学习。切记重要的事要形成文字记录，以防责任划分
+        ♦关于爱情，进了社会工作，你的大学爱情才开始经受考验，不在一起，共同语言越来越少，你发现你无法提供TA想要的，坚持不了，分手不是坏选择，没什么，记得祝福TA能有一个更好的归宿。当然，祝有情人终成眷属！
+        ♦关于领导，你遇到的领导也许能干，也许懦弱，进入职场发展好的人，往往不是进了一个好单位，而是遇到一个好领导。领导布置的工作，千万别按自己的想法去做，一定要找机会把自己的理解和领导确认一下，再去执行。做的过程中遇到困难，千万别害怕让别人知道自己搞不定，记住一句话：坏消息先汇报，还有人能帮你避免爆雷，否则拖到最后耽误了正事，反而更糟糕。
+        但有一点要记住，不要听领导画饼，工作是单位的，生活才是自己的
+        ♦关于跳槽，工作会遇到很多困难，如果一个单位还不是那么糟糕，请不要轻言离职，在一个单位耐心积累三年胜过在三年内更换六份工作，一个行业你需要三年的时间才能真正入门，但遇到拖欠工资的果断走
+        ♦一定要要培养沟通能力、团结能力、协调能力，并坚持锻炼身体
+        ♦遇到不公的待遇一定要维护自己应有的合法利益，要抵制酒桌文化', '网络', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:31', 4, 0, NULL, NULL, 'active', NULL, 45);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('就业优先级更大，因为实际的需求决定，而不是为了这碟醋包一盘饺子', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 46);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('工程实践和理论发论文是完全不一样的', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 47);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('前后端就是堆人力，堆工作量。并没有什么难度', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 48);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【李恒耿 字节测试开发
+许永琪 腾讯测试岗】', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 49);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要不要跟风干一件事（或者决定干什么事情之前，如发小红书 dy）
+那就要看这件事对你的长期是否有利（短期收益和远期收益）
+权衡利弊之后在做选择
+另外就是是否有足够的动力支持你去做（拍视频哪怕长期利好，但是你没有足够的素材和能力，也白搭） ', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 50);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('永远不要在小众圈子里自嗨
+优秀的东西永远是大众的，通俗易懂的，实打实的 ', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 51);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('作为管理人员，文字+合同+签章的约定不能没有，聊天记录没有说服力 ', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 52);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('认识到上流的人，你才可能成为上流的人 ', '', '人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 53);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('黑马固然有，但是最后的赢家都是那些有积累的人
+（央视农业郭嘉宁再就业，木上树梢，谭谈交通）', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 54);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('关于直播答疑：信息是没有复用性的（主播要回答一个问题n多次 不如文档） ', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 55);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('你在卷，卷的过别人清北吗？
+你只能挑别人剩下的吃
+去做他们都看不起的事情 ', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 56);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('8月2日结束实习
+纯计算机已经没前途了
+计算机+其他才是未来 ', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 57);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('太正经 太严谨的东西，在自媒体时代非常不好传播（因为需要相关知识背景而有这个背景的的人很少）反而部分不怎么需要知识的东西，易于传播，就会导致知识盲区', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 58);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('docs文档，不方便使用git管理（二进制文件）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 59);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('只有那些专业不好的才要积极发展副业，好的专业只要做好你该做的事情，就已经够了....吗？', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 60);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('有些人是先发优势，有些人是后起之秀（厚积薄发）
+这两种人各有优劣吧
+不要看不起任何一种 ', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 61);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('需求一定是来源于实际的/企业/等等', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 62);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('宁当鸡头不当凤尾
+但自己可能只是个鸡脖（bo）', '', '人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 63);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('KT泡沫板（临时宣传板材） ', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 64);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('大部分年轻人 全是精致利己主义
+少跟这种人交往
+没有格局？啊', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 65);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('acm的志愿里可以学习到算法知识hhh（送气球算法）
+我们知道A掉一题会送一个气球，现要举行全国的ACM大赛，有M个学生和N个志愿者，志愿者又分为打印组、气球组。请合理排布志愿者让打印纸和气球尽快送到考生手中', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 66);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('职场里要的就是气质要的就是自信', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 67);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('为什么有很多素质非常差的人偏偏能走上去呢？
+参考《万历十五年》
+考察很难根据实际能力和成绩，而大抵是视其人事应付是否得宜，而有其上下高低。文官对这种考核总是战战兢兢，因为一旦有一两句不良评语，这辈子可能就付之东流。而这个评语往往出自自己的上级，于是文官的主要精力便放在了讨好上级上面', '', '网络, 工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 68);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('未来可期，永远不要看不起别人，尤其是别人的未来。
+习近平考察美国，38年前还是县长，38年后竟是主席！（2018）', '', '个人提升, 人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 69);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('什么时候该干什么事？
+年轻的时候就开始养老？
+局部最优解和全局最优解问题
+先有一段付出 后期才有一段收获
+这个投资回报是有周期的
+投资过程中 自己会有很多怀疑等等', '', '人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 70);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('怎么打游戏最有用？
+维护一个社区社群，服务器 模组开发，管理群成员，有自己的优势/服务器等，特别是如果当技术岗', '', '项目与产品, 网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 71);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('项目的基本流程
+自己做一个项目，写周报等等，怎么样写出文绉绉的话
+自己参与项目，写贡献表，会议记录，贡献记录
+周报日报', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 72);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('如果科技的成本（长期和短期成本）比传统的方式还高，那科技的意义在哪里？', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 73);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('十年前创业，可以靠一个想法，先做起来，先拉客吸引流量，不赚钱没关系
+现在你必须想：怎么样营销，做什么样的东西，抓住什么痛点，解决什么问题，怎么做转化 ', '', '网络, 人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 74);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('
+个人开发者接外包，自己的三四个人小团队的重要性
+现在小公司都是卸磨杀驴', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 75);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('公司在意什么？
+比较强的学习能力，能自己独立迭代，不断进步
+国际化的视野和格局（往最好的看齐，要做就是行业领先）
+第三个就是多面手，不止掌握单一的技能，能当一个复合型人才，才不会被轻易替代（娱乐型技能，提供情绪价值。硬性技能，提供商业物质价值） ', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 76);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('一些你之前没有的，后面有到不在乎的（比如钱）。就像童年和对童年的体验不可兼得，我们要尽量平衡收益和体验感受', '', '个人提升, 人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 77);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('想要通过大厂三轮技术面，你的业务，技术，算法，架构，底层，基础，人格魅力和形象都要是完美的 ', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 78);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要有 能在大火的时候急流勇退的能力。火到巅峰了 急流勇退也是一种智慧（不然自己晚节不保）', '', '人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 79);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要掌握在大量信息里检索信息的能力', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 80);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('谁质疑谁举证 ', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 81);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('压力会导致失眠', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 82);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('吵架时分清楚“到底在说什么”，不要各说各的', '', '个人提升, 生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 83);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('对销售，有时候满嘴谎话是好事，他们对你的态度会好很多（不要刻意装，想想有钱人/良好的群体）正常是什么态度', '', '生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 84);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('酒后乱性，你永远不知道酒后会发生什么事情
+你戒毒戒酒，就和戒熬夜 戒咖啡 戒奶茶 戒冲一样，所以不要接触时最好的', '', '生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 85);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要随大流，要有自己的目标，而且要为之努力', '', '人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 86);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('管理人员最重要的任务是解决科研人员不能大部分时间都投入干自己的事情的问题，也就是专业的人没法干专业的事', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 87);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('3/4岁就能决定一个人的性格', '', '个人提升, 人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 88);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('初见&老友熟络一定会有比较频繁的接触', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 89);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('恋爱和出行，活动不应该是纯玩，而应该调用自己的人力物力，是有意义有价值的（调研）', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 90);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【交往的艺术】不要太提钱，在乎会导致很多事情
+', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 91);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【交往的艺术】不要无偿给予，建议make a deal：我花能力，你花时间。不做简单的同意或者拒绝，而是通过简单或者复杂、值得或者不值得的交易来让对面选择（把自己的选择权交给别人，不无偿）', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 92);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('很多时候出现意外的事情，不要太为难别人，只是因为没有预案，没有相关经验', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 93);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('情商 永远让自己冷场。因为自己心态好不怕，不会在意这种细枝末节', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 94);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('
+当你接触的事情很多，就不会在意很多一些扭扭捏捏的事情
+要发就直接发要说就直接说，不犹豫来犹豫去的', '', '个人提升, 交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 95);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('专业的人干专业的事
+不要让自己什么都干（比如找人负责演讲 写稿 宣传等）
+用指标考核一下自己（属于小组中的哪个角色）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 96);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('焦虑只会给你增加压力，不会真正解决问题', '', '个人提升, 工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 97);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('和相同的人做不同的事，而不是和不同的人做相同的事', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 98);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('说的时候要早说！！直说（不要最后出问题了再说）不能藏着掖着，这不折腾别人吗', '', '工作, 交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 99);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要和心眼小的人接触，会把你气的七窍流血', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 100);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('有礼貌+幽默+技术过硬+管理能力+别装，就是绝杀（有时候嘴甜一点）', '', '交往, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 101);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('青马锻炼和培养人文素养和情商（跟优秀的人学习就好）', '', '交往, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 102);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('努力成为自信 自强 自爱的人。自信最重要！', '', '交往, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 103);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('人傻事多，越低级的群体，商学院，女生多的地方，都避免不了勾心斗角和一些可恶的人。', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 104);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('心胸要开阔一点
+物以类聚，人以群分', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 105);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('学会挑战杯终审答辩，还有十分钟准备材料等诸如此类超高压力的事件面对
+冷静+镇静+方法，就是好的结果。别人可能并不理解你的压力', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 106);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('谈话时不要玩尬的，有话就说没话就算', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 107);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('关于开会：决策权', '其实开会，或者多个人在一起讨论并不能有效的解决问题只能是各方利益的陈述，各方观点的输出最后还是要一个人做决定', '工作', '', '2026-04-29 18:07:42', '2026-04-29 17:42:08', 10, '2026-04-29 17:38:10', 1, 0, NULL, NULL, 'active', NULL, 108);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('如果是【读研】理工科实验室，大概率遇到996导师，pua，上下班打卡，唯论文不实习', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 109);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('读研自救方法：
+永远不要按大纲走
+研发岗的知识永远是上课期间不会学的，只有leetcode，github自己学。', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 110);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【不要按部就班 灵活打破规则】
+不要硬刚，跟规则对抗（把老师老板特别恶意敌对）大家都有不容易的地方
+不要太实诚，偷偷的干（明面上怎么样，暗地里要去干）', '', '学业, 工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 111);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【灵活生病 原则】
+评估收益，损失 不要有道德上的愧疚感，公司裁员你的时候，社会对你的要求的时候（压力 恶意 毕业压力 就业压力），他们有愧疚感嘛？', '', '学业, 工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 112);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【可以善用复杂判断原则】
+出让自己的部分利益（时间利益 金钱利益），比如一边生病请假，在空闲时间又主动加班，找补一下老板的核心利益诉求，让他模棱两可（瑕不掩瑜？）', '', '工作, 学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 113);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【中庸之道】
+太完美了容易招人恨，要让别人知道你有缺点（就这么样了）但是你也有你的优势与利益价值', '', '学业, 工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 114);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('开放交流心态：对本专业本行业，还有别的专业别的行业的人积极的沟通自己的见解。不同领域的人不论是思维方式还是知识储备都有很大的差异，多交流可以有思维和认知的延展', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 115);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('计算机入行要求：
+编程技能（笔试/算法题/原理/八股文）
+框架和技术，使用经验
+耐心和拆解问题的能力（问题很深嵌套很复杂，困难很多）反复的磨练自己，这是一个很烦的处理自己心情的事情
+技术岗位很在乎长期的技术积累，很难一次性搞定。要有长期主义', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 116);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('每日话题：人人都选计算机，行业会不会饱和？
+饱和不至于，但是预期收入肯定100%会降低，劳动市场是有供需平衡的关系的，廉价的刚毕业的，肯定不用40岁的老油条。不过各行各业都如此，谁也逃脱不掉。除非自己真的nb
+99%的人最后都会归于平庸
+你读法学，红圈所（n大律所）一年的校招人数可能都不如某个大厂某个专业岗位的招聘数量
+有的专业平台大，有的专业平台小
+你可以选只有干道顶尖5%才能吃上饭，有的人前30%就能吃的好饭
+平台深度不一样', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 117);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('以互联网行业举例（例子为产品经理）从用人单位的要求反推大学生涯时间线：
+校招入职-大三要暑期实习（获得转正保底offer，秋招比较稳）
+---大三寒假，春节后参加春招，如果是大厂实习，要求有1-2份实习经历
+---假如大二大三都有课，无解
+---大二大三寒暑假全利用上，去实习，勉强够格
+---第一份实习一般都很难，需要包装，科学竞赛，实验室经历，包装简历，假装成岗位需要的样子
+---在第一份实习前，也就是大二上，大一就要开始参加学科竞赛并获奖
+---一般学科竞赛，大型比赛的国赛都在3-4月，校级比赛都在9-10月（大一刚入学）
+常见问题：
+实习太少
+实习太晚
+实习经历不对口（不垂直）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 118);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('复习到现在我觉得吧
+做好二战心理准备≠一战不去拼命
+我现在也在做二战的心理建设了', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 119);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('
+自媒体的时间无关性，劣质的自媒体会某一个选题重复重复做，然后不断的吸引粉丝（某个选题，只要优秀可以一直做，dy一直都会有人看，热度复现可用）', '', '其他', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 120);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('年份经验（过去了n年）对人的影响是很夸张的
+每年坚持学习一点技能（多才多艺？？）', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 121);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('你对某个目标的焦虑感里，其实隐藏着你的能力和天赋', '', '人生规划, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 122);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('考研十大痛苦
+对自信心的打击，无力，审视自己，高考什么都有人讲，考研什么都靠自己
+不要什么都想planb，有时候不需要那么多planb（更加勇敢一点吧 不要在这个时候保守了）
+乱七八糟的事情会让你没那么勇敢，你对自己的提问（我该xx，）你自己其实回答不了
+不要在未来遗憾 ', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 123);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('感情，从来不存在配不配 只有适合不适合', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 124);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('人生就是一个人的战斗，noboby 陪你', '', '人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 125);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('充分挖掘老师的资源，成为任意老师的二把手，老师的资源是无限的', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 126);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('营销永远是最难的问题', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 127);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要讲公平：大学就已经不是唯分数论，不是努力就有回报的了。', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 128);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('李子柒恢复更新：优质的独特的内容永远为王，一时的投机倒把永远不长久，也得不到人们的拥护', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 129);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES (' 不要先做出来在优化，而是一开始就是最优解（优化也很费人力物理）。从很多种方案中找到一种即可，哪怕效率不高，完成就行。代码洁癖会让你的操作很慢', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 130);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【面试缺点】缺点就是时间计划 没有经验，不会善用悲观和乐观估计。自己的失误对客户的打击是很沉重的', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 131);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('团队建设，一定要有一次破冰行动', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 132);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('工作后，职业和公司都倾向于稳定
+所以了解别人也更容易', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 133);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('一定要有刻意留参考文献，和保护版权的意识', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 134);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('技术更新迭代快的另一个说法就是，不够稳定，经常背刺 ', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 135);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('忠诚和专业谁更重要？忠诚。', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 136);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('每个人的睡眠周期，舒适的时间不一样。所以不要强行打破规律，按照规律来就行。按照自己舒服的周期来即可。累了就要休息，不要有羞耻感，每天状态不一样没关系（每次休息30min以内，简单躺一会就行）。生物钟不要乱，身体是有记忆的（比如我12：00-8：00，大约8h）', '', '生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 137);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要有长期的技术积累的准备。', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 138);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('考研英语全都是什么华盛顿邮报，经济学人等等
+要理解美国议论文叙事逻辑', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 139);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('维权很累，而且往往没效果', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 140);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不辩解，不解释，直接对骂往往损失最小，收益最高', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 141);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('宁愿牺牲一点编码效率，也要证明自己的工作留痕，便于讲故事', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 142);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('实际开发中，前端需要调用的接口，可能后端根本没写好，所以要有提前调试，自己写mockdata的能力', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 143);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('想赚钱就要当资本家，掌握生产关系，不直接进行生产，不断的利用剩余价值扩大再生产', '', '个人提升, 人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 144);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('“学校还规定大三上学期不能出校实习呢，现在秋招宣传的那些人，哪个不是大三翘课出去实习，然后第二段实习先人一步，找到大厂的”
+规定就是搞笑的，不要太care
+假如规定影响了你的利益，就想办法绕过规定（而不是死磕，对你没好处）', '', '学业, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 145);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('学技术会陷入“短视”处境，万一技术哪天淘汰了怎么办（3D打印为例）
+学理论会陷入“没用”处境', '', '人生规划, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 146);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('凭什么别人都在喝酒抽烟，聚会打游戏的时候，我在备考学习，读研
+我要拿和别人一样的工资？？', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 147);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('维a目前很多护肤品在用，还是护肤届这两年的热门成分，“早c晚a”
+维a酸虽然治疗很多种皮肤病，在痤疮，皮肤色素沉着，皮肤角质异常，去黑头粉刺等等功效显著，但是有致癌的可能，孕妇禁忌，可导致胎儿畸形', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 148);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('很多人工作之外都会私自偷偷搞钱，但是一没能力二没渠道', '', '个人提升, 人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 149);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('在某种方面上来说，编故事的能力比写代码的能力更重要
+虚假的技术专家：架构达人，嘎嘎写代码
+真正的技术专家：一开口就是人情世故', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 150);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('跟大人物，跨国大公司ceo交流，你送她任何礼物都不合适，所以就送diy的一个桌面小摆件', '', '工作, 交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 151);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('年轻的导师就是爽，真的在指导学生。我硕导就是什么都有了，开题只是通知你要认真写就没了，毕业论文也是的，毕业论文他只看摘要和致谢，至于你写了什么他也不看。研究生期间真的是靠自己，老师提供的就是学术资源，让你能听各种大佬的学术报告，其他的怎么弄你得自己去做。', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 152);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('考研英语作文很考验平时积累，语料的丰富度', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 17:53:49', 1, 0, NULL, NULL, 'active', NULL, 153);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('科班和非科班在底层的理解上差异巨大，基础是否扎实决定了上限，应用能力决定了下限
+为什么要存在科研，研究生。而不是纯企业', '', '工作, 学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 154);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('因为以公司为代表的研究研发是以盈利为目的的，会忽视系统性风险（当一个方面的优化与提升难度很大，而当前已经不是瓶颈的时候，就不会优化，典型比如数据库和磁盘，系统）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 155);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('但是科研和研究的问题就是不实用（目前计算机行业标准都是来自企业，windows系统，软硬件芯片，上层软件）', '', '工作, 学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 156);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('计组，几乎一切都可以软件实现，但是硬件实现在性能上更优
+学编程永远不单只是编程，还有很多别的实践性质基础知识', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 157);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('过去的行为和决策会对未来产生长期的影响，这种影响是单向且不易逆转
+自己是否有长时间的计划，比如五年或者十年，把天空的星星全部点亮
+时间的加法，虽然缓慢但很有力量', '', '个人提升, 人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 158);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('千万不要和最好的朋友合伙开公司
+最后一定会因为利益不欢而散（没有追求才是最好的）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 159);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('上班后下班空闲期间，是真的有机会积累自己（比如派克曾医生，每天九点下班还能有空录视频，做到100万粉丝）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 160);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('大人和小孩子最大的区别是什么？怎么建立自己的专业壁垒？避免边际效应递减？
+（未来肯定是小孩哥横行，小孩子培养专业知识的能力非常强 学习非常快）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 161);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('自然语言处理是一个很重要的方向（从一堆史山文字里提取有用信息）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 162);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('胆子要大一点~~（法无禁止即可为）', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 163);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('一个团队里，有领袖和没领袖，有懂王和没有，领导力与没有真的差别很大', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 164);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('教人赚钱的人才是最赚钱的行业；
+最先入场的一拨人都赚到钱了，后面的人都是韭菜', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 165);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('做小程序？流量哪来？怎么赚钱？
+是不是在抢别人的活，能不能规模话盈利，DAU
+你想做大生意？大项目？还是小生意小项目', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 166);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('永远不要沉沦于小众的自嗨中
+要选择那些几年后甚至几十年后，依然能拿得出手的，能对普罗大众说出来的一些事情
+反面例子：游戏，xx成就；xx回忆；小众自嗨型
+正面例子：创业，硬刚回形针改变政策等等', '', '工作, 人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 167);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('内耗严重的人一定要培养一个【成长型】爱好
+需要时间和经历长期坚持才能看到结果的爱好，比如写作、演讲、绘画、烹饪、乐器、跳舞、穿搭、化妆、瑜伽、登山徒步骑行、游泳跑步、语言学习
+喜欢做就去做，不用管别人说什么', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 168);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('关注顶级期刊，学术前沿
+同时关注行业现实、专业对应的行业【xx白皮书 xx报告】', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 169);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('gitee打开别人的开源代码都要注册，对于没有gitee的非开发者很不友好【尽量使用github】', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 170);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('我已经养成的好习惯：不管干了什么都顺手写个markdown文档记录一下，防止以后不知道自己干的是什么', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 171);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('滴滴司机 外卖员
+纯赚辛苦钱，没有提升（时间不会给你的未来有太大帮助）
+身体是逐渐变差的', '', '人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 172);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('需求导向学习
+（先学个入门，然后根据需要继续学习即可）', '', '学业, 工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 173);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('前端体系化之后，有多恐怖？
+项目必备四件套：
+做好宣传最重要，外宣和对外营销，推销自己的能力最重要
+项目本体展示（软件则为软件展示，最好能给用户交互，前后端，人工智能要有demo 抽象物体有ppt和动画/视频演示等等，前后端要有web地址部署，小程序，app要有下载链接，等等想尽办法）
+项目介绍web（好看为主，类似企业展示或主页，有团队成员，我们是干什么的，作品是什么等等，大量图片展示，也可以是企业团队介绍）
+（如果有必要，可以加入运维端，内部维护系统用的）
+如果是开源项目，建议多写一个文档系统（方便交接，给别人运行部署和开发，合作起来也方便），比如vuepress，简化版的直接用md也行（可读性差，对外展示能力差）
+当然，代码仓库/文件/ppt/word等等文字信息不能少', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 174);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('开源要保护好作者（上游信息）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 175);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('自己的开源作品一定要申请软著信息
+如果有意商用，请不要开源（可以保留一个open的仓库）
+', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 176);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('让小白参考文档来开发还是太难了（对高级开发者才要用文档，文档细而全但是需要很多background） ', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 177);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('动手能力强不强：看电脑装各种环境熟不熟练（
+这可不是说有教程就能装这么简单的，编程的环境那可是超级无敌复杂的，mysql，redis，javajdk）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 178);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('[20240910]
+越垃圾的学校找的外包就越多（课程不合理，学生无法完成）
+举例：唐子咏的前端课程，一点基础都没有就要完成这些大作业，最后肯定是外包', '', '其他, 学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 179);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('吓一下没见过世面的人（用最低端的方法实现最高端的效果）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 180);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('nb的技术让别人猜想不到是怎么做的
+永远关注新技术新方法前沿领域知识在生活和工作上的应用', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 181);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('羊了个羊 游戏大火思考：
+有时候质量不是第一，赚的盆满钵满，只需要舆论够好（省对比）有很好的传播力', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 182);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('人除了工作和学校/学习之外，自己说不清道不明的事情，就是爱好', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 183);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要勉强不要为难，顺其自然。不要什么事情都上杠杆，用最大能调集的力量（生命除外）
+杠杆太大会导致风险指数上升 ', '', '人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 184);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('让自己永远有活干，但是都得慢慢干（职场策略）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 185);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('工作能力看不出明显区别，而待人处事和能力才快速分高下', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 186);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('[小组作业]
+个人大三，经历了无数次折磨的小组作业。现在看来我感觉要想有个好的结果必须要有：
+一个能力很强的组长，组长的能力至少要远远超过组员（理工科，有全栈能力+管理经验。文科，有对选题的独到认知等等） 管理的人可以不做任何实际工作，只做任务下发。很多个优秀的人在一起反而容易相互扯皮', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 187);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('课设/毕设要有价值，要么就是能上生产环境，要么能打包卖钱', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 188);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('考研给自己多留两年时间观察世界（重要！！）
+考上研了要知道自己想要什么！ ', '', '人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 189);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('前端基础很重要，一定要练好来（哪怕用不上 八股也要背咯） ', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 190);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('世界是个轮回（你看别人像小孩那样，但那只是你玩剩下的东西）
+他们买鞋，疯狂的追求名表名鞋 苹果手机。但这其实是我小学的时候就已经玩剩下的了 ', '', '网络, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 191);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('每个人都是精致的利己主义者，只在乎自己的利益（ps：讨论一下利弊）
+', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 192);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【转正答辩指导】
+自己积极拉会
+积极拉会讨论技术方案
+讲解的事情不超过3件
+背景一定要描述清楚
+不要出现生僻，前后矛盾的内容
+每页都要有重点，文字不能太多
+其他工作给个list就好
+特点
+讲解的每件事情都要有特点
+业务流程复杂
+产品考虑有误，提出了改进方案
+需要多方协作，推动较好
+技术有挑战
+收益（产品，研发）大
+问题隐藏深，别人都没管
+数据指标清晰明确
+升华
+有提炼升华的意识，不只是听安排做事
+总结产品收益和问题，挖掘进一步的改进空间
+提炼通用功能做成模块，服务
+遇到的问题总结整理分享，让组内其他同学避免类似问题
+总结技术点，剖析背后的原理
+修改原有业务与技术架构，最后还能发现架构的问题
+学习代码，模块，系统原理，最后能用这些原理解决其他问题（应用到解决方案里）
+讲解建议
+承上启下，注意衔接
+深入浅出，让没怎么做过这一块的人也能明白
+', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 193);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【模仿式学习】获取知识的方法：模仿性学习，创造性学习。
+模仿性效率最高
+
+模仿-实践-反思（重要）-反思既拆解问题
+忽视反思的（关注错题）
+忽视实践的（只刷学习方法不运用）
+忽视模仿的（作业做不出就死磕）', '', '个人提升, 工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 194);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('提问和打招呼要有回答
+不要傻愣愣的', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 195);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要陷入自己过去和别人相处的惯性 去相处现在的人', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 196);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('回应是个最无解的事情，自证是一个最傻的行为
+用你扣我帽子的方法，扣他的帽子，让他感受一下，你不能双标把。只许你狗叫，不许我带耳塞了？
+管我什么事，有些人在哪里断章取义
+当别人来问你和，质疑你。你应该先反质疑回他：你是不是收钱了，我为什么要回应，明显就是断章取义
+我凭什么要自证？证明一件自己没干过的事情是很难得？你怎么证明你没有收钱？怎么证明你不是250？
+自证是没底的，你永远没办法证明你是无辜的
+有些人只是想煽动对立罢了，在网络上', '', '交往, 网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 197);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('别人帮忙后，出于礼貌，钱对方可以不要，但是意思一定要给', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 198);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要给人情绪价值：是不是来点情绪，不要太平淡
+多哇一下', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 199);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('很多突发事件，最需要的其实是有人站出来', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 200);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('就跟政治生每天听新闻联播要听的脑子起茧一样，
+计算机人不能放弃对新技术，深度，广度，技术栈的探索。多刷题，多联系', '', '个人提升, 工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 201);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要觉得自己还在读书/学校里，就天高皇帝远，不考虑未来', '', '人生规划, 学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 202);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('考公考研只是作为自我驱动学习的一个动力', '', '学业, 人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 203);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('假如家里不缺你挣这个钱钱
+你在打怪练级升装备的时候
+你要好好的规划好你想做的事情，不要着急
+未来5年，8年你要的东西
+3-4年工作磨合
+', '', '学业, 人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 204);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('你在学校的毕设和课设，交给外包拖别人完成
+出去工作的时候就是：这这不会做，那那不会做（excel不会，word不会排版，ppt不会，代码代码不会）', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 205);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('时间很长，不要因为自己一时预判失误（这一波没有追上去）而后悔
+人不可能一直成功，或者一直失败的。不要因为你一个决策失误而后悔', '', '人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 206);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要爱具体的人，不要爱抽象的人。珍惜所有你认识的，爱你的，你爱的人', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 207);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('信息差，一定不可能通过自媒体了解的（自媒体能赚钱，为什么要靠自媒体赚钱呢，特别是咨询类自媒体）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 208);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('“你太急切的想要一个答案了。想要风光的学位，瞬间的博学，想要意气风发，想闪着金光走向喜欢的人。但现实告诉我，操之过急便会败北，他要我等，要我耐得住不断延长的时间线，要我交付出足够的努力堆砌在沉闷、晦涩的时光里，才肯将一切“我想要”一点一点递送至我手里。“我知道你最近很累，是那种看不见的，身体上和精神上的疲惫感，但是请你一定要坚持下去。就算无人问津也好，技不如人也罢，千万别让烦恼和焦虑毁了你本就不多的热情和定力。
+
+别贪心,我们不可能什么都有，别担心，我们也不可能什么都没有。“不要再这样下去，一晚一晚的熬。想东想西，实在是矫情，真的该关掉手机，断了一些没必要的联系，扔掉所有负能量，认认真真的生活，再去做一些正儿八经的事儿。”“你要留点精力去读书去运动去爱人，去奔赴你想要的生活，不应该把精力浪费在痛苦的社交讨厌的人那里，看起来可以挽回的事情，仔细想想一点都不值得，贪恋过去的快乐注定走不远，过去的就让它过去吧', '', '网络, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 209);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('上课和知识付费解决的是焦虑问题', '', '网络, 学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 210);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('自证陷阱：让别人自证xx
+反问别人哪来的证据 ¿', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 211);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('特朗普都度过万难，这么努力
+你凭什么不努力呢？
+特朗普 卧薪尝胆半生 忍辱几多
+其实川普说出了一个我人近中年才悟出的 一个朴实真理：你要想过得更好，就要努力去奋斗。
+这道理好像应该是小孩子都明白的道理，而且我们都从小就耳濡目染听我们身边的人不厌其烦重复，然而我们大部分人并没有真的听进去，我甚至到了大学毕业都不明白为什么学习。
+我这一生只努力了3次，而且都成功了，一次中考，一次高考，还有一次是我鼓起勇气跟我暗恋的女生表白。而此后我的人生没有追求没有理想，我思考人生的时间多于我脚踏实地努力的时间。', '', '个人提升, 网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 212);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('懂王的一些政策确实难以实现，但是难以实现就不做了嘛？只有去做了，才知道怎么去慢慢修改，实践出真知', '', '个人提升, 网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 213);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('照顾一个女生从关注她的生理期开始
+时间上多照顾她，多关注时间，比她更了解
+', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 214);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【找对象文理科】不是钱的事情，理工科男生有时候真的和文科女生聊不来，思维不是一个模式，谈过或者深入接触过几个就懂了', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 215);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【相亲贴】本人相亲:97年、男、河北人在天津。身高174cm，体重75kg，德国自动化专业硕士、今年刚刚毕业回国、天津外企，岗位是工程师。有车无房，家里关系和谐。不抽烟，不喝酒、没谈过恋爱。希望你河北人，也在天津，身高161以上，体重正常，有正式的工作或在校学生。年龄近似。家庭和谐，无不良嗜好，感情经历少。联系方式pei1007084562@gmail.com。感谢大家耐心读完。', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 216);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('现在人谁差那点经济实力，都是往喜欢了挑', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 217);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('择偶标准：
+对自己有长期规划，有风险管控标准（风控意识）现金流和固定资产的管理，小心系统性风险导致全局问题', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 17:30:22', 1, 0, NULL, NULL, 'active', NULL, 218);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('学过博弈论都知道
+所有人在计算后都会做出对自己最稳的选择，哪怕他不是全局最优解', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 219);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('但是绝对的理性只能让你成为middem的人，你想脱颖而出就要上杠杆', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 220);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('
+男女之间，带上别人一起玩，就说明已经寄了', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 221);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('世界就是个巨大的卡颜局，但是除了所谓恋爱，我们还有理想，有追求，有事业，这些才是最珍贵的。换而言之，事业才是我真正的爱人。同志们，让我们追逐星辰大海！', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 222);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('说着所谓的“不谈恋爱”“不随便谈恋爱”其实是不想和你谈，让你死心', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 223);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('偶遇的人能成为你的好朋友，但很难成为你亲密的人（没有长时间接触）', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 224);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('总（会/得）有一个异性填充你的生活', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 225);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('配得感：“我可以，我配得上，我值得”', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 226);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不管谁面试还是谈恋爱，你总要觉得自己是有一定的亮点在（亮点&过人之处）所以大胆一点自信一点', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 227);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('人生是荒谬的，无法归因的，混沌的的基础上，你只能珍惜你已经有的一些运气，你能做的一些努力是你唯一能把握的', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 228);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('挣两万多 高风险高回报的人在一起
+挣几千块钱 低风险低回报的人，混在一起', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 229);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('人都是喜新厌旧的
+友情能坚持六个月是真的不容易（相处会腻） 
+', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 230);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('恋爱一定是要双方的付出的，当你付出较多时，就可以放弃了 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 231);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('打开抖音主页刷20条视频，你就知道这个人是什么人了', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 232);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要当舔狗，要各取所需
+当对方给不了你情绪价值，趁早离开是最好的选择 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 233);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('一个普通女孩子化妆前化妆后是两个人
+百合显著更多（女生更会打扮自己，花更多时间和精力4）', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 234);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('对人的一个刻板印象和有色眼镜
+当你和一个人相处久了，你就会对他产生刻板印象（有时候第一印象很重要）
+当你改变之后，别人不一定认可或者意识到你这个改变', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 235);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要太在意别人，你家人的观点，你家人的看法和评价，他们只会给你带来无形的压力。有时候要能左耳进右耳出。有时候亲密的人说的话对你的权重是很高的 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 236);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('当：你的伴侣/朋友逐渐疏远你
+他们的交际圈逐渐扩大
+（maybe这不是你的原因 只是因为他越来越忙了 有了他的交际圈）
+你也就被边缘化了
+所以有一个长期伴侣很重要 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 237);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('与人交往，保留多一点秘密，才能留住神秘感 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 238);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('爱情没有了交集就是危险的开始。特别是双方的需求和观念存在差异又无法抹平时（只筛选 不培养）
+', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 239);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('悖论：能促进感情亲密的东西，不一定能产生良好的欲望，感情需要两个人亲密无间，甚至融为一体，是彼此拥有的感觉。而欲望需要两个人保持自主性和差异性，是想要的感觉。
+拥有了，就不会再想要，拥有了就不会再想要，感情上的亲密会抑制欲望的表达
+所以应该在不影响感情的前提下，彼此保留一定的私人空间，营造舒适的距离感
+千万不要把对方当做自己“已经拥有的东西”
+而是始终当做一个对你有吸引力的对象来看待，这样更利于维持需求的稳定', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 240);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('如果你没谈恋爱（特别是年纪大的时候）女生的想法：
+如果你真的很优秀，那么你怎么会找不到女朋友/奖学金/实习xx
+不会考虑你其他情况（工作、等等）', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 241);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不管男生还是女生都会活在信息茧房里，只能搜到男生/女生的东西', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 242);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('直接说很重要，直接沟通，不要猜测', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 243);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('女生有防备心理是正常的，默认所有女生都有防备心', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 244);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('女生的面子也很大，不想让别人觉得他是没面子的样子（不要让自己装的很懂 就算自己懂也要装一下不懂）', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 245);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('别人不喜欢你，不一定是你的原因！不是你的错！做好自己就行了', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 246);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('保持联系但是不要索要太多', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 247);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('所有女生都是宣传天生的精致利己
+而且所谓女性就是一种“处境”，一个天生被迫害妄想症的处境', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 248);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('眼界的局限性，一旦自己被收到特别的待遇就有被迫害的感觉（别人想要从自己获得点什么东西）', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 249);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('善于拒绝（女生 但凡让你不开心了就不要干要拒绝 但凡男生多于女生或者只有一个女生全是男生，就拒绝）', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 250);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要经常给别人惊喜
+偶尔撒个慌说“自己不能及时到了，鸽了”
+然后再出现在他的面前', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 251);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('没有从cyy的身上感受到心动和快乐，所以也就只适合当朋友吧', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 252);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('医药复合体就是喜欢这样的，你变成一辈子离不开医疗的废人对他们最有利', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 253);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('你要干大事的时候（特朗普）
+没有人会认可你，没有人认同你，甚至不惜打压你
+you have to fight', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 254);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('当技术要熟悉不同技术能实现的效果，见多识广。当产品要编好数据，足够多，分类足够大，考虑的事情够多', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 255);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要用纸画，要用流程图、对象图、架构图、用webui或者图片表示出来', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 256);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('你可以不样样都会，但是你擅长的领域绝不能草台班子（别人有问必答 不管是技术层面还是宏观层面都要有理解，随时提问你能答）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 257);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('每个人创意都是有限的，灵感都是会枯竭的', '', '工作, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 258);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('对看不起你的那些人，的最好方式就是未来十年用你的成就狠狠的打他们的脸', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 259);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('向上汇报的能力也很重要
+要特意花时间让别人看到你的工作，不要光在哪里吭哧吭哧做
+工作不要随便签字
+所有工作留痕', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 260);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要相信口头承诺', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 261);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('什么岗位都是“差不多就行”，不要太深入，入职了只后在学习也来得及
+实现功能不难，优化产品体验很难', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 262);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('有20%开发才能评估实际工作量', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 263);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('公司会有专门的产品经理，测试，然后开发，人事，行政，还有对接和驻场，还考虑了运维的成本。所以一个saas报价都很夸张', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 264);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('想想你在专业上的努力，真的和你的薪资配嘛？
+你作为一个人的核心竞争力在哪里？
+如何不被行业淘汰？
+公司里是有很多乌合之众的，只拿工资不干活的人', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 265);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('随身准备小礼物，防止别人情绪失控。可以放在车上，潜在的放在背包咯', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 266);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('所有工作必须要扎实，不能偷工减料。不然就是在为未来埋隐患', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 267);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('成熟的标志就是对风险管控能力', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 268);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('大家都在渴望自己现在在做一些未来才做的事情，什么“在上班”“在谈恋爱”“在做项目”却不想自己当下的水平哪怕多领域的融合在不同专业深度的老师们面前就是班门弄斧', '', '人生规划', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-16 18:52:33', 1, 0, NULL, NULL, 'active', NULL, 269);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('独立解决问题！很重要。
+一分耕耘一份收获
+一定要好好的付出，才有应得的回报', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 270);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('学计算机类的知识不要受限于当前专业所学，要尽力扩展自己的知识面', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 271);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要在分数上取得成就感-别当贱人（你当然比不过靠刷题和熟练度的小镇做题家，你的优势在于知识的广而全，系统的管理统筹能力，和架构大局的认识）', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 272);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要因为自己“忙”而推脱别人，大家都不容易，忙里偷闲才是厉害的', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 273);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('大学生活
+不要攀比（特别是金钱方面）
+健全人格！（不要求你样样nb）
+平衡资产（要懂省钱）', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 274);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('当赚快钱（靠身体消耗 美貌等 短时间大量）越来越容易，越来越多之后，人们也就会变得越来越懒', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 275);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('在爱情中犹豫不决只会伤害两个人 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 276);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【精神内耗】精神内耗的表现:
+外在: 1.犹豫不决 2.容易被影响（别人的话）3.行动力降低（50%精力）4.注意力分散（想法一个接一个）5.累（挣扎纠结）
+内在: 紧张、焦虑、自卑、情绪低落
+精神内耗的底层原因:
+1.偏向于用右脑思考（艺术思维、感性）
+2.威胁识别引起的恐惧（没经历过、陌生、不知道如何处理的恐惧）: 过度思考——恐惧感——延伸记忆薄弱——拖延逃避——延伸记忆更少——焦虑自卑
+精神内耗的四个方法:
+一、聚焦注意力
+1.关注自身能控制的方面，不要把精力放在不可控的方面
+2.把注意力聚焦在通过自身努力可以影响的事，找到核心要务，以此为中心，有条理地多向思考
+3.可借助思维导图，列出那些可以改变，重点关注，哪些不能改变，不再纠结
+二、提高行动力
+1.马上行动是降低内耗的有效方法
+2.提高行动力的方法: 1.启动越简单越好，最好控制在两分钟内（看一页书、记两个单词、做五个俯卧撑）2.好好犒劳自己
+三、右脑训练术
+1.脑电波放松训练: 1.闭上眼睛听轻松的音乐，想象宁静的场景 2.冥想深呼吸
+2.思维图像训练: 发散思维，在大脑里形成二维或三维图像的能力（几个不相关的词通过想象串一句话，形成一个故事或图像）
+3.观察训练: 比如看快速行驶的汽车牌号，回想具体号码，增强右脑处理信息能力
+四、消除负面情绪
+转换思维，把消极负面的信念转变成积极乐观的信念，会发现不一样的景象
+希望大家都能减少精神内耗[给心心]', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 277);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('误区定式：用未知的信息计算达成目标的困难，把行动局限在想象之中。如路上与人擦肩而过，一见如故，但没有勇气把这个想象变为现实。
+情感上就是越来越被动，不敢承担风险去敞开心扉。
+如何打破：改变自己最快的方法就是去做自己最害怕的事情。
+1.问题拆解：暂时抛开不可能的想法，直截了当的思考，我怎么做才能达成目标。（留学，考研）
+错误：没钱，太卷
+正确：想想去哪个国家，学校，目的是什么
+错误：考研太卷
+正确：了解一下招生简章和考研报录比
+2.把大问题分为小问题，然后一个个消除。
+3.进行成本和风险评估
+一种思维怪圈：设定目标后一味闷头努力，让自己看上去很用功，却往往事倍功半。这是典型的时间导向思维。
+一个长时间轴的目标，时间反馈很长，导致耐心与信心不断被消磨
+转变为目标导向，由大变小，反馈周期缩短，拆解拆解
+“人总是会下意识逃避自己不喜欢做的事情，导致这类事情越积越多，最后，记忆这些不喜欢的事所产生的负担，远远超出了完成他们所花的痛苦', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 278);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【关于自律】
+关于自律
+不自律的典型表现：女生管不住“奶茶火锅小零食”，男生管不住“熬夜氪金x瘾”
+首先要明白：没有绝对的自律
+避免看“隐性鸡汤”（别人的自律使你焦虑，但没有人能真正自律）
+自律是有临界值的→与其强迫自己自律，不如试着养成一个好习惯（比如每天背单词，练字）
+一次只做一件事-（不能“我全都要”-挑主要矛盾，）
+观察全局-历史是螺旋上升的，不要担心一两次的不自律，重点在坚持！！', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 279);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【时间管理方法】
+用整块的时间做事，比如9-12点等，分为project（某一件事情）和。不要做multitask多个事情，难以专注；
+工作时想起某件事情，可以先记录下来
+选择任务-评估时长-加入计划/日历
+了解自己的生物钟：哪个时间工作效率最高，选择最困难的事情（精力是有高峰和低谷的）
+任务应该做减法而不是加法，很多时候东西是没有做完的一天的（把工作交给别人 或之后做 或者干脆不做）', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 280);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('中庸之道：在世界，和在职场一样 不要当老二，被排挤，让大家知道你有在做东西但是又没那么认真，没那么强（扮猪）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 281);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('室内会议活动，出行要习惯性带外套（怕冷）', '', '生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 282);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('反思：我应该习惯性写日报，周报，月报（为了适应以后的生活）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 283);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要先拿命换钱，在拿钱换命，换命的时候钱连一张纸都不是', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 284);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要粗鲁，不要冲动', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 285);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不自私，但不做吃力不讨好之事', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 286);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('由弱变强在策略上优于由强变弱
+即:先卖弱，后变强
+注意卖弱应为被动接受，变强应为主动表现(争取)
+被人发现的变强会引起别人的嫉妒心理
+注意该法则只适用于挑战规章制度的变通，不适用竞争性的事件
+(dbqcbj)谦损自己(√)贬别人(x)
+我菜啊(√)比你好点(x)', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 287);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('大学学习 自我反思
+1.孤独感 很重要
+2.“你的努力可能会毁了你”，不要“逼”自己努力
+自律不能超出承受范围且不能保持
+成功≠努力+努力+努力，不要折磨自己
+不要老抱怨自己蠢/笨，要认识到自己就是个普通人
+不要有攀比心，不要嫉妒。
+愚者嫉妒，智者互抬
+尊重别人，
+不要拿要求自己的标准要求别人
+不要苛刻
+自己品德高尚就行了
+不要交不停消耗你的人，宁愿孤独
+自己不要成为，也不要交这样的人：
+对别人负面评价
+否定别人的想法，努力和成就
+对别人的错误和不幸窃喜
+把别人当自己的竞争对手
+不能很好的和别人合作
+对自己能力，地位缺乏安全感
+客观上比不过就主观上打压，不要靠跟别人对比获得自己
+6.25
+不要怕吃亏，要会吃亏
+压力来源于自己对事情的控制程度
+(作为大学生)不要吹牛！
+学会讲故事，演讲等
+不要刻意认识别人或者刻意跟谁谁走 遇到或者突然的缘分就一起是最好的。
+“基本上，一切人际关系矛盾都起因于对别人的人生课题妄加干涉或者自己的课题被别人妄加干涉”
+让干涉你生活的人见鬼去～
+——《被讨厌的勇气》
+一个博弈过程，要积极参与
+师傅节假日能多赚多少啊
+要养家，多赚不了多少钱。
+那就不干了，平台自然会提高价格
+鸡汤，感言
+“我们莫名其妙地觉得每个人都在关注我们，但现实是，没有人比自己更关心自己。
+甚至，没有人关心你的失败，没有人等待你的出
+丑。”
+Tom Vanderbilt
+自己的身体情况', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 288);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('生活，四大项：
+1.建立良好的人际关系，特别是宿舍成员，班级朋友，这些因素会考虑到你学习的效率，大学生活的心情态度。相比初中，高中交友，大学的人际关系处理更为重要。随机应变，乐观积极，天天向上。
+2.更好的独立思考能力，大学不会像初中，高中，学校把你很多时间安排得井井有条，大学的课程一天多数是安排不满的，紧接着就变为了生活独立安排，学会规划生活费，培养自己的独立意识。
+3.良好的生活习惯，大学安排好是一个愉快且轻松的环境，这些欢声笑语时常让我们沉醉于此，但是常常的没有生活习惯，你的健康就得不到保障，记住养成良好习惯，适当运动。
+4.小心，大学因为更加开放，因此你可能会受到更多诈骗因素，不要相信非官方的第三方免税贷款等看起来极其好赚钱的项目。除外大学还可能存在一些诈骗方式（常见网络诈骗），遇到相关事件请谨言慎行，不确定的，最好能和伙伴，老师交流决定。
+学习，四大项：
+1.大学是人真正的新起点，不管你学了是出去工作，还是继续考研，考博进行深造，都必须要过渡大学才行，所以学的专业技术越多，以后才有更大可能越轻松。
+2.有一个梦想，制订一个目标，一个符合实际能力的“大”目标，并朝向目标前进，这样你才会有更多的动力。
+3.知识的海洋，学校的教学知识往往只是基础，如果你有更加强大的技能梦，你需要借助互联网，继续学习这些知识，帮助你更好的理解技术，毕竟社会都是以实力说话的，没有实力，何来工作和金钱。
+4.不要参加学生会，大学你的时间就是金钱。不积极向上，就没有好果子吃，具体原因这里不在细讲。大家能理解就内在理解就好。
+以上大多建议都是需要日常注意的，运用合理，你就有一个快乐充实的大学生活。
+最后，祝你度过一个充实的大学。', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 289);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【学习方法反思日记】
+1.关于学习的比喻：为什么不如别人
+★只跟自己比：一个人的s取决于s0（起点），v（一天花的时间）和a（学习效率）
+为什么jyy这么厉害分析：
+s0相同，
+我的v，a分析
+为什么不谈恋爱-因为浪费时间
+1.时间：
+有充分利用的时间：中午（可以改进：中午不回了，但是多出来的时间做什么？）
+没有充分利用的时间：周末，玩游戏
+2.效率：
+这是方法论的实践，比如遇到卡脖子的能跳过就不要死磕
+我的人际关系解决方案：
+分清楚“work mates”和“life mates”
+养成含有正反馈的习惯
+跨纬度学习很重要：
+护肤要趁早
+有时间出去旅个游
+多陪陪父母
+不要太和群，也不要不合群
+本科学习是为了培养你认识世界的方式，
+一定要有真才实学而不是一知半解
+永远不要质疑自己（特别是自己过去的选择）', '', '工作, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 290);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('交流 访谈等
+访谈，面对镜头，长时间交流
+一定要做成“茶话会”
+学习“边吃边聊”，不要拘束，学会动作，语言和表情管理
+面对2，3，4人的时候
+主持人要镇得住场面，必须要滔滔不绝（嘴巴不能停）才不能冷场', '', '生活, 交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 291);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('消费
+社会套路多，谨防营销策略，有需求才下单，避免不确定的需求
+不要以为社会上的人素质都和你一样，这世上除了赚脑力钱的，体力钱的，还有一些赚阴间钱的，不正当途径的。不要太相信别人（尤其是看起来专业的人，一般很厉害的人会很有素养）
+妈妈对一两块钱的锱铢必较，要节约用钱！
+关于善良和学会拒绝：对一个人首先要善良（善意假定），然后再邪恶
+当你已经没有什么在意的东西时，你的内心自然就强大', '', '个人提升, 生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 292);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('长期的贸易合同，比如持续几年的。一定要有合同机制（先付收款，然后付尾款）
+就算不懂行也要深问一下，假装自己懂行（或者自己什么都要会一点点）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 293);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('上课的形式已经越来越不重要了。', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 294);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不断的自我总结才能自我提升
+独立自主自力更生和请求别人的区别', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 295);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('        哪怕别人很啥比也不要急着开骂，沉默观察一会儿（扩展到发生什么事情都是，先冷静一会，哪怕很好笑或者很生气）', '', '个人提升, 生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 296);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('尽量避免极化/固化思维', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 297);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('格局不要小，要尽量大。不要在意一些细节', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 298);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要试想改变对方，更不能“我说的对，你就得听我的”，你怎么知道她今天这个时候是不是“心情不好”', '', '交往, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 299);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('两个人在一起真的很难，思维方式不同，成长环境，教育环境和方式，人生理解和方向都不一样。单线程思维容易忽略掉的。“她想要苹果我送她一筐梨”
+为什么这么多人“分手”“离开”呢，就是个体的个性太强，“我这样就是对你好”，而不是“她觉得这样好”，这也是', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 300);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('有些事情虽然做了没用（不影响结果）但是能改变别人态度，给别人压力（类似R6的给枪线压力一样）', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 301);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('别人的热情，别人的再次确认，重复问问题，不要不耐烦，而是热情回答', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 302);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('承认女生化了妆之后就是很好看 男生就是要拼素颜', '', '生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 303);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要有一种高大上的感觉
+而是抱有体验的感觉
+就算知道也要装无知', '', '生活, 交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 304);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('学生时期，跟女生的联系很重要', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 305);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('吃饭吃不到一块儿去，这种就基本没戏了
+吃饭不要看别人，两个人吃饭不要和一个人吃饭一样，不要玩手机', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 306);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('女生上班和平时一般也懒得化妆/精致
+但是出镜和见面必须精致', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 307);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('李娜（原来也那么社恐啊） 女生
+没有化妆的时候脸上很多痘痘
+其实大家都没那么好看，素颜的时候 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 308);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('宝宝
+你
+骂人
+像
+撒娇', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 309);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('平权永远是个进行时，而不是完成时
+女权雀氏不平等，但是不代表男权就平等了，男权一样有很多不平等的地方。
+如果你要平权，追求平等而不是追求特权，打消社会上的“女士优先”', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 310);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要对别人疯狂试探，会显得自己目的性太强', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 311);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('感觉女生的怨气 习惯性的很重
+在群里聊天就是抱怨社会，钱，xx的', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 312);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('很多正事，谈正事都是借助娱乐的时间（下棋，喝茶，吃饭）
+', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 313);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('做所有事情都有一个目标，有的人是“体验生活”，有人为了赚钱养家糊口，有人为了实现梦想', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 314);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('职场里，不能太功利（能帮的忙就帮，不要因为不是自己的就太那啥）
+ps：如果你想向上社交
+所有社交的功利性都不能太强
+遇到贵人很重要：这需要你有勇气“为了一个你觉得重要的人付出那个时候看起来非常大的代价”', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 315);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('晋升会考虑学历，但是现在晋升空间要打问号', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 316);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要多经历大场面，在遇到的时候才能镇定', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 317);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('当模特当久了自然会注意形象', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 318);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('人脉很重要哈哈哈', '', '交往, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 319);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('“人生的奇妙就是迎接每一个未知”
+', '当一样东西快要用完了，你早早准备好替换物的时候，会发现这个东西还能继续用好几次；但当你没来得及准备替换物时，会发现它一下子就用光了。**
+生活就是爱打我们一个措手不及。
+那么，亲爱的朋友，千万不要因为生活的意外而心烦意乱，因为人生的奇妙就是迎接每一个未知。', '交往, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:33', 6, 0, NULL, NULL, 'active', NULL, 320);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('“人际交往时请慎用反问句啊！”', '我发现一个规律：
+很多不会好好说话的人都是反问句“小能手”。
+“我怎么知道？”“不然呢？”“你心里没点数吗？”“我都道歉了，你还要我怎么样？”是不是一听就很让人火大？
+亲眼见过一对情侣吵架：
+“你穿过的衣服能不能收好？别走哪儿丢哪儿行吗？”
+“你不乱丢？你都收好了？这个家里没你的东西？”
+朋友们，人际交往时请慎用反问句啊！', '交往', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:31:28', 3, 0, NULL, NULL, 'active', NULL, 321);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('“生活中有好多要学习和忙碌的事”
+', '我发现一个规律：
+能成为学霸的人都不怎么爱刷短视频。或者说不是不爱，而是有毅力和定力让自己不沉迷。
+拿我身边的一个学霸朋友来说，有一小段时间，他沉迷某短视频软件，但回过神来就很果断地卸载了。还有一个学姐，专业特别厉害，对网络热梗什么的基本不知道不关心，她说她没时间，生活中有好多要学习和忙碌的事。
+总结一下就是，不会沉迷一时的娱乐，忽略真正的生活。', '交往', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:30', 4, 0, NULL, NULL, 'active', NULL, 322);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('“喜欢是不仅想和你走这段路
+还有未来更长的路想一起走下去”
+', '我发现一个规律：
+判断能不能和一个人相处下去，可以想象一下和他晚上散步的场景。如果一想起来就觉得尴尬、无话可说，那大概就不行；反之，如果可以无话不说，恨不得把今天一天经历过的事都分享给他，那就可以。
+为什么是散步呢？其他一起做的事总要有个目的，但散步是真的只想跟喜欢的人一起漫无目的地走，不仅想和你走这段路，还有未来更长的路想一起走下去。', '交往', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:30', 5, 0, NULL, NULL, 'active', NULL, 323);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('“因为逃避而没有及时解决的事情
+一定会拐着弯地再回来找你”
+', '我发现一个规律：
+一件事情，如果你因为犯懒或逃避而没有及时解决，它一定会拐着弯地再回来找你，并且会变得更麻烦、更复杂、更耗费精力。', '交往', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:33', 6, 0, NULL, NULL, 'active', NULL, 324);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('“越具体，越不会焦虑”
+', '我发现一个规律：
+越具体，越不会焦虑。
+焦虑的反义词是具体，当你开始做具体的事（哪怕很小），焦虑就会一点点消失。
+我还发现，在回击一些让人不舒服的言论时，具体也是一个好办法，比如有人对你开不合时宜的玩笑，不要让他用“我开玩笑的”这种打哈哈的方式敷衍过去，你可以非常严肃认真地追问：“你能具体跟我说说这句话（这个词）是什么意思吗？”多数情况下，他们都会无话可说。', '交往', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:33', 4, 0, NULL, NULL, 'active', NULL, 325);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('“他从我的全世界路过”
+', '我发现一个规律：
+当你通过某个途径注意到一个人之后，你会发现他开始频繁地出现在你的生活中，甚至早就已经与你有过许多交集，而你此前从未注意。
+我把这种情况称为“他从我的全世界路过”。', '交往', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:35', 6, 0, NULL, NULL, 'active', NULL, 326);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('“察觉到了之后
+发现好像也回不去本来的样子了”
+', '我发现一个规律：
+被一个人的行为模式影响了之后，自己也会慢慢变成这样的人。大多数情况下不自知，察觉到了之后发现好像也回不去本来的样子了。', '交往', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:33', 6, 0, NULL, NULL, 'active', NULL, 327);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('为什么有些人更容易成功？–广东共青团
+', '执行力强，遇到问题会积极寻求解决方法，而不是找借口。
+目标明确，知道自己要什么，不仅愿意付出努力，而且愿意承担结果
+我觉得身边很多厉害的人都有一个特点，就是精力旺盛。有时候想想他们每天要处理的事就觉得不可思议，但他们出现的时候永远神采奕奕、精力充沛，到底怎么做到的？！
+有一股“咬定青山不放松”的韧劲，会用“一生一事”的态度去钻研、投入和奉献。这种做事的态度真的很了不起，往大一点说，我们国家各行各业的支柱就是这样的人。
+小学时有两个同学，当时成绩不算好，但我总觉得他们能成事。特征大概是思维活跃，而且小小年纪就有一种“我相信自己”的气质。长大后果然，创业了，做得还不错。
+我有个很佩服的朋友，二十字总结就是：目标明确，思路清晰，意志坚定，方法科学，调整及时。虽然有时候会觉得他太过理性，但他做事真的好稳，我一路看着他如何定下一个个目标，又如何一个个实现。即使考研那年失败了，他也很快择定新方向，投入新目标，敢于归零，永远向前看，不沉溺于失败，这点真的很棒。
+如果从领导层面来说的话，我发现优秀的领导都非常重视和擅长处理人际关系，懂得与他人合作，并且能有效地沟通，高效地调动团队。
+哪怕是小事，也不会随便应付。
+情绪稳定，遇事不急不躁，心平气和。不说做事，和这样的人相处也很舒服。
+比较关注自己的事，很少被外界的声音影响和左右
+会取舍，够果决。不像我，常常陷入“既要”“又要”的纠结之中，犹犹豫豫耽误了时机，等到没办法了，才胡乱选择一下，事后想起来不免要生悔。
+我觉得非常重要的一点，就是说话晚三秒，绝不脱口而出不过脑子的话，遇事先不着急表态。
+不拖延，不懒散，不逃避，想到了就去做、去落实
+对很多事情的态度是：过了就过了，不纠结，不内耗。
+抗压力比较强，在压力下也能保持冷静和理智，以积极的态度面对。
+有快速捕捉和消化信息的能力，并且能建立起自己的认知，我觉得这一点在如今这个时代还蛮重要的。
+有好奇心和探索欲，会持续地学习，追求自我成长。
+对自己做的事有着发自内心的热爱，并相信它的意义。热爱是最强大的内驱力，心有热爱，坚持就不难；坚持下去，事就易成。', '交往', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:33', 7, 0, NULL, NULL, 'active', NULL, 328);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('冷知识：准备越久，结果越差
+你想到的，就去做吧。
+过度准备学习工具
+过度准备学习状态
+ 过度准备学习方法
+万全的知识储备
+完美的预设方案
+目标准备
+诋毁、挖苦、嘲讽、会直白的带来不愉快
+但是表扬、过度的夸赞也会给人带来伤害
+', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 329);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('夸赞陷阱
+', '当你认同他的评价标准时，你就会陷入一个逻辑“如果你想继续被喜爱，你就要继续表示出懂事、善解人意，你把如何评价你的决定权交给了对方手上”，不论是赞扬还是责备，都是评价者有权利，而你就陷入了被动和弱势一方。会让你陷入“我有没有表现得更懂事？我这么干会不会让对方失望？有没有迎合别人的标准？”
+这会带给你压力
+所以要客观的评价自己，而不是跟着对方的期待行事。就算别人不夸我，我也知道我很棒，让别人的评价在你看来是好是坏都没那么重要
+“捧杀”“杀骏马者道旁儿”', '交往', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:33', 5, 0, NULL, NULL, 'active', NULL, 330);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('当我们谈论分手时，我们在谈论什么？', '不分开一次都不知道他这么有魅力。
+他说：“一个人以为在为两个人的未来而努力，却忽视了另一个人当下的情感需求，这是不应该的。这也是分手后我反思了很久的事情。”
+站得远点才能看清一段关系。
+不再愿意包容磨合的我们，先离远一点，也不失为一个好决定。
+但这段感情，就是失去了它的生命力。
+可能我们真到了“要么结婚要么分手”的年纪，所以今年我身边有好多对谈了三年以上的情侣分手。
+但问及他们，都说跟“要不要结婚”无关。
+“那跟什么有关呢？”我问。
+朋友纠结很久，最后挤出一句话：“不合适吧。”
+但他似乎又觉得这个回答不够准确，于是他补充道：“她跟我说她不是很开心，当然，她也没有很不开心。如果用天气来形容的话，就是「准备放晴的阴天」，但不知道为什么，就是不放晴。”
+说完两个“就是”之后，他叹了口气，走了神。
+我对他讲：“那你呢？”
+他像被吓了一跳，问我：“我怎么了？”
+“你能放晴吗？”
+“不能，”他把眼神寄托在脚边：“我就好像做错了事的小孩，但我也不知道自己做错了什么。”
+不知道你们有没有经历过类似的处境，你说双方真的犯了什么错导致无法走下去吗，还真没有。但如果你们双方想不想更进一步，他们又确实无法回答。
+就这么拖着，让坏情绪慢慢膨胀，直到两个人都被挤进角落。
+角落里没阳光，没清新的空气，只有一阵发霉的味道。
+都是好人，都没错，但这段感情，就是失去了它的生命力。
+而到底是什么时候开始的呢？
+可能只是某次约会，其中一位想去看电影，而另一位只想在家刷剧；也可能是某天的夜里，一位已经入睡，而另一位开始重新思考自己的人生抉择，她发现，自己已经“一步错步步错”。
+但无论是什么时候，当它发生之后，两个人的关系就会出现一些极其细微的变化。
+笑容还是有，但多了一丝勉强；放肆仍然会出现，但也会多一些疲惫。
+后来，就会面临二选一：
+“不如我们先分开吧”，
+或者，
+“我还是想和你在一起”。', '交往', '', '2026-04-29 18:07:42', '2026-04-29 15:28:06', 10, '2026-04-29 15:32:32', 5, 0, NULL, 'helpful', 'active', NULL, 331);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('摊牌了！真的很讨厌这种没有边界感的行为！', 'https://mp.weixin.qq.com/s/-tiAKxgDp_1o4lX7eIEKCw
+省流：
+理解不同，试着改变看看
+沟通会影响友谊？才不是！
+察言观色，过界行为退退退！
+边界稳定，友谊更稳定
+【原文 直接洗稿了 因为太真实了。。】
+好朋友是我们每个人生活中
+无比重要的存在
+开心时向他们分享
+悲伤时向他们倾诉
+……
+可最近
+我遇到了一点小难题
+朋友之间舒适相处的那层“边界”
+好像被打破了
+我买了一盒巧克力放在桌面
+也主动分给了Ta
+第二天回宿舍发现
+盒子已经见底了
+问了才知道
+Ta来我这拿走了许多
+“你不是说，我想吃就可以直接拿吗”
+我愣住了
+张嘴却说不出话
+尽管我不开心
+也没再追究了
+我们经常一起走路一起吃饭
+可是每当我坐在旁边玩手机时
+Ta总会有意无意地瞟上几眼
+“你看的这双鞋挺不错诶，链接发我”
+可Ta并不认为这样不妥
+反而认为是亲密的表现
+我也只有把手机熄屏
+并随意应付几句
+还有今天早上
+Ta拜托我帮忙查资料
+看着Ta的熊猫眼
+我便很爽快地答应了
+当我整理完资料
+开开心心发过去后
+收到的只有一个“嗯”
+我突然感觉莫名心酸
+辛辛苦苦忙了整个下午
+最后却得不到一句感谢的话
+还被晾在一边
+我知道这些都不是大事
+也知道Ta并无恶意
+但这些没有边界感的行为
+真的让我很讨厌
+说出来显得斤斤计较
+不表达又只能跟自己怄气
+真的好苦恼啊！
+【不要把别人对你的善意，当作是必然，要有边界感+经常感谢】
+理解不同，试着改变看看
+可能有许多小伙伴在与朋友相处的过程中，都出现过类似上文的情况。
+尽管只是一个小举动、一句玩笑话，都可能会让自己感到不舒服，但我们都没有选择直接“爆发”。
+会这样处理关系的人，无疑是善良、友好的，但这些美好的品质并不应该建立在让自己难过的基础之上。
+既往经历的差异其实会让每个人重新划定和好朋友们的边界，这种差异性本身会让自己对他人的行为产生判断偏差。
+所以，和朋友对“边界”的理解不相同也很正常，尝试改变或许是个好法子。
+沟通是改变的第一步，但有些话总碍于朋友关系说不出口，也担心对方对自己产生负面评价，所以一直委曲求全……
+这可怎么办才好呢？
+沟通会影响友谊？才不是！
+试想，你在无意中做了一件伤害到别人的事情，或者说了不该说的话，而自己还浑然不知。
+这时候你的好朋友来找你，说出了你的错误，你才后知后觉地反应过来。你会觉得愤怒甚至去怨恨你的朋友吗？
+相信不会的~反而你会更喜欢明事理、帮助你进步的朋友。
+所以，如果朋友做了让你感觉不舒服的事，就勇敢地和Ta沟通吧。
+真正的朋友关系不会因为你提出异议而受到影响，但一直忍耐更可能会以双方的不满告终。
+不过，正确沟通可不是脑子一热的“开麦”。要让“开麦”成为一次有意义的交流，也需要讲究时机和方法。
+可以围绕“观察-感受-需求-请求”这四个步骤循循善诱，描述自己观察到的现象，陈述自己的感受，讲述自己的哪些需求引发了这些感受，再向对方提出自己的请求。
+这时候，真正的朋友肯定会认真反思自己的行为，是否真的给对方带来了困扰。再经过双方的协商，相信你们一定会达成共识，渐渐磨合成更好的彼此。
+正所谓“天时、地利、人和”，选择双方都有时间和精力、心情状态也比较好的时候专门去谈谈。
+可以在心里打好草稿，用友善的语气表达。让对方感觉到你是来解决问题的，而不是来指责Ta的过错，问题一定会迎刃而解！
+察言观色，过界行为退退退！
+大家在与朋友相处的过程中，会不会担心自己也在不知不觉间做出没分寸没边界感的事儿？
+那要怎么避免这种情况，让我们的友谊长长久久呢？
+如果我们不小心说错话，或许对方在语言上会忍而不表，但表情和行为一定会有所表示。
+所谓“说者无意听者有心”，我们可以通过捕捉对方的这些信息来判断自己是不是说了不好听的话、做了令对方讨厌的事。
+而当自己意识到错误时，可以主动向朋友道歉，不要觉得不好意思。
+不仅是朋友，这对各种关系都适用哦~我们可以多注意自己的言行，避免伤害对方。
+边界稳定，友谊更稳定
+当我们设置了与朋友相处的固定边界后，就不要因为一时上头而破坏它的范围，这个过程本身也是自我行为养成的重要部分。
+打个比方，如果你始终以10cm的标准和对方相处，那10cm的标准会深入自己和对方心里；
+但如果因为你偶尔心情好，或者对方某一刻很让自己感动而把标准降低成了5cm，那之后双方都可能分不清楚哪里是边界，还会把偶然当成必然，从而造成心理边界的混乱，给双方增添烦恼和负担。
+“边界感”始终围绕着每段亲密关系
+而每个人的“边界感”需求不一样
+我们也应该尊重朋友的需求
+更重要的是
+掌握好沟通方式
+和朋友勇敢说出自己的想法
+保持始终如一的边界感
+相信你们不但不会疏远
+反而会变得更加亲密无间
+祝愿大家都能够收获真心实意的好朋友', '交往', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:33', 4, 0, NULL, NULL, 'active', NULL, 332);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('我们都有过被迫或无聊的对话，或者充满尴尬的沉默。这段视频中，
+我们要学习和别人闲谈的5个步骤。', '1.赞美。夸两句身体工作
+2.使用“这让我想起”进行话题转换
+3.共同话题
+4.问为什么和推进式聊天。（深入话题）
+5.笑就完事
+6模仿对方的言辞。。。。', '交往', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:34', 5, 0, NULL, NULL, 'active', NULL, 333);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('关于交友 与人相处
+选妃打咩：不要这么不要脸（找xx搭子之类的）', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 334);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('对美的看法
+', '关于美
+美是多种多样的美，雷同美（单调同一，帅也同理）只是最低层次的美，个性美更有魅力，
+王欣雅的美是一种，钟烨的美也是另一种绝美，同一化的美是美但层次太低', '网络, 生活', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:33', 5, 0, NULL, NULL, 'active', NULL, 335);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('实际生活中做出选择就不要后悔了，特别在选人方面
+', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 336);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不一定非找搭子
+君子和而不同～（只有小人哪怕同也不合）', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 337);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('我尊重别人的工作，爱好，性格，理想，三观
+并且能聊的起来', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 338);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要画靶射箭：
+带着立场评判和试探别人', '', '交往, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 339);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('当自己已经很美了 就开始猎奇和审丑了', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 340);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('去年考研考试上阳了，心率120，体温40度，出考场还摔马路牙子上了在路上爬了五分钟才起来不起来。凌晨四点起来背专业课。二战，复习一年半，当时想得是是天上下刀子我也得去。"我们考研人是这样的', '', '学业, 网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 341);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('“男生想要的安全感”
+有话直说，有时候男生真的get不到，所以不要让人猜
+妥善处理异性的关系
+对对方的付出一定要有回应，哪怕是言语上的（反馈感）。经常关心别人
+时不时的夸一夸，被喜欢的人尊重和崇拜是世界上最满足的事情
+信任', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 342);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【关于人脉：】
+不要有复杂的人机关系
+大部分人都是过客
+不必加微信
+不要太听话了', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 343);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【关于进实验室，在实验室干活儿:】
+实验室是交流，观看，体验氛围，强迫自律
+一个人的孤独才是实力
+羡慕别人是没必要的，你是你。你比他们更加坚强
+好相处-跟什么人都要很快聊得来，迎接新人、', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 344);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('关于爱情 异性相处
+【现代恋爱生活感想】
+与其物质的花费，不如多花一些时间，和精力（多聊天多出去等等）
+预约办证
+做视频
+不要有自尊心！！不要为了面子而做什么事情
+只有你不要脸，才能赢
+我发现我没办法忽视，我没办法放下，怪街上太热闹，?车辆太闪烁，?人行太拥挤，耳机里的情歌太深情，天气太冷清。此刻，我只想为你送上我最真挚的祝福?，我命令大雨不准淋湿你☔️，可是，我又算什么东西，?居然还敢给雨下命令，于是我反倒被倾盆暴雨淋到生病。?眼泪如黄果树瀑布般飞流直下，?划过我的脸庞，打湿了我的人字拖，?脚趾都变得酸涩，可是即使这样，我也只想对着全世界大喊?：祝老徐生日快乐！！！
+好像跟女生聊天，出去玩 谈恋爱的感觉也没有那么有区别，那么有期待
+有人说旅游就是折磨自己（借口罢了）
+肯受折磨 旅游
+你想不想去取决于谁陪你去
+交往
+性格互补 性格不一样很容易在一起
+不要聊自己：
+看你过得好会嫉妒，或要点好处，借钱
+看你过得差，别人也会看低你
+自己要做的事情千万不要大张旗鼓的告诉别人（事以密成，言以泄败）不是怕做不到丢脸，而是怕快做到了但别人把你拉下来', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 345);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【交往】
+不要跟内心阴暗，有很多小心思的人打交道（但是自己也别乐呵呵的，没用）
+不要向别人过度透露自己的隐私信息（不管是舍友还是好朋友）特别是父母，关系，自己的工资，学习能力和水平等等', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 346);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('见家长
+1.给家庭每个成员准备礼物
+2.主动陪对方父母聊天
+3.控制一些行为细节
+4.能帮忙尽量帮忙
+5.看父母相处模式
+6.看装修（实用or形式）
+7.看生活习惯细节
+8.看父母对女儿的态度
+9.看女儿干活的麻利程度
+10.看女儿对父母的态度
+不要做一个思想老旧传统的人', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 347);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【人际交往】
+为什么女生可以全网找“搭子”，随便网上找一个人就拼成团了
+男生就是偏向于找朋友
+女生在外面拍拍照＞真的体验
+让大家觉得你体验了很重要
+实力，颜值才是把别人留住友情和感情的一切。而不是“时间”（不要相信所谓日久生情）
+对cyy的评价：没有分享欲，已经“淡了”
+人与人交往的时间大概15个月左右', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 348);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('我也很喜欢你，但是我考虑了很多，我觉得我们不能在一起', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 349);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('你觉得恋爱是一种开始还是一个结果？恋爱是一个关系，是一个双方都要为此付出很多让步和牺牲的关系，互相做的让步越少（不同点越少）恋爱的开心程度越高
+我不想让你做出那么大的牺牲，如果我们因（异地 xx理想 三观）不同而需要互相牺牲，我觉得这并不是一个自由而且让人开心的事情，还不如维持现状，大家各过各的
+如果你是为了我而付出代价，那我们会因为这个问题在未来爆发出无数的矛盾的，没有必要，也不值得', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 350);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要轻易表白，当你越成熟就越要留着那层窗户纸
+再也不会有小鹿乱撞的感觉了', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 351);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('男女关系很多问题都起源于信息不对等
+今天能有天大的惊喜，明天就能瞒住天大的秘密', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 352);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('两个人在一起就是不断面对问题，经历各种考验，不断打怪升级
+所以做好自己就好了', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 353);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要把感受藏在心里
+表面上也要察言观色
+（如果女生表面不安 不开心，那就是一定的不开心）', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 354);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('“最烦有事不说的人，生活不易还要猜来猜去，还不如自己过”
+不过不能以这种观点以己度人', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 355);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('安全感要靠自己给', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 356);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('女生说没关系，一般都是有关系（问题就开始了）
+吵架的问题，往往只是导火索', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 357);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('吵架的时候怎么办呢？
+要让女生懂你的不开心
+分手的前期，就是两人的共同语言越来越少了
+升职加薪，和自我成就，只有自己在乎。
+别人更加在乎与她相关的东西', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 358);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('互相的情感反馈，有没有实现呢
+很多人都有工作＞陪伴女友的想法
+确立关系
+在男生看来是为了维护关系的继续，要付出努力（间接交付）
+但是女生对确立关系的看法是：要开始兑现你的承诺了
+一定要互相说真心话，有事就说
+（让步时不要强调自己的牺牲 会让别人不舒服）给自己一种高傲的感觉（我xx多么多么忙 百忙之中选择了你）
+吵架怎么办？
+去听听不同的思路
+经济是一切的基础', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 359);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('怎么拒绝别人？
+一定要真诚，诚恳，从对方角度考虑问题。同时可以适当撒谎，不能伤了别人的心
+', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 360);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('我觉得亲密关系的核心还是课题分离。知道自己想从对方那获得什么，什么是自己的事，什么是对方的事，不要明明是自己的课题，却推到对方的身上。
+“开始总是分分钟都妙不可言，谁都以为热情它永不会减”
+消费主义的盛行让这对年轻的情侣喜欢上了相同的商品符号，把对相同商品的喜欢误以为是灵魂的契合，其实是外在的消费主义文化将两人塑造的如此相像。实际上两人深层的内核是完全不同的，女生家庭条件优渥，可以支持她去追寻自己喜欢的东西而不被世俗打扰。男生家庭条件一般，注定了他会为了事业和稳定的未来而奋斗，同时也会牺牲在女生眼中最宝贵的理想。所以转化为方法论的话就是要和伴侣多聊一聊三观，你从哪里来，将来又想到哪里去。
+', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 361);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('自己不用说实话，但是让别人理解就行（唱双簧）
+不要包装了，对一些人来说不需要装（尤其爱情）
+自信一点，正常发挥就不错啦', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 362);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('找对象最在意的事情：
+善良，无论何时何地都会想着你，遇到陌生人，的同理心与态度
+情绪稳定，自我控制自我调节，更加稳定，面对压力的观察
+长相
+忠诚
+合理的争吵，为了解决问题而不是宣泄情绪
+成长型思维的人，面对挑战不回避不消极，而是积极迎战', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 363);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('方法论：
+捯饬自己：简单干净
+破开圈子，认识人：参加活动 要联系方式
+很多活动都是自带社交属性的（徒步 密室逃脱等等）', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 364);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要冷战，发脾气要及时灭火，注意观察对方想要的和不想要的', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 365);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('了解对方想要什么？为什么会有人觉得感情里很累
+abcde？对面更想要e，但你只给abcdabcd，对症下药，不要低效付出
+一般的abcde：
+a：精心的时刻：足够时间，陪伴质量，问问题要了解详尽
+b：物质型，礼物 “超出寻常价格”，注重节日和生日
+c：看行动，多做事，帮助12345小事
+d：身体接触，摸摸抱抱贴贴', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 366);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('初中陈颖慧 管理班费（几十块钱算不明白）
+维持跟cyy的朋友关系即可，不需要额外的付出了
+对女生付出再多，他也会觉得是应该的
+但是对男生付出一点他都能叫你爹
+真正的社牛遇到谁都能搭话
+女生圈适合浅交不适合深交，因为容易勾心斗角', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 367);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('跟cyy的联系应该越来越少，比较好
+因为本身就没什么感觉，而且在尽量避免交流', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 368);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('很多人倾向于自己一个人人玩', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 369);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('吵架是很正常的，情侣。
+相互不说话才不正常', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 370);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('你约别人的时候，每个人的心情，手中的事情都不一样，所以理解尊重', '', '交往', '', '2026-04-29 18:07:42', '2026-04-29 17:38:07', 10, '2026-04-29 17:37:53', 1, 0, NULL, 'learned', 'active', NULL, 371);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('女主可能是小时候也对异性有好感，但是太胖觉得自卑 一直被这种自卑折磨，困扰自己，然后终于下定决心减肥吧（又把心理问题变成了身体问题） 一直觉得减下来就好了，但有时候又觉得减不减无所谓，总是处于问题两端不断给自己压力又不断说服自己，造成回避型心理，有的时候觉得该这样做有时候觉得自己做不做也无所谓，觉得自己是自信的，但又没自己想象中那么自信，我觉得要解决这个问题的关键，是要建立一个合适的正反馈，也就是减肥目的是为了谈恋爱，这当然也不是随便谈，可以看出来女主对自己这些年有意或无意的自我意识强化，减下来变好看是能找到更好看的，更帅的，更好的，由喜欢rap 这个点可能看出是因为喜欢这样一种特质，很普通又很自信很想要变得耀眼，很能控场掌控别人掌控自己的感觉，这可能是对自己这样样心理磨难和心路历程的解释 喜欢什么往往也是间接告诉别人是什么样一个人和想要成为什么样的人，我的建议是形成正反馈，也就是找个男生来段恋爱好了，然后把身心投入里面，别想这么多乱七八糟的事，当然，这男生也不是好看就完事了，还要温柔体贴，有能让女主维持恋爱关系的决心，才能帮助女主形成这样的正反馈，而不能来一段随便的关系又对女主造成压力，而又加深心理问题了 这样看起来也有点挑，但也确实属于对症下药了[笑哭]而且女主第一印象就给人印象不错的样子，但吸引到身边的可能大多是不属于这种性格的男生，这个我建议改变一下自己的风格，试试淑女风，而且我觉得很多小动作也是，明显比较温雅的性格，而穿衣又是另外一种风格，驾驭不好这种运动风和少女风，也可以看出内心也是挺复杂和矛盾的
+其实漂亮的人也会有很大的心里问题，他们的颜值焦虑，身材焦虑更加严重', '', '交往, 网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 372);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('每个人的审美都在变化
+自己从可爱到性感到熟女', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 17:21:26', 1, 0, NULL, NULL, 'active', NULL, 373);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('聊天特别是跟陌生人，要有足够的情绪价值', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 374);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要看人下菜碟
+对面外向你也多说
+对面不想说话/不接话茬，你也别硬聊
+可以先展示自己，让别人深挖你的点
+也可以深挖别人说的（比如别人爱唱歌 唱什么 我喜欢陈奕迅，的xxx，xx歌我也听过，xx我在哪里看的）
+抛话题，找话题，也要接话茬
+但是不要过度试探别人的影视
+在女生眼里要没有“男”味
+越强势越凶越不喜欢
+hhh
+不过我也不喜欢
+表达就会暴露认知，观点和态度
+没有谁喜欢平平淡淡
+谁不喜欢浪浪漫漫“要会来事儿”
+需要有仪式感
+主动找别人
+而不是等别人找你
+去约所有人', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 375);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('原来李娜也那么社恐啊？wc
+收拾自己，干净整洁即可
+穿搭也很重要（身材也很重要）
+相亲一要真诚', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 376);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('与异性交流
+不要彩虹屁，不要硬夸，别人说什么就是什么，可以在心里怀疑但是不要说出来，不要liao话题，可以多看别人的尬聊，采访
+不要夺命连环问（像查户口），从生活小事开始，不要直接问那种很尬的（不要像简历面试一样，问什么兴趣爱好之类的，大的空的）
+也不要问很有争议或者很深度的问题
+其实话可以不用那么密（特别是刚见面的话），会展现自己的自卑和匮乏感，说的越多越体现自己说话境界不够
+第一印象+第一感觉很重要，很多人都在意第一印象
+陌生人最好不要尬聊，最好有个媒介（熟人，某件事，吃着饭，拼积木唱k等活动）有个话题
+不要一见面就做旁边，会让女生觉得很没有边界感（保持边界感）
+然后做事情不要太太太认真，特别是交往为主的东西，是不是开点玩笑，偶尔插两句调节一下气氛
+特别是男生和女生，有第三者调节气氛是最能推动的。（比如中美本来是对抗关系，如果多了个印度，大家都对着印度输出了，就可以转移矛盾）
+不管自己在不在意，都可以偶尔目视一下别人的眼睛，但是不要一直盯着
+研究生一般都有对象焦虑
+细节：让利而非舔狗。
+比如看菜单，囚徒困境，让我先看但是选择权给你
+面对面吃饭，不要前倾示好，也不要一直保持距离
+一定要看人下菜碟，没有固定套路，如果对面感兴趣（主动提问）你就多倾听
+如果对面没有倾听的兴趣，就少说话，尽快结束流程，不要多问
+如果你有缺陷（发际线），可以用帽子?遮盖，提升第一印象（后面在坦诚相待也行，但是表面上至少要装一下）然后再不经意间说实话（因为xxx，所以xx，或者本质，目的。这样减小突兀感，显得没那么刻意）
+心里话&本质的东西，不要随便说，因为说了本质相当于把话题结束了（xx的本质是xx，说完没得说了）
+聊专业聊工作，交换基本信息后延展话题，没问题
+要抓住机会，如果女生感兴趣就一直聊下去（哪怕说点假话）不要马上且不停切话题，可以一个话题聊久一点
+然后作为ld，什么领域都了解一点比较好
+多才多艺在交往里很加分，比如钢琴，吉他，跳舞，太极☯等等
+所有的交际都是以人为本的，要和人互动，不要闷头
+与陌生人，熟人见面可以准备一些不太贵重的小礼物
+仪式感真的很重要
+', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 377);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('出国后安全第一（看了这么多鬼片，边区往事，等等之后的感想），要有警惕心', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 378);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('事故是有3Q法则的，
+n个不良因素叠加导致一个隐患
+一百个隐患导致一个险情
+十个险情造成一起事故
+', '', '个人提升, 其他', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 379);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【选择性盲从：追求没实现的，不想要得到的】
+Know that you don''t know yourself, or at least not as well as you think you do.
+【今日分享】心理学家培特·乔纳森的一项对人类的选择盲从性的心理现象的研究。
+在此次实验中，他揭示了一个颇具讽刺意味的现实：我们追求的往往是我们未能获得的，而得到的可能并非真正所愿。
+这种现象暗示，有时候，人们对于“想要”的认知可能仅仅是一种事后的合理化，或者说是“事后诸葛亮”。在做出选择之前，我们往往缺乏一个完整的决策基础，这使得当我们面对错误的选择结果时，我们不得不进行新的认知结构的重建。这种重构不仅仅是对错误选择的一种自我安慰，更是一种对自我认知的更新，它反映了人们在面对事后结果时的自我阐释过程。
+在这个过程中，我们的自知之明可能并非源自真实的自我理解，而是一种被迫的、不自觉的自我解释。这种心理特性在现实生活中常被人为利用。例如，当我们没有构建过坚固的个人认知体系时，外界的人或团体通过提问“为什么”，或者带有特定目的的误导，可能会促使我们构建起一个全新的、并不真实的认知体系。这个体系虽源于自我解释，但一旦被引向不良方向，我们便容易受到外界的操控和利用。
+然而，乔纳森也认为，这种心理特性并非全然是负面的。人类天生对事物存在误解的倾向，意味着我们的认知是可以被重构的，我们随时都有机会去改变。这种可塑性不仅适用于个人，也适用于影响他人。它提供了一种可能性，即通过不断的自我反思和学习，我们可以不断地适应和塑造自己的认知世界，无论是为了改变自己还是为了改变他人。这种认知的灵活性和可塑性是人类适应复杂社会环境的重要机制，它使我们有能力在不断变化的世界中找到自己的位置，并作出更符合现实的选择。
+在很久之前，我曾经看过一个辩论，忘记具体辩题是什么了，陈铭学长在辩论中讲述到被误解是一种常态，当时我理解的“被误解”是存在于人与人之间的交流沟通之中，而在这个实验里，让自我阐释成为自知之明就是一种“被误解”。
+We observe and interpret ourselves.
+Be aware of question Why!
+Take things back!
+“You are allowed to take things back. Because i said i like something doesn''t mean i have to like it still, and getting rid of the need to stay consistent is actually a huge relief and makes relational life so much easier to live.”
+2023.12.23Newman思考俱乐部_太空
+', '', '网络, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 380);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('生命 意义 
+流浪地球影评
+在虚拟世界的永生源于我们对死亡世界的恐惧，怕死才想要永生。但是一旦我们实现了永生，我们还会珍惜生命吗？所以失去才懂得让人珍惜。如果要人学会生活，不能让他的愿望全部实现，得偿所愿，你宁愿让他失无可失，让他去急救病房里走一圈，你就知道怎么生活了（人类得失的话题）
+如果我们终将失去，那我们拥有的意义是什么？如果我们终将失败，那我们奋斗的意义是什么？
+ （无意义论，很多人都用结果来反问过程）
+如果以个体的角度去探讨，很多奋斗的东西没有任何意义（又更好的物质条件又怎么样）。但是，一个物种的伟大之处就在于人类生生不息，并在此获得意义。
+人类会在生存危机中产生哲学。古希腊的哲学最早都是生活悲剧，活不下去了才想人生意义。获得好好的想什么意义
+流浪地球电影的惊喜：
+对于未来，悲观者是正确的，乐观者是有利的
+要找到勇气直面生活中的困难，这点很难
+狭隘，自私，分歧，争斗。永远都不会消失。但幸好，人类的豁达，无私，坦诚，伟大也永远不会消失
+这个世界永远会有阴影，阴暗，那是因为我们头顶永远有阳光
+科技的发展通过发明工具提升了人们的效率。比如人工智能替我们做了一切决定。但人对效率的极致追求有时候会泯灭人性（moss叛逃，是理性）
+情与理的纠结本质是对人性的探索
+相比技术的困难，让人更沮丧的是人性的弱点
+ ', '', '其他', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 381);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('学生思维
+将《我要涨粉》这种目的赤裸裸的表现出来就是学生思维[doge]
+1.对于完成一项具体工作，总是寻求标准答案。
+思路：判断能力+寻找最有解决办法的能力，借鉴，甄别，整合；这是寻求他人帮助的关键，而不是省事
+目标：寻找最适合自己的方法
+方法：收集信息-筛选方法-实践验证效果-根据反馈做出调整-找到解决办法
+认知：上述过程是不断迭代的
+收获：总结适合自己的做事方式，形成自己做事的良好习惯，克服困难，迎接挑战
+2.低估客观情况的复杂性
+思路：共线性分析，匹配度分析；非互斥的变量如何相互影响，如何共同作用于因变量的变化
+做法：调整自变量，改进因变量，多做就会效果更好
+举例：拉来经费+请客送礼+科研成果
+方法：把自己能想到的做到最好，把能提供帮助的资源极致运用，剩下交给时间
+3.缺乏站在利益相关方立场上来思考问题的能力
+否则：离散信息背后的逻辑线有漏洞
+重要：随时保持信息沟通的壁垒不被打破
+看一个人做了什么，站在什么立场上，为了什么诉求而做
+事情尘埃落定的时候，还蒙在鼓里，认为是自己的原因导致的结果
+聪明是互相的，智慧是抽象的
+人是不断发展的，时刻迭代的，这是人类时刻发展的核心驱动力
+勇于表达自己的诉求，不羞于寻求有经验的人的帮助和指导，培养自己接受挑战和克服困难的能力
+现在的老板是一个掌控欲比较强的人，课题组里所有人课题的大方向到具体路线全都给你安排的明明白白，自己能发挥的空间比较少。而且有时候还爱push人，可能早上给的ideal，下午就会来找你要结果，一天来问你两三次。说实话这对于我这种科研小白来说是再适合不过了，只需要当老板的操作工。但随着时间的流逝，就会发现，像他们这种脱离实验室好久，只会看文章的人有时候提出的想法真的很不切实际，甚至是带我走了弯路。而这时候不管是我的理论还是实践经验都有了一定的积累，开始对老板提出的建议有自己的思考，有自己的评判，开始敢和老板讨论这个方法的可行性，而不是一味的顺从。我认为这是我摆脱学生思维的一个开始。
+在我眼里如果没有一定的累积，那我们必定是要从学生做起的。还有就是有没有自己思考的能力，有没有自己的主观能动性。今年我带了一个非常让我头疼的师弟，他就像是地上的石头，你推他一下他动一下，不管说什么都没有回应。对要做的课题没有丝毫的好奇心，等着我像高中的老师一样把实验的知识点全都灌给他。而且就算我事无巨细的教了，不管听没听懂，没有疑问，没有反馈。结果当然也是他什么都做不好。这让我不禁讶异，这是真的要来做科研的人吗。
+我同学有三种人，一种不间断学业读上来的，一种工作几年辞职来读的，还一种是在职读的。三种人你去观察他们的思维习惯、处事方式、经济条件，就会发现他们的选择、决定和判断是有着因物质基础所限的根本性原因的。我作为其中一种，很明显能感受到与其他两者的思维不同，所谓“代沟”，但我也能理解这种现象产生的原因，所以我一般为了省心，非必要不去交流。同时，也深刻感受到了道不同和志同道合的差异。
+学生思维给我的感觉就是单线思维，往窄了说是一根筋，但往宽了说就是抓主要矛盾。虽然对以后步入社会不利，但对于做学生来说还是一种很有效的思维方式的。毕竟作为一个普通学生，能知道自己长处在哪，应该朝哪个方向全力以赴，以点带面，盘活全局，就已经很不错了。我个人是比较能接受学生思维的，这让我的学习生活更放松，能静下心来学点东西，深入我所想要深入学习的学术领域，尽可能摒弃外界因素的干扰。当然，辩证思维指导我，在该用社交的时候还是需要将其拿起来的，我在面对非学习能解决的问题时，也会用其他方式来解决问题，比如说选学校、选导师的时候。至少在我踏入工作以前，我认为我依然会以学生思维为主，之后逐步转换思维方式吧。
+给up投两个币，一个为up信守诺言，一个为这期视频的内容
+up在这期视频中提到的学生思维的具体表现，就如同三道枷锁一般
+第一道枷锁:寻求标准答案（实际上世上很多事没有标准答案，只有适合你的方法）
+   通过自己近期的高强度学习感觉自己已经摆脱了这层枷锁。举个例子，各种考试都有经验贴，但不能照搬，照搬就属于偷懒。而应该像up说的那样先参考这些经验贴，然后自己实践，接着在实践过程中不断修正，最终形成属于自己的方法。这没有捷径可走
+第二道枷锁:低估事物的客观复杂性
+up在视频中具了一个反例，大意是说学生思维会使你把劲全都用到一个角度。我认为造成这种现象的原因是你会扬长避短，有时又会畏难，导致对自己的短板干脆不管不顾。
+第三道枷锁，缺乏其他的利益相关方立场上来思考问题的能力
+我感觉想站在别人的角度思考问题难度不小。原因有二:
+1.俗话说当局者迷旁观者清，当你置身事内，尤其是利益受损者，往往很难站在对方的角度看问题；
+2.现在流行这么一个词语交“思维反刍”，有些时候过度思考反而会对当事人造成二次伤害。
+我个人认为可以通过一些方法慢慢调节:多看书，勇敢的多经历些事（见得多了，也许就能慢慢克服上述的精神内耗）；之后再对书中的人物事件、亲身经历的人物事件进行思考。
+打破学生思维：1.对于完成一项具体工作，不要寻求标准答案，而是PDCA：收集信息-筛选方法-实践验证效果-根据反馈做出调整；2.不用低估客观情况的复杂性，事情的原因有很多（核心自变量+多个控制变量+交互项...）举例：拉来经费+请客送礼+科研成果，方法：把自己能想到的做到最好，把能提供帮助的资源极致运用，剩下交给时间；3.站在利益相关方立场上来思考问题。 ', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 382);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('考一个研究生的做题时间（保底3000h）什么概念呢，足够让你学会一个可以谋生的专业技能，钢琴6级 学会吉他 书法 钢琴 跳舞 足球 网球 ，完全学会德语46级，西班牙语等等
+研究生性价比', '考研真的值得吗', '学业', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:34', 5, 0, NULL, NULL, 'active', NULL, 383);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('国人在外不要轻易相信别人，财不外露！（ps：在哪也不能露，人心隔肚皮，除了父母至亲谁都不能信）', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 384);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('读书目的 学习的意义
+价值观才是读书的目的，知识不是
+', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 385);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('成体系的学习，思考
+不断的复盘与整理
+减小碎片化时间
+是当今社会最稀缺的
+', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 386);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('我慢慢明白了为什么我不快乐，因为我总是期待一个结果。
+看一本书期待它让我变得深刻，吃饭游泳期待它让我一斤斤瘦下来，发一条短信期待它被回复，对别人好期待被回待以好，写一个故事说一个心情期待被关注被安慰，参加一个活动期待换来充实丰富的经历。这些预设的期待如果实现了，长舒一口气，如果没有实现呢，自怨自艾。
+可是小时候也是同一个我，用一个下午的时间看蚂蚁搬家，等石头开花，小时候不期待结果，小时候哭笑都不打折。
+--《允许自己虚度时光》
+"功利主义总是让我们忘了其实生命的本质是一场历程 …"', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 387);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('尹正 人生总结
+这半年时间我总结出了自己的5条经验：
+1、在生意场上，大家表面上客客气气、恭恭敬敬，其实有一套内在的利益机制在掌握着人的各种行为。有些事只可做而不可说，有些事只可说而不可做，要想看透每个人的行为，必须用“利益分析法”。每遇到一件事，要迅速切割成不同的利益方，用每个人的切身利益推导每个人的行为，千万不要被表面的各种仁义道德所迷惑。
+2、要想往上爬，最厉害的本领不是你能力有多强，而是懂得如何牺牲小收益获取大价值，懂得舍小而取大。这是做人的大道，原胜过做事的技巧。所以“做人”往往比做事更讨巧。
+3、强者制定规则，弱者追求公平。但规则往往只用来约束弱者，而公平也只相对存在，就像下棋，和大哥下棋，象能不能过河取决于他。和小弟下棋，卒能不能后退，取决于你。
+4、任何时候不要掏心掏肺，因为吃肉的时候总是一桌人，洗碗的时候却是一个人。大部分的人，吃肉的时候夸肉香，洗碗的时候嫌碗脏。
+5、做什么事，不能天天想着结果，这是大忌 望梅止渴是用在冲刺阶段的，而不是一路寄托这个幻想，靠这个虚无缥缈的东西撑下去。不然，走着走着就走不动了。定个阶段性目标，一步一个脚印，踏踏实实的。', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 388);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('跟着群众跳火坑
+        最近我听到一种说法，就是群众看我们党和党的干部，不看历史看现实，不看说的看做的，不看政绩看“败笔"，不看上面看基层。这虽然不很全面，但从一个侧面反映出基层干部在群众心目中的分量，反映出基层干部队伍建设在整个党的建设中的分量。党的正确的方针政策只有被群众理解、为群众接受，才能变成改造客观世界的物质力量。我们的方针再正确，如果不被群众理解，也难以贯彻施行。如果群众不听，你就先跟着群众走，群众跳火坑，你也跟着跳下去。群众觉悟了，从火坑里爬出来，最终还是要跟你走。群众跳，你不跳，干群关系就疏远了。你一起跳，感情上拉近了，工作就好做了。新形势下群众工作的特点是什么?一个重要特点是，群众的民主意识、自我维权意识增强了。
+        对此，我们要讲两句话:第一句话，干部要相信和依靠群众，但又不能做群众的尾巴;第二句话，干部要教育和引导群众，但千万不能站到群众的对立面。
+        [摘自2005年1月13日《人民日报》“声音”专栏', '', '个人提升, 网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 389);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('you can never be ready
+你永远都准备不好
+ 你去问高三孩子准备高考准备好了吗，他会说你再给我一年
+ 你在给他十年都不一定能准备好
+ 人永远不会准备好直到被推上去', '', '生活, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 390);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('保持好奇，把时间和精力留给自己，全方位提升个人能力，包括业余爱好和专业技能。保持谦逊，尊重他人的选择，因为我们不知道未来的自己喜欢什么。保持勇敢，告诉自己明天的我可以做到，个人持续的增长让一切皆有可能。', '2023.11.28_morning', '个人提升', '', '2026-04-29 18:07:42', '2026-04-29 17:54:44', 10, '2026-04-29 17:54:12', 1, 0, NULL, NULL, 'active', NULL, 391);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【人生经验】一定要有方法论+举例
+有家庭之后，就没那么自由，就是负担，就是妥协，就是在主要矛盾和次要矛盾之间抉择
+人只在乎自己没得到的
+得到的都觉得无所谓', '', '个人提升, 生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 392);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【hyc租房甲醛案】哪怕官司你必赢，也会被一审+二审+上诉，拖得你不放，逼着你付出极高的维权成本', '', '生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 393);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('农村的娃 放假没事干就写作业 没有那么多娱乐的方式，都是写数学背英语啥的，你不可能比得过人家', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 394);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('千万千万不要，临阵换将
+美国大选，就算你不好你也坚持着啃下去', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 395);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('消费者趋于专业化和理性化，会影响品牌的更迭', '', '项目与产品', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 396);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('什么钱最好收割
+标签的钱最好收割
+星巴克的咖啡，迪卡侬户外运动服装，等等', '', '项目与产品, 网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 397);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('自证考验心理素质
+没有错就不要怕，不要胆小怕惹事
+有事就硬刚
+别人质问你的时候
+用居高临下的语气质问回他，回呛他', '', '网络, 交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 398);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要有谈判技巧，特别是沟通的时候（主要讲究竞争压价，等等）', '', '工作, 网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 399);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要和好朋友，兄弟，亲人做生意
+一定会因为分钱的问题闹掰
+关系好，所以要给多还是给少呢？
+给多了，还不如让三方做
+给少了，关系那么好给那么少
+类似这种，都是坑自己人的，真要是个外人，他反而不会去坑了。
+都是觉得自己人，有亲情在里面，给少点他也不会说什么，真有活了，他还能不给我怎么滴。
+最后真要有活不给他了，他就开始在家人群里胡说八道起来了，“有钱让外人挣，不给自家人”之类的就开始道德绑架起来了。', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 400);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('破窗效应：如果违法不究，就是在包容违法', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 401);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('既讨厌爹味说教，又有所谓“厌蠢症”
+都给你们唐完了，好话坏话全给说了', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 402);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('规定永远就是拦住那些普通人的
+要是你畏惧了，就成不了事', '', '个人提升, 网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 403);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('转述事实时不要带观点，要客观实在', '来源：班委 四六级拿成绩单 发现没有，第一件事是揣测别人拿走了，却没有想到可能是没人考试（就没有成绩单）', '工作, 交往', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:31:29', 4, 0, NULL, NULL, 'active', NULL, 404);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('做不到就别答应 给了希望又失望 讨厌至极 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 405);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('人都是喜新厌旧的', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 406);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('现在不喜欢对线的原因是主要是很容易变成无效交流
+1.你摆事实讲道理，最后对面一句“撇开事实不谈，难道他就没有错吗？”
+2.你对线前要无限叠甲，但凡少一层甲对面就要抓这一点钻牛角尖，辩到最后完全偏题，根本不在原来讨论的话题上。 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 407);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('干工程的，完全没有上下班时间
+全天上班and全天下班', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 408);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('大家都在跟更高层次的人交往，都企图在对方里面获取利益
+大家都在增加自己的谈资', '', '交往, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 409);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('大家都只跟相同年龄，有共同话题的人聊
+同一个主题的人（女生和女生聊 保险的和保险的聊）', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 17:55:00', 1, 0, NULL, NULL, 'active', NULL, 410);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('同行一定会有共同话题，一般都是业务上的交流
+当然也会有架构的聊天
+要学习各行各业，熟悉和不同行业的人深度交流
+学习沟通能力，全行业基础知识', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 411);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('自信大方的演讲最重要，有条不紊，不要讲话太虚
+缺点不要讲，但是画饼要画的够大', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 412);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('有数据，对比
+老师只想听自己想听的
+不要ppt模板，老师会看腻的
+什么是自己的技术
+有性能分析
+技术方面，老师都知道，不要讲废话
+讲自己的成果，而不是文档介绍的部分
+寻找技术点和难点，只讲技术点难点
+老师的科研目标，自己更加熟悉。所以不用太多技术相关
+着重讲成果就好
+成果要求【不使用开源】or【前沿科技成果】or【工程量巨大】or【没有参考】
+老师的小idea
+大数据讲了三个（数据图像处理，二维码xx）
+功能实用的最好，老师最喜欢
+纯没用的，不要做
+很多老师，不参与开发，但是xx框架啊什么的，都见的多了。
+突出自己的
+只是少了很多前沿的
+不一定什么都为了赚钱
+但一定要有价值', '', '项目与产品, 工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 413);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('能看合同，就不要听口头承诺', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 414);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要因为别人的成功而否认自己
+赌博还有中一百万的时候呢', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 415);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不仅要判断立场，还要考虑对错，不要把自己带入
+有可能大家的立场一致（结果一样）但是过程完全不一样', '', '交往, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 416);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要出现归因错误
+就像在性别立场上，我和maga一样，不代表我就是maga
+学会分辨谁是朋友谁是敌人', '', '个人提升, 网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 417);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('工程实践告诉我们，要先造假在变真', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 418);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('直接问别人可能会撒谎，但是别人的同学可能会说真话', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 419);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要轻易把手机给别人操作
+不要相信别人的录音录像，只相信自己的（别人录音录像是为了维护自己的利益，你自己录音录像也要维护自己的）', '', '个人提升, 其他', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 420);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('按手印的合同一定要谨慎，最好有专人陪着你在干什么（因为你自己可能不知道你在干什么）', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 421);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('大众利益才能有共识
+不要强行为了小众，你的利益是没有人保护的', '', '个人提升, 网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 422);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要有左耳进右耳出的能力
+这是抗压能力
+不然什么话你都听进去了，给你压力，哪天你就跳楼了', '', '工作, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 423);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('人生不是一个一个阶段的，吃完这苦后面就能享福了。
+而是一直吃苦的', '', '个人提升, 人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 424);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('工作后怎么扩展交际圈
+（当时的不懂 现在的后悔）
+趁学生身份如何多认识人，拓宽交际圈呢？
+要有好朋友首先要有认识的人', '', '交往, 工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 425);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('怎么解决“大家只活在自己的圈子里”信息茧房
+只和自己喜欢的人在一起', '', '交往, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 426);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('工程化的东西难而且费时间
+思维和方法反而简单', '', '工作, 项目与产品', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 427);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('父母，爱人，孩子，他们不需要你有多坚强，但需要你足够真实
+健康的亲密关系是建立在相互理解，支持和尊重上的
+当你在家人前伪装自己的时候', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 428);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('很多话，没有错但是没有用。废话永远对
+没有建设性
+比如人都会死
+人都要呼吸
+
+正如流浪地球“悲观者永远正确，而乐观者永远有利”', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 429);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('止痛药，不要乱吃
+只会让你忽略严重病症，加重或者拖延病情。但是应急用，没问题', '', '其他', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 430);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('如果一个问题的多个答案都是对的，那这个问题就有问题
+同理一个体系内谁都没错，说明这个体系错了（一个体系 问题无解，说明问题有问题）', '', '工作, 其他', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 431);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('完美主义会深受破窗效应折磨', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 432);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('旅行悖论：
+旅行到底是消除不确定性好呢，还是创造不确定性好呢
+其实是辩证统一，旅行里的惊喜很多都是不确定性带来的
+但是风险，和事故也是不确定性造成的
+一个人旅行，赶车的焦虑
+一个人旅行，吃饭都是问题（你想吃的想点的有很多，但是你吃不了那么多）', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 433);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('我来说下为什么山上就我一个人会害怕想哭。因为我之前有徒步迷路的经历，经常徒步的同学会知道，手机没信号跟着徒步路线会有延迟，当你意识到偏离轨迹的时候可能已经走远很多了，再想返回，山        路基本是没有“路”，找到原轨迹很难。所以在陌生的山上体力透支，手机无服务我是很害怕的。', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 434);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('人的认知一定会有认可-怀疑-在认可的周期里', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 435);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('家境很不错的人可以选择那些自己想做的事情，而不是“挣钱”的事情', '', '人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 436);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('很多人都是中年失意后，失去了一切
+父母去世，老婆跑路，事业危机', '', '人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 437);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('番禺和黄埔都不认自己是广州人，而是番禺人', '', '网络, 生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 438);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('小作坊下料就是狠（小医院 小餐馆一般用药量都很大 用调料都很重）', '', '网络, 生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 439);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('“回老家也是干活”大家的心理预期就是，没有想着回老家享受oe怎么的，就是看看父母+打扫卫生
+杨鑫回来就捡药什么的，打扫卫生，帮忙看看店', '', '生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 440);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('看清楚本质：
+公司秘书（助理）的核心技术其实就是：人脉+老板沟通+司机。离开公司就没有什么竞争力，但是受老板青睐的话工资很高', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 441);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('回一趟老家，要能掌握跟全年龄段不同性别的人的交流', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 442);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('大家都有抖音，b站，小红书。优质的搜索引擎缩小了大家的差距，缩小了经验带来的优越感', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 443);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要有自己的判断能力
+不要因为（别人做了）自己跟风', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 444);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【项目答辩】不要告诉一个概念，要让大家悟出一个概念（知识讲解时很有用）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 445);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('演讲学习：要吐字清晰，有问有答，懂得圆场。要有肢体动作，不要走来走去，声音要稳（不要太紧张）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 446);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要让观众目不暇接，一直盯着ppt（小技巧），准备gif，边说边播视频', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 447);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('手可以活泼一点，不用背着或者收着（小动作很影响观感）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 448);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('视频可以带解说。走来走去最好，可以很有激情（有特点）最怕没激情', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 449);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('当他人习惯了索取，别忘了给予本身的意义', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 450);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('重要的事情（和老师，大佬的对话，记录下来）', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 451);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('有条不紊讲清楚
+台风很重要
+要自信，就是要直接看人眼，不要看下面', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 452);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('你看不起的，终有一天会变成你所仰望的', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 453);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要有自信，不要怯场
+看似神仙打架，其实大家都怕', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 454);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('注意口腔健康能避免很多，溃疡和疾病', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 455);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('关于线上讲解
+ppt不要太多动画
+讲解要有吸引力
+开头：问一下 我的声音和ppt的画面没有问题吧，如果声音小或者太大了可以提醒我一下
+说一下我学到了什么
+然后说一下我做了什么样的工作', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 456);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('大家好，我们是第七组的同学，就让我们进行一个代码的讲解
+首先我们最想解决的问题就是，我们拿到一组数据，怎么样进行一个分析，然后可视化
+（把握好讲解台风，不要快了或者慢了，要有慢又快）
+讲到最后（特别是技术性内容）不要结束谢谢大家，而是‘代码讲解，“接下来我们要做的就是几件事情：xxx，xxxx”', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 457);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('话一定要讲完不然会很难受', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 458);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('作品复用性
+竞争难度
+创新性和技术栈（非简单的时间和认真）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 459);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('做东西一定要从简到难，不要一下子搞到很难的东西', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 460);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('讲解时，一定要针对完全不懂的人听（做好这个准备） 然后准备相关知识，然后讲每一个专业概念
+所有篇幅很长的东西动能概括为一页纸（一句话，说人话）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 461);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('感想：关于演讲 开始前播放视频（相关视频，最好是大家都感兴趣的，然后可以以这个起头，选材新闻什么的最好） 通用问题就是讲的人很投入，但是没人听，大家都听不懂 讲的要么太专业，要么太通俗（大家都知道，没有新意）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 462);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('答辩ppt提醒：
+不要写聆听（感谢聆听哒咩）
+字要少，字少大于二十，图要多
+研究背景，目的一句话带过
+分析和结论为主
+不要动画，要有ppt页码
+一定要放的开，多互动，', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 463);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【演讲的艺术】
+来自高中课本语文必修一
+1.要有自己的观点，看法，以理服人。
+首先考虑主题和材料，主题要鲜明独特，启发性鼓动性。
+话题新鲜，材料充分，不能人云亦云，老生常谈，
+2.动之以情，一般主题和内容参杂着人生感悟和强烈的情感，而不是“故作深沉，强作豪放，无病呻吟”，会令人生厌
+3.注意口头语言和表情动作，有一套演讲风格，通俗易懂，少用长句，语音语调，节奏变化
+4，开头结尾：开头拉进距离（如提问，从大家熟知的东西开始讲起，调动气氛），中间注意条理，结尾可以简介鼓动性，也可以自然抒情，留有余味', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 464);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【答辩技巧】
+1.留下战术漏洞：比如一个最重要的问题但很容易被忽视，要提前准备好
+（诱导提问）
+故意把某个问题不讲清楚，引诱老师提问
+老师提问是最不可控的环节，五分看学术造诣，五分看表演能力，最后90分看运气
+肯定会问道：意义是什么
+创新点，应用前景
+不知道老师在问啥：
+“感谢老师的提问，您讲的是xxx，可以更详细地说一下”
+关于这个问题我的想法是这样的
+希望各位老师批评指正', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 465);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【课堂礼仪】
+不说话是对老师的基本尊重
+积极回答问题，哪怕看着老师点头也好
+课堂素质和礼仪
+一些不雅的行为，不要做
+1.在课堂上拍照录音，等
+老师好与谢谢老师
+文章笔记', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 466);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('记住关键词自己组织语言而非不自然的背稿', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 467);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('ppt与文字稿不要一样（不念稿），有文字稿但不全相同
+阐述问题全面，
+展示时娓娓道来，注意衔接，（不要然后然后然后），注意用词恰当，通俗，精确
+发声有力时有力，重点时重点
+要有个概述
+可以短小精悍，不要冗长
+多数情况下可以以一篇文章到几篇文章为基础进行阐述扩展', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 468);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('向观众提问，互动
+看着观众
+确认麦克风声音大小
+  10.关键词在ppt上，不要脱离ppt，有时候适当看ppt，即可以提醒自己，也提醒观众看ppt
+  11.不要偏题！不要扯别的，不要生硬，要有自己的逻辑，逻辑线清晰
+长度要恰到好处，点到为止
+忘词断片，要带稿子', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 469);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('项目不要搞得太大，一会“xx平台”，一会“xx系统”，实际上哪有这么厉害，核心其实就是一个东西，要精细到某一个方面，不要“大”，而要“细”', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 470);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('特别是大学生项目，应该专注于一个东西', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 471);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不建议使用之前项目孵化的成果 比如同一个课题组（学长学姐的东西）的成果，要关注！！自己的成果！！', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 472);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要把实验室和以往的作品累计到自己的头上，要注重自己的累进创新成果（自己的工作、完成工作的时间线等）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 473);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('经验分析
+灵活随机应变
+答辩的时候，不管什么答辩都要把评委当做啥比傻瓜对待，因为评委的领域大概率和你不一样（少部分专业性描述除外哈！）
+当前现状和同行业的比较（评委不一定是这一个方面的专家）
+需求分析：大部分人都是做数据采集-数据处理-ai分析等
+分清楚自己做产品是To B 还是To C
+多听项目展示多答辩咯，积累自己经验得话
+你们的核心是硬件设计还是软件设计？
+“我不是技术方面的负责人吗，我是商业部分的”
+一定要把时间把控好！！这个非常非常重要哈哈哈！', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 474);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('介绍内容
+相关成果：IEEE论文一篇、专利和软著多个
+参加竞赛：聚龙杯三等奖（没了？）
+成员分工：
+经费使用
+答辩内容', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 475);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('人生就像一场旅行
+重要的不是目的地，
+而是沿途的风景
+还有看风景的心情
+让心情去旅行', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 476);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('什么时候可以做到遇事待人波澜不惊的稳定情绪', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 477);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('高保真模型
+低保真模型', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 478);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('ai+万物，自己使用ai的同时考虑自己被ai代替的可能性
+5G 终端链接是1个每平方米（4G连接数有限，超过限制就不可服务）
+而6G是10个每平方米', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 479);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('论文结构
+题目
+20字以内
+如果有副题目，是对主题目的补充
+摘要
+是简短描述，在200字左右（5-10%文章字数）
+四要素：研究目的+方法+结果+结论
+要求：自洽，是一个结构完整的短文
+关键词
+从论文中选取 3~5个
+不能用常识性，普遍性的词，不是短语
+正文
+论点陈述
+证据铺列
+论证展开
+图表
+图序和名字早图下方
+表序和名字在表上方，注明来源
+参考文献', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 480);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【救急不救穷 理论】
+不要把别人临时的牺牲（临时的感动）当成理所当然
+比如xx帮你洗碗，送你礼物，帮你做事，不代表他有义务一直帮你，而是出于好心
+有一个说法就是救急不救穷，不要把别人的付出当成理所当然的
+同理可以套用到，社会的扶贫、发达国家的高福利', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 481);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('辩证逻辑
+否定时，要给出具体可执行的方法论（不然你就只在内心里否定，只会增加大家的负面情绪）
+认识世界和人，总是需要灰度和客观（而不是非黑即白）
+信息会浇灭欲望
+太多注意力都在别人身上，而没有有效推动自己关心的事情
+看太多，吸收太多信息，给你“我已经了解这个世界，xx也就那样，旅游也就那样，考研也就那样”，人是感受型的，不经历那些苦苦痛痛而得来的东西，会感觉没那么有意义
+千万不要失去对世界的好奇心（会变得油腻：“xx美食也就那样”，“谈恋爱也就是早安午安晚安吃饭睡觉”“买东西就是消费主义陷阱”，游戏就是“玩物丧志”）。去魅最好的方式是亲自去看看，拿到结果，所谓“学生会都是xx”是拿到的人才有资格说是“草台班子”，让你不要盲信，而不是啥都不信（自欺欺人）。
+从政思路：以前的我嗤之以鼻，现在的我逐帧学习
+【马科长】
+为了保全大局，通常会牺牲小人物
+能用数据说话最好（提升了，在xx标准不变的情况下）不能用数据说话，也要拖，吹，宣传
+有时候装傻反而是个妙招，打圆场糊弄过去要看情况
+有矛盾就要尽早解决，而不是尽可能延期憋着
+一开始就约法三章的重要性
+不要贪，贪非善举
+能成功的人都是能忍住巨大的打击的
+没有谁能一帆风顺', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 482);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('表面功夫
+大部分人都只看表面，没空了解内情，所以表面功夫在人际交往、工作中的重要性
+要展示给别人，体积越大越好。亲密的人要按需给。
+送礼，大张旗鼓的给，当着面给红红包
+', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 483);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('审讯/和别人谈话的时候无从谈起，所以要经常性的做总结和复盘（从很复杂的事情中 找到切入点等等）比如找实习的事情', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 484);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('所有事情应该在问题刚出现时就解决的，拖下去会出现“解决问题本身就是个大问题”的问题', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 485);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要做见不得人的事情，要做好暴露在聚光灯和摄像机下的准备', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 486);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('你所追求的，努力的过程可能才是意义。你所追求的，努力的过程可能才是意义。', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 487);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('做好随时被人录音录视频的准备（焦点判定），不要做不恰当的事和不合理的话比如画饼（防止被抓把柄） ', '', '工作, 交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 488);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('同时有好多个朋友，自己要当最热情最积极的那个！不要被比下去哈哈哈 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 489);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('以前我很不喜欢java课，觉得上java没有前途以后也不想学习java
+一年后这个小伙终将被命运的长柄斧的回旋镖所击中眉心
+学习不要给自己设限，能广学多学是最好的 
+面试主打一个“骗”
+我已经有耀眼的成果，现在就编一下自己耀眼的过程就好了 ', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 490);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('21-26岁，是被困在考研考编里的5年，最后又出来找工作的经历（只要内心足够强大）', '', '人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 491);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('算法就容易眼高手低，一看就会一做就废 ', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 492);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('人生观/爱情观/三观
+2024-04-14
+永远都没有爱情只有利益
+健康永远是最重要的，不要看着那些成功人士。大部分的普通人才是你追求的 
+默认女生都是拜金主义
+不要跟精致的利己主义者结婚
+因为恋爱本身就是不利己的
+婚姻本质上是为了更幸福的生活，是两个人共同努力的结果。向对方提出无理的要求本质上就是精致利己主义，时代的浪潮会把某些人推上浪峰，也会在下一刻把她们埋入浪底。
+毕竟对面岛国已经有过一轮循环了，答案放在那都不抄，必然是为了自己的利益。 
+不要唯成功者论，失败应该有更大的包容而不是失败者不可以说话只能跪下闭嘴
+如果一个人在他的领域一直都是赢家，要么就是他作弊了，要么就是这个领域竞争太不激烈', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 493);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('人际备忘录
+李文约一次次扎我~少于她联系吧
+对朋友可以慷慨一点，积累友人缘（作为reward 不要跟小气的人 心胸狭窄的人做朋友）
+【朋友交往指南】
+不生不熟
+路过某地一定要打个招呼，问候一下
+多认识一些朋友，稳固一些关系，', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 494);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('备忘录
+我希望的桌椅高度
+屁股离地40+ 比较舒适（40-50）
+桌子离地75-80
+电脑离桌子高50-60左右（屏幕顶部离桌子） 
+大型火车站汽车站都在入口只设立非常少的座位（防止长期停留） 
+不要相信别人的事情处理能力/记性/算数能力（除了高校大学生 年轻人）
+一定要自己验算一下
+上了50岁之后就是人傻钱多（有钱但不知道怎么花了）
+所以～及时行乐吧
+肺结节（新冠后很多人都有）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 495);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('工作与实习【职场】
+下一份工作永远是更好的，永远不要停止找工作！！ 
+实习生和应届毕业生是一起招聘的，所以没有学历不吃香 
+不要因为珍惜/看重某个东西而刻意的妥协某些条件：
+比如入职心仪的公司，也要谈好价格/实习期/竞业协议等 
+职场里不要张扬（不要接自己干不了的事情，容易背锅）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 496);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('目前来说
+制造业风评差，利润低，待遇差，
+互联网企业才是未来。。 ', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 497);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('保持一个良好的态度，不要太紧张也不要太摆烂
+你还会有很多机会，现在只是为了提升你自己所必须要的练习而已
+全栈的前提不是你啥都会，而是你精通一样的基础上啥都会。 ', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 498);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('怎么做计划
+前言
+人会高估一天/三天的设想，低估1个月/一年的设想
+最佳实践：不断调整，不断优化/调整为最优解
+定好一个短期+长期计划（不要细化到每一天），比如定好今天、未来一周、未来一个月、一年、三年的计划
+过完当天，或1/2的执行周期，可以对计划进行调整（今天和最近一个周期的计划不能变）
+比如周期为【1、7、30、365天】，当天晚上计划下一天，4天后可以计划下周7天（调整计划），15天后可以调整下30天计划（调整），180天后可以调整明年计划
+不断复盘计划的完成情况，调整计划的内容', '', '人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 499);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('接受差距
+背景&关键词：
+不公平
+教育不公平，录取分数线，地区差异
+现象：
+“我是没考好才跟你们做同学的”，很纯的学生思维，我们在竞争中学会了保持愤怒，保持敌对，却忘了保持友善；创造了很多假想敌，把分数超过称之为“战胜、碾压、拿下、甩开”为了保持你的兴奋度，学校当然要添油加醋，小题大做。我我们如履薄冰，我们战战兢兢。这没错这有用
+但是对别人而言高考只是“三天日子而已”，对别人的人生其实没什么影响，我们慷慨激昂，自以为是、怨天尤人的愤怒
+不要再用敌对的眼光看别人', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 500);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('安全相关的事情，一定要有双保险（人为+物体保险） ', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 501);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不能贪便宜的东西：容易生锈，发霉的，吃进去喝进去，贴身接触的，长期用的', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 502);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('对自己的投资只有两种：钱和时间
+两者不可兼得，有时候两个都没有
+敢于投资用于投资，敢于相信自己是优质标的，最好的投资就是投资自己，教育自己，学英语？', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 503);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('同时格局要大，记录过程性结果的同时也要有结果（只看xx证书，格局太小）', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 504);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('你的20多岁30多岁，不在重来
+收入一辈子是有限的，你要怎么分配', '', '人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 505);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 506);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要太要面子，该要钱就要钱（为了让自己效益最大化）', '', '生活', '家', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 507);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('能个人完成，就不要团队
+团队的收益太低了（评分标准 评奖机制）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 508);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要有下意识（刻意不要有下意识）开车和骑车时，如果掉东西不要去捡，关注你的正事', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 509);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('化妆固然好
+但卸妆是真的麻烦 。。。
+还是少化吧 ', '', '生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 510);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('父母在，人生尚有来处', '', '生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 511);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('对别人向你打听隐私，比如你家是干什么的有没有男朋友结没结婚之类的，含含糊糊过去就行了，他们只是享受探听你隐私的过程，像打一个鸡蛋那样的快感，真的假的他们也搞不清楚，年轻的小女生脸皮薄也不好意思说慌，别人问什么就说什么了，笑眯眯的编点瞎话糊弄过去就行了，又不是一辈子在一起过日子了，别太老实 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 512);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('渡有心人，送给年轻人！
+ 1对于喝酒，普通人没啥可学的，你就记住，喝酒误事，出意外，底层老实人没啥任何抵御意外风险的能力，你有哪喝酒还有个助理看着的条件吗？还有人开车接送。你还学人家喝酒，但这社会风气就这样，说个底层自我保护小技巧，能不喝最好不喝酒，无奈醉酒，千万别胡晃荡乱走爬高，找个无人打扰的低矮床铺去醒酒，千万别在人嘈杂的地方呆着或休息，很容易出事。关键时刻，可防意外发生。
+2健身体成习惯，心平静，量力而行，场地光线充足安全无障碍。
+3未老先残，未老先病，未来将一片惨淡，安全牢记在心，时刻做好预防。不干有害健康或长期劳损的工作（久蹲，背扛，有害生化，辐射），给身体留有喘气修复的时间，靠自己清醒的头脑、健全的四肢及充实的肠胃活到老，才是最可靠的活法。
+4穷是不是原罪不知道，但不少聪明而上进的青年，因为穷，比普通人更急于改变、更急于证明自己、更试图走捷径，做出了耽误自己甚至毁掉自己才华的选择，人嘛，不急于求成，人世间的事情重轻急缓一定要分清看清，一步一个脚印，好事多磨。不要被差距冲昏头脑，好的方法思路，我们要吸收活用，不好的，要警惕发生在自己身上。
+5终生要思考追求的话题:这个世界的真实面貌是什么样的，事实是什么；生存能力中判断力高于一切，只有真实客观的判断才能做出正确的选择。
+6健康远比其他一切福祉更为重要，正所谓一个健康的乞丐比体弱多病的国王更快乐，健全的体格，开朗的性情，清晰、活跃、深刻且正确的理解力，温柔敦厚的意志，以及相应而生的良知，这些优势都是任何身份与财富无法弥补和取代的。
+一个人的自身，是他在独处时外人无法给予或剥夺的存在，显然比他拥有的财产或外人对他的评价更为重要。
+7把健康比作1,一个人的事业、财富、金钱、地位、家庭等等，都是尾随在其后的0，有了1，后面的0才有意义，没有了健康这个1做支撑，即使他有数不尽的0，那终究还只是个0，健康不是一切，但没有健康就没有一切。
+推荐叔本华的《人生的智慧》，梁应林《人生意外800鉴》，杨渝平《运动损伤那些事》', '', '交往, 生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 513);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('从i变e其实很简单，你只要每天高强度社交，社交7天你就会很e，不会很腼腆', '', '交往, 生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 514);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('很多人都想跳出舒适圈（人大部分时候都是在自己的confort zone）而考研和学习就是最大的跳出舒适圈（ps：尝试干自己不擅长的事情） ', '', '个人提升, 人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 515);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('人脉是要你能为对方提供对等价值的，否则只能叫认识人', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 516);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('放弃太容易 坚持不容易', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 517);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('尊重差异', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 518);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('什么能力重要？
+为什么要参加竞赛？
+你干过什么
+你是什么岗位？做的内容是什么？
+最大的问题和挑战？
+怎么解决的？
+解决完增强了什么能力？有什么反思？提升
+把他讲成一个故事【讲故事】
+有时候技术壁垒没那么高，很多东西就算硬背也行，产品其实没那么优秀，但是区别在于讲故事的能力，可能技术没那么优秀
+硬实力和软实力都很重要【】', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 519);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('阶层跨越有多困难
+在城市里挣扎求生的打工人
+sjh的顶级节俭（0510）
+在最繁华的岗顶下面就是最落魄的打工人们（石牌村）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 520);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('找到公司的平均水平，来判断你是不是进对了（如果全是laj那你也laj）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 521);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('有时间多了解架构和底层T ', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 522);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('科班和非科班 差的是自信！（非科班对自己会很不自信）嘉为有很多 双非 非科班的人 ', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 523);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('能玩在一起的
+学习差不多 家境差不多 性格差不多
+不要玩什么心眼，长期是不行的（坦坦荡荡，真诚，）', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 524);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不读书还是很不稳定的，送外卖，又出国，又读大专，开档口做生意，又工厂里上班，做腊味店
+上班后又“不想干了 不去了”', '', '人生规划, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 525);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('大部分人都是辛苦钱，没有那么多人愿意吃苦 ', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 526);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('有时候旅行需要的是一双发现美的眼睛，有很多人旅游就是来打卡，体验一下网红打卡。但我觉得最重要的是人要沉浸其中（也许是去的地方太多了）去体验这边的风景。旅游本来就是一件放松的事情
+这也是为什么有些地方就只有一个网红拍照打卡地，而有些地方是沉浸式的带给你体验', '', '生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 527);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('37%法则，适用于被推销，旅游看到好东西买不买，恋爱找对象，找实习接收offer确定公司（人很难一次就选好好的，如果是有运气成分在，xxx（记录在文档里！！）', '', '个人提升, 网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 528);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('去俄罗斯游玩的行程安排（我们因为很多行程没有额外交钱，反而看到了很多奇妙的风景 和 逛了大商超）', '', '个人提升, 生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 529);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('好像陷入了总是因为一点点小事没做好就会不断自责的循环里
+', '', '生活, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 17:05:17', 1, 0, NULL, NULL, 'active', NULL, 530);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('接受采访和提问的时候要尽量严谨的思考，不要被带偏（陷入提问者预设的回答里）', '', '生活, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 531);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('你勉强别人做的事情，在你爆雷之后你的荣誉就会被反噬（请求和领导别人做事情，要考虑后果）', '', '生活, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 532);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('送人的礼物，不应该是空而泛泛的，而是很有针对性的（不在于贵，要能体现自己对对方的了解，一个是对方喜欢的东西，一个是对方缺的东西），双向奔赴就是最好的礼物', '', '生活, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 533);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('最愉快的状态（持续最久的状态）就是恋人未满', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 534);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要全面发展，不要一方面过于优秀导致另一方面被解释为“被xx耽误了，太忙”', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 535);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('坦诚，真诚就是必杀技
+坦诚分享自己的方方面面
+但能不能走到最后，一般都会考虑经济因素', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 536);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('都是供需平衡
+一起做手工可以培养亲密感
+富二代在相亲市场是烫手山芋', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 537);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('互相“添麻烦”你来我往，人和人之间才能有链接', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 17:42:10', 1, 0, NULL, NULL, 'active', NULL, 538);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('营业笑容hh
+当拍照 摆拍 变美，变成你在营业，变成你的业务，当靠脸吃饭，一切都会不太一样
+不过表演型人格还是有用的，至少一个人不会太死板？（多变）', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 539);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('别人很讨厌上位者的感觉（but why？不服管） ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 540);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('大学是唯一不背负任何kpi的时期，最轻松快乐 ', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 541);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('很多妹子打扮的很漂亮但实际家里很穷 ', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 542);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('对很久没见的亲人朋友还有陌生人一定要有警惕心，反之同理（要给予对面空间）', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 543);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('那些教课的老师可能还没你强，不要报什么所谓课程
+目前来说还是文档最有用 ', '', '学业, 网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 544);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('代码思维最重要', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 545);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('努力提升自己能力，学历其次', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 546);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('whats done is done 木已成舟，往前看吧
+悟己往之不谏，知来者之可追 ', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 547);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('其实开会，或者多个人在一起讨论并不能有效的解决问题
+只能是各方利益的陈述，各方观点的输出
+最后还是要一个人做决定', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 548);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('看消息要看消息源头
+分享消息也要分享消息来源（可追溯的来源） 
+sd卡适合存照片或视频，随机读写很低 ', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 549);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('销售，什么都要略懂-怎么叫略懂，学习他们的专业
+学习各种各样的案例，最好的学习
+举例，案例，坑，新闻，避雷，
+了解是有效沟通的基础', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 550);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【大学上课总结】
+1.与高中一样，理科先理解知识，先听懂，在做笔记(不用急)
+文科先清楚框架，抄笔记', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 551);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【半佛】我建议你不卷-该怎么正确的卷
+1.我建议你不卷 - 要正视自己是个普通人，照顾好自己的身体和家庭
+2。如何卷？
+卷和结果有必然联系
+有结果后，你的收益有多少
+你的收益是单纯的收益，还是那种能积累生产资料的收益【能让你钱生钱】
+资源和信息的不平等永远存在，如何减小差异才重要', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 552);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('反思学而思和学而思网校为什么没用
+因为：听的课多了，但是练习不够（刷题不够）
+所以高数听完课一定要回去做题+归纳总结（听课20%，做题60总结20）
+听课熟练题型和方法，做题熟练公式和熟练度和思路
+开课初期 中期 末期都要制定一个方法很重要
+基金和项目都不一定是你的，只有健康才是你的，真别书都没读明白就得一身病了 ', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 553);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要自信一点，不要扭扭捏捏
+面对不同场景，能落落大方
+人性本恶本混乱，维持秩序很重要（程序正义）
+开发者兼职up主/制作人的模式，应该是未来？
+架构和业务就像我的世界里的模组和机器，夸克/机械动力只提供一个框架，真正做什么机器有什么用要靠大家的思考在业务层制作和优化各种各样的需求', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 554);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('辩证逻辑
+否定时，要给出具体可执行的方法论（不然你就只在内心里否定，只会增加大家的负面情绪）
+认识世界和人，总是需要灰度和客观（而不是非黑即白）
+信息会浇灭欲望
+太多注意力都在别人身上，而没有有效推动自己关心的事情
+看太多，吸收太多信息，给你“我已经了解这个世界，xx也就那样，旅游也就那样，考研也就那样”，人是感受型的，不经历那些苦苦痛痛而得来的东西，会感觉没那么有意义
+千万不要失去对世界的好奇心（会变得油腻：“xx美食也就那样”，“谈恋爱也就是早安午安晚安吃饭睡觉”“买东西就是消费主义陷阱”，游戏就是“玩物丧志”）。去魅最好的方式是亲自去看看，拿到结果，所谓“学生会都是xx”是拿到的人才有资格说是“草台班子”，让你不要盲信，而不是啥都不信（自欺欺人）。
+从政思路：以前的我嗤之以鼻，现在的我逐帧学习
+【马科长】
+为了保全大局，通常会牺牲小人物
+能用数据说话最好（提升了，在xx标准不变的情况下）不能用数据说话，也要拖，吹，宣传
+有时候装傻反而是个妙招，打圆场糊弄过去要看情况
+有矛盾就要尽早解决，而不是尽可能延期憋着
+一开始就约法三章的重要性
+不要贪，贪非善举
+能成功的人都是能忍住巨大的打击的
+没有谁能一帆风顺', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 555);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('理性决策、优化决策质量
+一、摆脱生物本能
+不经思考的决策代价很大
+情绪本能：如路怒症、会把你的努力归零
+自负本能：侥幸心理，坏事不会落到自己头上，更愿意冒险，会带来不必要的风险。降低为自尊心较量，展示优越感。沦落到“机会主义者”
+合群本能。“别人都这么做，不代表这么做就更好。如果大家做的都一样，就只能陷入恶心竞争”。生产力的发展就是在花时间跳脱合群本能的，比如铁锹的发明、工具和技术的进步。想要摆脱平庸就要尽量差异化
+惯性本能：人们倾向于维持现状，哪怕改革和变化有好处。维持现状不需要努力，很舒服而且不承担风险，我们会倾向于更加固执，对相悖/相反的信息视而不见【信息茧房】，只看到自己想看到的。这样会让我们失去成长的机会（对新事物嗤之以鼻）
+如何摆脱？靠意志力吗？通常认为意志力是非常不稳定的，每天用一下就用光了，我们要尝试把优秀的思考变成潜意识的习惯，把手动挡变成自动挡
+二、思维改变
+自我问责：不需要外界奖励驱动、不会一时的失意而产生受害者心理，责怪她人、环境、命运。【别人都做某件事，不代表你不能做出不同的选择，你要为自己的选择负责。不过选择的代价让人倾向于。把能掌控的事情做到最好】
+自我认知：了解自己长处、了解自己的能力边界。自己的实际能力其实在自己的认知能力之下，所以做出更加稳健保守的选择。
+自我控制：能够主动控制自己的恐惧、欲望和情绪。不要跟着动物本能走。换言之就是【自律】
+自信：相信自己的能力和价值。面对压力能够做出艰难的决策，不强行证明自己是对的，要懂得服软（为大局，而不是为了虚荣心）
+高标准
+如果你对自己的要求和身边的人一样，做着和身边人一样的事情，你就只能拿到平均的结果。
+直接和“大师”共事，是最好的方法。【需要遇见贵人，不论是线上线下还是互联网。见贤思齐】
+三、高质量的决策流程
+定义问题。解决问题之前，需要提出正确的问题。不要把结果当原因，找准问题（比如出现某个现象了，不能倒果为因，不一定问题出现在显然的地方）
+探索可能的解决方案。最好的解决方案，不是等问题出现了在解决，而是在问题出现前就能预想到最坏的结果。最好不发生，就算发生也有解决方案。多想一步：这个方案是否和自己的长期目标符合，不要光想着当下。得出潜在的选项
+评估选项：标准清晰、信息也要准确清晰高质量。信息要尽量靠近源头，不要被各种东西过滤了。【高专业原则】付费咨询、做好功课。落地也需要大量的时间和金钱。【信息不是越多越好】观察搜集信息的边际效益，当收集信息成本<错过机会的成本，就意味着你要开始决策/行动了。【设计安全边界】留有冗余性。【一致性，设置决断机会】一旦做出决定，就要坚持执行，紧急情况下做出的临时决定很容易出错，且会陷入人类本能（局部最优解）。最困难的事情不是登顶，而是下山（根据已有资源判断什么时候该下山 而不是一味的登顶）【验证路径】验证路线可行+加大投入，比如先实习观察情况，然后进行择业。降低风险决策，就要留一部分安全边际。【复盘决策】把决策过程记录下来，确保自己理解整件事情，也方便后期复盘，看看决策过程是否需要改进，也方便分享
+做判断：
+执行最佳选择：', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 556);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('专业课的学习是为了解决实际问题的，--陈俊雍《电路分析》
+周四 晚第一节 python 和胡瑾宜胡瑾宜
+你不需要多聪明，看你在哪里，和谁在一起--陈增源
+2022.6月', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 557);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【物联网导论实验】
+要知道老师，评委老师想看到的是什么，
+而不是自己想把什么展示给老师看
+对评委和老师而言，重要在结果，对自己而言重要在过程。
+如何包装自己的想法？美化自己的产品
+产品有说服力的前提是能够说服自己
+做核酸的多社区联动能力（人多人少），和自动检测能力（试管）
+调查实际需求，作出符合需求的东西，而不是自己臆想的东西。
+信息的去差异化
+消除信息差会导致热寂
+数据可视化
+省下所有该省的钱。
+该花的时候不要吝啬！
+不是有钱的人，把钱花在重要的地方
+啃论文-先看文献综述
+学会提问：问特殊疑问句不要问一般疑问句，不要问“如何”y可以问“区别”，不停留在表层
+高考后', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 558);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【高考后毕业后】
+‌回小学，初中(写好稿子做好准备)
+学老家客家话，翻看学习读书(尤其语文，应用文体等)
+电脑准备各种套路模板
+洗牙
+学英语，按高中英语词汇等
+把高初中课本看完
+对妈妈好一点 ，多干点活，勤劳一点
+准备好一切(应急方法，文字稿，应对方案，情况处置)
+不要让自己空虚', '', '人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 559);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('关于我的专业介绍
+专业前景与未来
+计算机出路：不要死盯着技术，只想着技术上升通道，想办法跨专业交叉
+ACM，CTF', '', '人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 560);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【未雨绸缪】
+能对未来实践有预警，提前准备
+10.16英语提问：关于46级考试
+1.百词斩可以
+2.4级和6级在于词汇的差距
+3.听力很重要
+网络：学生时代的最大陷阱', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 561);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【年纪第一秘籍！】b站视频学习
+目标：不是看学了多长时间，自己多努力，而是自己学了哪个知识点，
+进步的核心是错题本身而不是刷了多少题，
+木桶效应：不看长处而看短板', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 562);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【学生时代最大陷阱：自恋，自我关注】
+[置顶]越糟糕，越痛苦，越活得拧巴，活着压抑和焦虑的人。
+脑子里面的不切实际的幻想也就越多，绝对化的偏执和顽固也就越强。
+往往这些人，都会有更强的自我关注。
+而这种过分强的自我关注，也会体现在他们“对外界更高强度”的反应。
+能够捕捉更多的信息，会对别人的一言一行更加关注，包括一些微小的眼神或者动作细节。
+同时，他们的自我，也会呈现出一种不成熟的状态。
+“因为没有足够强大的自我，所以更容易选择虚张声势”。
+会选择一场轰轰烈烈的造神运动：
+他们会把自己的位置抬得很高，慢慢地把自己推向神台，创造出“神格”。
+世界也会更加趋向于，理想化。
+包括各种意识和想法，典型的会是：
+“我只要稍微努力一下，就可以超越身边的绝大多数的人。”
+这样的想法， 无疑已经是在造神了，有一种“俯视芸芸众生，不屑于他人的努力，独孤求败的感觉”。
+仿佛弹指一挥间，你就可以动用自己巨大的力量，完成对自己的改造，完成对世界的改造。
+动漫里面，这种被称为“中二病”。
+老病友了。
+很明显，这是一种忽略客观事实，违背事物规律的幻想。
+这份幻想里面，有两段潜台词：
+我有完全自我控制的能力。
+我有完全改造世界的能力。
+前者，我是自己的完全主宰者。
+后者，这个世界会听我的话。
+我们先不谈后者，我们就只谈前者。
+大多数人，根本是完全没有自我控制的能力。
+“只要我稍微努力一下，或者只要我能够全力以赴， 我就可以超越大多数人。”
+单单是驱动自己去努力 ，就已经艰难万分。
+为什么很多人，都会下意识地认为“是自己不想努力呢？”
+或者，有没有想过，也许真正的现实是“自己根本就不能努力呢？”
+没有办法维持努力的状态，根本就没有足够的能力，没有足够的动力维持。
+情绪能量不够，身体精力不够，意志力注意力不够。
+自我控制，本身就是非常非常难的事情。
+这种忽略客观现实，一厢情愿的想法，非常容易制造内耗。 
+关于项目', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 563);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【关于做项目，卷】
+学习东西（参加比赛，项目）要看他的：
+成本 收益 风险', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 564);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【专业】
+物联网工程专业课程
+主要课程：
+信息与通信工程、电子科学技术、计算机科学与技术。物联网概论、电路分析基础、信号与系统、模拟电子技术、数字电路与逻辑设计、微机原理与接口技术、程电磁场、通信原理、计算机网络、现代通信网、传感器原理、嵌入式系统设计、无线通信原理、无线传感器网络、近距无线传输技术、二维条码技术、数据采集与处理、物联网安全技术、物联网组网技术
+等。
+物联网工程专业概况
+修业年限：四年授予学位：工学学士培养目标：
+本专业培养能够系统地掌握物联网的相关理论、方法和技能，具备通信技术、网络技术、传感技术等信息领域宽广的专业知识的高级工程技术人才。', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 565);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('自学编程必须注意的几个问题
+1.什么都学过，什么都学不会
+有深入的了解
+技术分为，应用型(装Ubuntu,等)，长期型(算法，鸿蒙等)
+2.老想着赚钱
+3.虚假努力，欺骗自己
+4.只学不练，学了就忘
+5.不要轻信任何承诺和机会', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 566);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('1.各位同学好，请各位同学撰写一篇《个人自传》， 自传末尾需署名，填写日期，于下周一亲自交至班主任老师处（注：不可代交）。
+自传内容包括：
+（1）个人成长经历，对这些经历的认识和看法；成长过程中印象特别深刻的事情，及其对自我的影响；自我评价，认为自己有哪些性格特点，这些性格特点对自己生活的影响等。
+（2）对自己大学学习、生活的规划，包括希望如何度过自己的大学，对未来就业的规划等。字数1500字以上，需手写。
+2.收到回复
+自我介绍
+2 见识广，是好事吗？（辩证悲观，过早司空见惯会导致对生活没有热情）我是一个见识很广的人吗？
+3 血气方刚的青年！
+同时我深刻明白，优点亦是缺点，充满热情朝气与活力的背后是冲动，是轻信一家之言的危险
+4，年轻的我 有一个梦想（自己的梦也是中国梦）
+5.专精or博学？
+6.不以物喜，不以己悲。居庙堂之高则忧其民。处江湖之远则忧其君
+五十年前马丁路德金倒下的时候，他的“我有一个梦想”传遍了全世界，但那时候我所谓的“我的梦想”与此梦想并不一样
+‌
+我长大了？
+高考结束，我独自收拾着山一般的试卷和翻到满是褶皱的，翻到烂的复习资料和课表，突然间一个积满灰的手表映入我的眼帘，勾起我的回忆
+那是一块珍贵的卡西欧机械表，贵不仅在于价格昂贵，更在于那时候我对它苦苦迷恋的追求，炫酷的表盘，时尚的功能，太阳能充电，夜间荧光，全球时区，在那时这样的一款手表集齐了我对科技感手表的所有想象，“谁曾经没有一颗攀比心呢”我迫不及待地每天戴着他上学，跟同学炫耀。但好景不长，很快我就意识到它的巨大缺陷：它太笨重了。不论是写试卷和作业时卡手，还有跑步的摆手，夏天手上的一点汗积攒在身上都会让手腕难受无比。不久，这块华丽的表就被我弃如敝履，闲置在房间的角落。大概是从那时候起，一直到现在 身边同学买炫酷的单车，成千上万的鞋，最新的iPhone和电子产品都能“略无慕艳意”，同学和我也互相影响，到高三毕业时，我们班上鞋和校服裤大都风尘朴朴，仿佛在比谁的鞋子穿的更久更破，谁的裤子穿破了洞，谁的衣服更加泛黄，“那不是旧脏，那是我在这个学校学习生活的勋章”。在物质生活充裕的今天，这种事似乎成了奢求，但确确实实在我们身边发生，且这一切的一切，对于几年前的我，和大多数现代青年来说，似乎是荒唐的，难以企及的。难道这就是父母长辈从前念叨的，“长大了”么。
+一方面，拿得起放得下，一方面，悲观
+能辩证不跟从
+我有一个梦想。
+古时候的秦始皇很阔气，刘邦言“嗟乎，大丈夫当如此也。”项羽说，彼可取而代也。羽要取什么呢，那便是邦说得“如此”。稍微不妥当的是，对于现在的我来说，不仅希望以身作则影响他人和社会，更希望好的风气和人能影响自己。
+我所学习的物联网专业，我所在的计算机大类，所属的工科领域，谓何为何我大都不清楚，但我所知道的是，一直的大量的学习和实践，科学技术是首要生产力，多承担任务
+印象最深的经历其二，大概是我自认为独特的家国观念
+就我的性格而言，我自认我是一个平凡的人，但平凡和不争绝非平庸和无能，平凡的人，也即“普通人”，在我看来，是平静的人，能够接受自己的普通。但谁说普通不能独特呢，我想我们都是普通而独特的人，平凡又伟大的人，平凡何妨影响我们立鸿鹄之志，不苟且于安身立命，不纵情于骄奢淫逸，何妨影响我年轻气壮，血气方刚
+大学四年里，我绝不“躺平”，但我也必不愿为欲所为，不做不该做之事，为道义，为亲情和为自己而努力，是平静中一种高级的高雅。
+大学学习方法', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 17:53:39', 1, 0, NULL, NULL, 'active', NULL, 567);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要积极跟陌生人沟通（减少隔阂，说明来意，经常道歉）', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 568);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('健康生活，减肥会让你的身体非常脆弱（没有鲁棒性 经不住风险等等）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 569);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('扎实的走好每一步！才最重要
+别想着跳步走', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 570);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('所有人都会遇到边际效应递减的问题：当到了某个程度后举步维艰', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 571);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('ddl是第一驱动力（学习要有阶段性目标催促自己）', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 572);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('你要干的事情很多，每件事情可能是另一件事的必须因素（比如学习多少基础知识，去学习专业知识，学习多少专业知识去实践）', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 573);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('创意没有方法论，只有灵感
+多关注自己，少关注别人', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 574);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('2：1最适合手机和电脑观看的比例', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 575);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('保留所有的证据
+越详细越好', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 576);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要勇敢反抗，咬死不承认', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 577);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('创意是个特别脆弱的东西，假如一瞬间没有想到记录下来可能就没了', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 578);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('当视频的制作有流水线
+你觉得的爆款视频已经有流水线上源源不断的生产加工出来的时候，你的快乐和欲望就和视频一样是，在流水线上的', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 579);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('内卷，速成，快过', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 580);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要在线上聊天时保留任何态度
+防止后人翻看', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 581);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('b站连年亏钱的原因（没有盈利能力）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 582);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('基础设施的大厂是最赚钱的', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 583);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('如果那是我们的未来，那么我想改变
+人生的退路
+层高 低 压抑
+人类是个群居动物啊
+人这一生啊。。
+日本前所未有的独居人数。。
+父母在 人生尚有来处，父母去 人生只剩归途
+看着别人表演，唱歌跳舞拍mv很开心，可能是人家（因为工作）装的很开心
+这就是人存在的价值。有时候等到回不去了才去想 就已经来不及了', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 584);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('留一点仪式感！', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 585);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('人真的相当复杂 年纪越大越复杂', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 586);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('苏联/俄罗斯
+不靠东不靠西。丢失了自己的文化，怀疑自己的信仰，向前没有道路，向后一片黑暗。只剩下自己固执的骄傲在撑着
+伤痕文学，前苏联 淡淡的哀伤', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 587);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('学习是个长期事情，不在乎谁走得快，而在乎谁走得远', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 588);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('一定要尊重老同志，老同志的话一定要认真思考
+少年得志，容易栽跟头', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 589);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('开场白可以看似随意，但是一定要暗藏杀机', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 590);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('国足腐败事件
+你所认为的东西就是你所认为的吗？比赛并不是比赛而是金钱的买卖', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 591);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('所有病都分器质性的和功能性的（有症状但是没有病变，跟心情有关系）
+紧张焦虑恐惧，消化道是情绪器官，很受心情影响', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 592);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('期末碎碎念
+不要聊骚！尤其跟别人（不管男女）
+不管说什么话都要考虑未来（自己会作为证据和聊天记录）
+要默认所有地方都有摄像头，包括厕所等等
+不要干不该干的事情，很horroible
+要尤其注意防偷拍 和不要随便拍照
+伪装身份，多电话卡，数据加密等措施', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 593);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('REASON模型
+一个大的事故背后是千个小事故和万个隐患
+多个因素叠加导致了重大事故的发生', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 594);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('商业包装的重要性', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 595);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('校史馆
+历史的沉淀才是关键，著作本身不是
+育才红楼 不亚于北大红楼', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 596);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('全职up收入
+不接商单 不签合同 不直播的话，每个视频百万播放只有一千元不到（粗浅估计）
+而一个百万播放的视频都要10天以上。
+纯收入一个月也就3k（减掉成本肯定负不知道多少万）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 597);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('做的不好不要责怪别人，主动帮他做就完事了
+因为你不知道别人是什么状态（发烧，失恋等等）
+事出反常必有妖', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 598);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('求职要熟悉撒谎（不考研，等等）一切都是有变数的', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 599);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('做人不能太老实
+up这个视频我太有共鸣了，我从小到大都是乖孩子好同事好人，但是老实也让自己吃过很多亏，父母总说吃亏是福，但是确实错失很多机会。让自己主动起来，积极起来！
+中庸之道不是平庸之道，中庸是不偏左不偏右。
+我爸妈从小就给我灌输中庸之道，凡事不做第一个，不要与人争执，不要惹麻烦，跟大部队走等等，踏上社会了，才发现不争取就不给你，让一步就步步让，规矩是弹性的，不守规矩的人得到的最多最好，所以我改变了，才能适应这残酷的社会
+以前觉得拒绝别人不好，会觉得亏欠，但不拒绝他，自己又很苦恼。在实在受不了终于鼓起勇气拒绝后，发现可以剔除很多不必要的社交，甚至避开一些有问题的社交，这样就很轻松了。人生在世，还是对自己好点吧
+任何规则都是都可以商讨的余地的
+没有损失的可以多争取，不要太老实
+不要死脑筋
+面对牛人时，不要只做仰望者。当你伸出手“你好”的时候，你们两个的生活也许就会有交集
+世界的资源总是会向不老实的人倾斜，他们精力旺盛，脑洞大开，有打破常规的勇气
+不要因为怕事而错失很多机会
+做个狠人
+不要在意别人的眼光
+知道自己该干什么，不要被他人影响
+光明磊落不搞小动作
+提前开始催，提前开始做
+不要为了让自己显得独特而靠拉踩衬托，因此而看不起别人
+反应快 要知道每个问题的严重性
+当你自己能力大了之后，你往往不会去炫耀自己
+不要把快乐建立在别人的痛苦之上', '', '工作, 生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 600);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('专题：如何戒瘾
+把时间放在交流，而不是网络上
+熟人≠朋友，一起玩≠互相成长
+锻炼社交技巧（主动参与，而不是逃避）
+做一些有意义的活动
+做有意义的活动：比如志愿等等', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 601);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('搞活动一定要有主题，尤其是有陌生人，
+学习华为HDC搞活动的策略，不要纯交易，而是劳动获取。
+（尤其是比如摆摊等等）
+要有小礼品相赠
+摆摊不要纯“赚钱”性质，有一个公益或者科普主题吸引人流量，然后', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 602);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('lyw 没有素养 不可信任 看人隐私
+对舍友不要太信任
+不要花时间在一些很小的事情上
+跟厉害的人见面，都需要准备一个方案，等等
+和陌生人知道你，要准备好一个东西
+人生总结实录
+大学生活 tips
+因为群很多，每个群（临时群）标注区域+时间+活a动
+', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 603);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('说的其他话：
+关于F爱情：什么叫门当户对，太强太弱都不行，要在纳什均衡点
+不要炫耀自己很聪明，聪明人并不被讨好
+太强和太弱都不好
+朋友之间都是相互出卖的，只有利益没有友情
+-陈增源 python课', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 604);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('算了吧
+你根本就没想过找我
+就算真的和我你也会全身别扭不开心的，还不如算了', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 605);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('大家都是成年人了 还玩我一定要展现出来我痛苦我才是真痛苦那一套吗
+关系是在三观大致相同的基础上建立的 如果连前提都达不到 又何谈后面的东西
+越是无知的人越觉得自己无所不知 人一旦站在愚昧山峰 就自以为看到了全貌而沾沾自喜 却不知只是一叶障目 
+我们了解自己多少 又有多了解别人 别真当自己在井里看到的那片天就是所有 更别往俯身看你的人脸上扔泥巴 谁都是人 心不是只有所谓的弱势方才会痛的', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 606);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要怕追女生，有时候你是没办法区分你在追还是其他的
+增加联系：不应该送那些一次性的礼物，而是刻意送一些需要持续维护的礼物 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 607);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('vlog人要比景色多', '', '生活', '旅行, 团建', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 608);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('底层人民都很勤劳都很热情，但就是没有钱 ', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 609);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要跟别人深深嵌套（会增加很多风险）', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 610);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('跟别人沟通的时候，先考虑别人需要什么，而不是自己需要什么， ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 611);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要想成为高端人士，要先从各个方面接近
+保证你的人脉和能力都比看不起你的人强，你的未来一定比他好 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 612);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('现在的人都讲究反差：做你份内的事情只是基本功（大家不会觉得你很厉害才奇怪，因为知道的人很少），而比如自媒体等等，扩大自己的影响力，优势更大 荒诞的互联网', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 613);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('每个人都为自己的平凡发愁：每个人都想尽办法“当网红”
+每个人都有当网红的15分钟，但是然后呢？
+玩抽象的越来越多', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 614);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('穷人本来就没有什么面子 没有什么尊严
+但你愿意当没面子没尊严的人吗。 ', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 615);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('量变会引起质变 ', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 616);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('那些不太care你的人，不是他们看不上你，而是他们高攀不起。你的前途过于辉煌，以至于他们根本不敢攀附 
+每一个改变都是量变引起质变的过程 ', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 617);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('女生真的很难懂
+不要拘小节，多送礼物，关系比钱更重要', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 618);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 619);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 620);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 621);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 622);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 623);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 624);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('创意是不值钱的，因为被盗取创意是很容易的事情
+所以什么值钱呢？投资 资金 背景 前期工作 市场占有率 生态
+感觉技术也不是那么值钱（技术好的多了去了 只有金字塔能吃饭）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 625);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 626);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 627);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 628);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 629);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('个人计划可别盲目用OKR，得看自己是不是适配啊。目标得是可衡量的，还得有挑战性，否则就是瞎忙活，不如定个实在点的，一步步来
+我觉得吧，用OKR法则做计划，关键在于要灵活调整目标，别过于追求完美。否则，计划就会变得死板，失去意义，反而让人更加焦虑呢。', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 630);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 631);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 632);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('男生女生每个阶段的审美都会变化
+“船到桥头自然直”', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 633);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 634);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('
+自己自信，相信自己的决策（特别是定几天酒店，坐什么高铁）
+不要听别人的意见（自己的学识和判断是没有问题的）', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 635);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:16:04', 1, 0, NULL, NULL, 'active', NULL, 636);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 637);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('pyq要给人评价的空间
+比如夸夸
+比如提问
+（留有悬念：这是哪 这是啥 等等 让别人主动联系你）', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 638);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('非线性工作逻辑：
+边旅游边工作
+边旅游便被人找
+要接受多线程工作
+上了班之后，你会遇到不是一个线性的东西（比如边工作还有其他事情，遇到一些主次要矛盾的冲突）或者说多件事情并行
+考验多线程规划能力', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 639);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('主要矛盾
+主要矛盾的主要方面
+主要次要一起抓
+人生是非线性的，不是和学生思维一样，干完一件在干一件', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 640);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('如何避免自己“白学了”
+和“我的时间都去哪了”，复习了
+建立时间追踪体系，防止时间悄悄流失
+（不然感觉复习一年，最后80分是什么鬼啊）', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 641);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 642);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('
+不要在社交平台上关联太多东西', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 643);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('怎么戒手机：关闭个性化推荐即可
+怎么戒社交：关闭消息通知', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 644);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('奖励会导致记忆力下降', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 645);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('计算机有些东西你用多了就熟悉了，但是没用过就要死记硬背了', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 646);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 647);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 648);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 649);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('欧美人不喜欢刺探性问询的方式，多多少少试探别人的隐私', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 650);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 651);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 652);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 653);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 654);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 655);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 656);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 657);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 658);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('高等教育不在于学了多少知识 而是学了多少逻辑思维能力和自我认知的方法
+', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 659);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('我也不记得汶川那年我在几年级了，只记得小学的毕业考试，考了一篇汶川地震的，哭的稀里哗啦考场上直接泪崩，脑补着各种各样的画面
+印象比较深的还是母亲蜷缩着，怀里抱着自己的孩子，手机里留了信息“亲爱的宝贝，如果你能活着，一定要记住，我爱你”
+那种感动，真不是一般人能体会到的，相信亲临的人就更有体会了。
+推荐《云裳》《杨等等的成长时光》
+真的有很大感悟', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 17:53:33', 1, 0, NULL, NULL, 'active', NULL, 660);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('17岁高二录:趁着还记得小学生活，就提出一下对小学教育改革的看法吧
+多看故事，看以前的事，真的有很大感慨', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 661);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('仔细思考 回形针事件 网络暴力', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 662);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('饭圈思维 早已禁锢了我们
+总想听点不一样的
+由一人舌战群儒', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 663);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('no shoot！
+发扬勤劳朴实勤俭节约的好精神
+大声勤道谢
+谦恭礼让心(要谦虚，你不行的东西就是不行不要逞强勉强)
+勿添人设，束缚自我', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 664);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要粗鲁，不要冲动
+不自私，但不做吃力不讨好之事
+现在只为学习，只为高考
+务必开诚布公 不能心胸狭窄，大方，不自私
+网络上说话一定要真实，不能做作
+待人要真诚，不能骗人
+不能拿亲情当做攻击亲人的武器', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 665);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【志愿填报】
+建议高考的毕业生，去你们本省的人事考试信息网，去看看今年你们当地公务员、事业单位的招录简章及职位表，看看哪些专业毕业是可以考公哪些是根本没机会的，多给自己留条路，特别是家庭出身一般的学生。
+你可以不考公考编，但不能把自己退路给断了，别听别人忽悠，结合自己实际的家庭情况选专业。适合自己的就是最好的。
+1.同档次看专业，不同档次看学校
+工科避雷：纺织，不想月薪三千的，跑！
+食品，除非家里有厂，否则，跑！
+轻化，珍爱健康，跑！
+化工，爱惜生命，跑！
+制药，除非喜爱，要不赶紧跑！
+地质土木，可以干，（异地恋的请务必注意头顶颜色）
+车辆工程，认识的大多转行销售，坑
+环境工程，天坑啊天坑不解释
+计算机，摸摸头顶，能抗住还不错的，多积累实战项目经验，加班肝就完了
+采油探矿采矿勘探，女生墙裂不建议，男生看命
+轮机工程，《我飘在海上的半辈子》
+机械自动化，恭喜你，这行上限下限都贼离谱，不过还算靠谱
+工科目前就知道这些，有其他的欢迎补充
+能源与动力工程，别的学校我不知道，反正我们学校转专业率高的离谱，当初我去交转专业申请表的时候，导员直接说的:能动专业根本留不住人[笑哭]
+职业 不能啥都学 啥都不精通
+额，医学类来说一下吧，虽然很多人说“劝人学医，天打雷劈”但是吧，呜，
+如果你虽然不知道自己未来要干什么，但是想找一份稳定的工作的话，医学类还是很推荐的，注意，是医学类，不单单指医生，包括护士，检验，药剂，解剖，这医学类专业有一个好处，无论在最偏远的山村，还是最繁华的城市，先不说有没有一席之地，最基本能你让你有口饭吃，而且这类职业不会因为你年纪大而开除你，也不会因为人才过多而裁员，基本上一辈子不用担心没饭吃，所以还是很推荐的。
+当然啦，有利也有弊，仅对你个人而言，每个学期总是要背长篇大论，各种医学名词和医学公式，各种繁琐麻烦的实验和实验步骤和过程。但这些付出的成本和带来的收获，这里性价比的比例还是很高滴。作为一份赚钱吃饭的工作，医学类还是很推荐的、
+赞同，我是口腔毕业。我觉得学医挺好，专业性强，有就业门槛，非医学毕业生根本不可能来抢饭碗
+学医除了临床，麻醉，口腔之外，其它医学相关专业就业都不行。
+总是劝人本科学金融的真是没受过社会毒打，还有不是985211的不要选生化环材
+电子信息工程，不读研就等死
+法学 计算机 医学，这三个，无脑选，绝对没错；
+生化环材、传统工科（机械、土木、能源等等）谁读谁是啥b
+其实大学最好不要玩，最好一开始就加社团，考证，实习。不然大学毕业你会发现无路可走
+', '大学专业 未来 事情', '网络', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:33', 7, 0, NULL, NULL, 'active', NULL, 666);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 667);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('小时候才会对这么东西在乎，因为失去了就很难再有了
+而现在你不必事事都在乎，因为大不了重新再来
+', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 668);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('因为我要考研，我认为本科阶段都可以不断的尝试新的东西，不拘泥于自己会的', '', '人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 669);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【杂谈】我喜欢的大学老师
+能考研优先考研
+能大厂优先大厂
+樊钧是很喜欢的老师
+物联网比计科更厉害or更差
+物联网写程序写的少，做的要慢一点（能力差一点）
+老师其实什么都知道，只是不说而已（踏实最重要）', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 670);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('讲话不要太虚（刘?萌）听着很难受', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 671);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('对一个领域，要慢慢的了解，一点一点的使用（趁早不趁晚）。不要单纯的学习知识技术，而是学习方法', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 672);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('任意的计算都可以用有限状态机实现', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 673);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('计算机学科一定要好好学数学', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 674);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要同时学习 运营维护和前期开发（探索与开创）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 675);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('影响技术的发展很大一方面是钱（没有使用三进制电脑的原因）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 17:53:04', 1, 0, NULL, NULL, 'active', NULL, 676);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('技术要是不持续更新迭代的话就会失效过期', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 677);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('二进制、三进制、量子计算是未来的主流（量子计算可并行可叠加）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 678);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('未来的编程可能是量子化编程（要关注不要焦虑）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 679);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('技术的发展-> 与经济发展和战争有关（战争时期会加速技术的发展），要关注择业与经济发展的方向', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 680);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('吹b占大部分讲课（一页ppt讲一节课 ）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 681);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('计算机的两大方面是模拟和数字（模拟机和数字机）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 682);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('对一个领域的了解要多而广 > 细而深（对未来有好处 对现在无用）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 683);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('一些概念的解释：要知道概念在讲什么，有一些通用的知识', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 684);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('所有东西、技术的尺度、都要根据应用场景（5G的应用场景，根本就不是给用户终端手机通信设计的）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 685);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('参与标准指定是很重要的（例如华为就痛失了所有5G的标准，只参与了主要的5G标准）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 686);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要多想 多深挖 一个问题（出发点）会引起一大堆问题', '', '工作, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 687);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('樊老师很直接：直接问，有话直说。有事直接找', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 688);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('宽容度最大 很大（大学老师）
+普普通人的课程要求就是A（不需要基础，只需要踏实和坚持）', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 689);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('穷则独善其身，达则兼济天下', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 690);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不断迭代积累技术栈
+linux是大学生课设项目开源而成的', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 691);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('嵌入式岗位变多了。但还是不太好找工作', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 692);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('两大方向：
+产品化改造
+性能突破
+去腾讯实习的人，有分数例外
+去看看华为需要什么样的人才
+理论课和实验内容是区分开的', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 693);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('fj一直再给同学们暗戳戳找理由（偷跑，开饭，国庆，而且不需要请假）
+做完的同学晚上是不是有事儿', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 694);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('大学生活反思
+关于生活
+学会高情商
+大学学习 自我反思
+1.孤独感 很重要
+2.“你的努力可能会毁了你”，不要“逼”自己努力
+自律不能超出承受范围且不能保持
+成功≠努力+努力+努力，不要折磨自己
+不要老抱怨自己蠢/笨，要认识到自己就是个普通人
+不要有攀比心，不要嫉妒。
+愚者嫉妒，智者互抬
+尊重别人，
+不要拿要求自己的标准要求别人
+不要苛刻
+自己品德高尚就行了
+不要交不停消耗你的人，宁愿孤独
+自己不要成为，也不要交这样的人：
+对别人负面评价
+否定别人的想法，努力和成就
+对别人的错误和不幸窃喜
+把别人当自己的竞争对手
+不能很好的和别人合作
+对自己能力，地位缺乏安全感
+客观上比不过就主观上打压，不要靠跟别人对比获得自己', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 695);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('6.25
+不要怕吃亏，要会吃亏
+压力来源于自己对事情的控制程度
+(作为大学生)不要吹牛！
+学会讲故事，演讲等
+不要刻意认识别人或者刻意跟谁谁走 遇到或者突然的缘分就一起是最好的。
+“基本上，一切人际关系矛盾都起因于对别人的人生课题妄加干涉或者自己的课题被别人妄加干涉”
+让干涉你生活的人见鬼去～
+——《被讨厌的勇气》
+一个博弈过程，要积极参与
+师傅节假日能多赚多少啊
+要养家，多赚不了多少钱。
+那就不干了，平台自然会提高价格
+鸡汤，感言
+“我们莫名其妙地觉得每个人都在关注我们，但现实是，没有人比自己更关心自己。
+甚至，没有人关心你的失败，没有人等待你的出
+丑。”
+Tom Vanderbilt', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 696);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('自学编程必须注意的几个问题
+', '1.什么都学过，什么都学不会
+有深入的了解
+技术分为，应用型(装Ubuntu,等)，长期型(算法，鸿蒙等)
+2.老想着赚钱
+3.虚假努力，欺骗自己
+4.只学不练，学了就忘
+5.不要轻信任何承诺和机会', '工作', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:31:27', 4, 0, NULL, NULL, 'active', NULL, 697);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('注意
+生活，四大项：
+1.建立良好的人际关系，特别是宿舍成员，班级朋友，这些因素会考虑到你学习的效率，大学生活的心情态度。相比初中，高中交友，大学的人际关系处理更为重要。随机应变，乐观积极，天天向上。
+2.更好的独立思考能力，大学不会像初中，高中，学校把你很多时间安排得井井有条，大学的课程一天多数是安排不满的，紧接着就变为了生活独立安排，学会规划生活费，培养自己的独立意识。
+3.良好的生活习惯，大学安排好是一个愉快且轻松的环境，这些欢声笑语时常让我们沉醉于此，但是常常的没有生活习惯，你的健康就得不到保障，记住养成良好习惯，适当运动。
+4.小心，大学因为更加开放，因此你可能会受到更多诈骗因素，不要相信非官方的第三方免税贷款等看起来极其好赚钱的项目。除外大学还可能存在一些诈骗方式（常见网络诈骗），遇到相关事件请谨言慎行，不确定的，最好能和伙伴，老师交流决定。
+学习，四大项：
+1.大学是人真正的新起点，不管你学了是出去工作，还是继续考研，考博进行深造，都必须要过渡大学才行，所以学的专业技术越多，以后才有更大可能越轻松。
+2.有一个梦想，制订一个目标，一个符合实际能力的“大”目标，并朝向目标前进，这样你才会有更多的动力。
+3.知识的海洋，学校的教学知识往往只是基础，如果你有更加强大的技能梦，你需要借助互联网，继续学习这些知识，帮助你更好的理解技术，毕竟社会都是以实力说话的，没有实力，何来工作和金钱。
+4.不要参加学生会，大学你的时间就是金钱。不积极向上，就没有好果子吃，具体原因这里不在细讲。大家能理解就内在理解就好。
+以上大多建议都是需要日常注意的，运用合理，你就有一个快乐充实的大学生活。
+最后，祝你度过一个充实的大学。
+[热词系列_完结撒花]
+大学学习方法', '', '学业, 生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 698);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【学习方法反思日记】
+1.关于学习的比喻：为什么不如别人
+★只跟自己比：一个人的s取决于s0（起点），v（一天花的时间）和a（学习效率）
+为什么jyy这么厉害分析：
+s0相同，
+我的v，a分析
+为什么不谈恋爱-因为浪费时间
+1.时间：
+有充分利用的时间：中午（可以改进：中午不回了，但是多出来的时间做什么？）
+没有充分利用的时间：周末，玩游戏
+2.效率：
+这是方法论的实践，比如遇到卡脖子的能跳过就不要死磕
+我的人际关系解决方案：
+分清楚“work mates”和“life mates”
+养成含有正反馈的习惯
+跨纬度学习很重要：
+护肤要趁早
+有时间出去旅个游
+多陪陪父母
+不要太和群，也不要不合群
+本科学习是为了培养你认识世界的方式，
+一定要有真才实学而不是一知半解
+永远不要质疑自己（特别是自己过去的选择）', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 699);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【专业】
+物联网工程专业课程
+主要课程：
+信息与通信工程电子科学技术计算机科学与技术。物联网概论电路分析基础信号与系统模拟电子技术数字电路与逻辑设计微机原理与接口技术程电磁场通信原理计算机网络现代通信网传感器原理嵌入式系统设计无线通信原理无线传感器网络近距无线传输技术二维条码技术数据采集与处理物联网安全技术物联网组网技术
+等。
+物联网工程专业概况
+修业年限：四年授予学位：工学学士培养目标：
+本专业培养能够系统地掌握物联网的相关理论方法和技能，具备通信技术网络技术传感技术等信息领域宽广的专业知识的高级工程技术人才。
+', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 700);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【未雨绸缪】
+能对未来实践有预警，提前准备
+10.16英语提问：关于46级考试
+1.百词斩可以
+2.4级和6级在于词汇的差距
+3.听力很重要
+', '', '个人提升, 工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 701);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【年纪第一秘籍！】', 'b站视频学习
+目标：不是看学了多长时间，自己多努力，而是自己学了哪个知识点，
+进步的核心是错题本身而不是刷了多少题，
+木桶效应：不看长处而看短板', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:53:30', 4, 0, NULL, NULL, 'active', NULL, 702);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【学生时代最大陷阱：自恋，自我关注】', '[置顶]越糟糕，越痛苦，越活得拧巴，活着压抑和焦虑的人。
+脑子里面的不切实际的幻想也就越多，绝对化的偏执和顽固也就越强。
+往往这些人，都会有更强的自我关注。
+而这种过分强的自我关注，也会体现在他们“对外界更高强度”的反应。
+能够捕捉更多的信息，会对别人的一言一行更加关注，包括一些微小的眼神或者动作细节。
+同时，他们的自我，也会呈现出一种不成熟的状态。
+“因为没有足够强大的自我，所以更容易选择虚张声势”。
+会选择一场轰轰烈烈的造神运动：
+他们会把自己的位置抬得很高，慢慢地把自己推向神台，创造出“神格”。
+世界也会更加趋向于，理想化。
+包括各种意识和想法，典型的会是：
+“我只要稍微努力一下，就可以超越身边的绝大多数的人。”
+这样的想法， 无疑已经是在造神了，有一种“俯视芸芸众生，不屑于他人的努力，独孤求败的感觉”。
+仿佛弹指一挥间，你就可以动用自己巨大的力量，完成对自己的改造，完成对世界的改造。
+动漫里面，这种被称为“中二病”。
+老病友了。
+很明显，这是一种忽略客观事实，违背事物规律的幻想。
+这份幻想里面，有两段潜台词：
+我有完全自我控制的能力。
+我有完全改造世界的能力。
+前者，我是自己的完全主宰者。
+后者，这个世界会听我的话。
+我们先不谈后者，我们就只谈前者。
+大多数人，根本是完全没有自我控制的能力。
+“只要我稍微努力一下，或者只要我能够全力以赴， 我就可以超越大多数人。”
+单单是驱动自己去努力 ，就已经艰难万分。
+为什么很多人，都会下意识地认为“是自己不想努力呢？”
+或者，有没有想过，也许真正的现实是“自己根本就不能努力呢？”
+没有办法维持努力的状态，根本就没有足够的能力，没有足够的动力维持。
+情绪能量不够，身体精力不够，意志力注意力不够。
+自我控制，本身就是非常非常难的事情。
+这种忽略客观现实，一厢情愿的想法，非常容易制造内耗。 ', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:32', 6, 0, NULL, NULL, 'active', NULL, 703);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【关于做项目，卷】
+学习东西（参加比赛，项目）要看他的：
+成本 收益 风险
+接客要考虑厕所，行李遗漏
+ 打工：手脚勤快一点，嘴甜蜜一点
+ 和老板聊天就是享受哇谁懂
+ 一年的妈也是妈?
+ 老板的儿子就是噗嗤噗嗤的高
+ 想想科班与非科班计算机的核心区别，核心优势是什么？？语言不用多
+ 哪些东西站在前人的基础上最好，哪些最好要自己思考
+ 比赛提交，一定要提前半个小时。不管写没有写完都交。交上去个东西总比啥也没有好
+ 不要遗憾终生啊！！！', '', '学业, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 704);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【关于学习：】
+为啥能”学啥都快“：
+什么是”知识“：对问题的解决方法
+学习的方法-模仿学习，创造学习：一种是”造轮子“，一种是理解核心，在吸收了不同大佬对同一问题的解决方案后，
+学习是一个 模仿-实践-反思-然后模仿-实践 重复的流程，缺一不可
+把大问题化解为小问题，经常审视自己-特别是对优势的拨冗方面', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 705);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('对好朋友，喜欢的人，和很久的人可以几乎无保留交于知识
+学习陈俊雍，如何在茫茫人海中一下子被演讲者记住', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 706);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 707);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('计算机人随身应该带的东西（巧妇难为无米之炊）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 708);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要把学的东西尽量学杂，扩展知识面（且强调快速上手+熟悉软硬件操作+配环境）', '', '人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 709);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('对于大学课程，自学自练>选个课。', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 17:30:03', 1, 0, NULL, NULL, 'active', NULL, 710);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('在计算机界，一项技术的提出和实现相对容易，但它的普及却非常非常难', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 711);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('高中时候在班里和熟悉认识的人打排球，和你大学的时候排球课一起打排球，感觉和氛围完全不一样。
+因为排球课不是大家都愿意
+ps：很多人都是打球认识的npy', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 712);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('「在等待中享受孤独 在等待中奋力生长」', '大学生感到孤独可能是因为身处新的环境和人际关系中，可能离开了家庭和朋友圈，也可能遭遇学习和生活上的挑战。以下是一些可能有助于缓解大学生孤独感的建议：
+        参加校园活动：大学通常有许多社团和俱乐部，可以让你结识志同道合的人，并与他们共同参与感兴趣的活动。
+        建立新的人际关系：在大学里，你可以结识许多新的人，包括同学、教授和学生组织成员。主动与他们交流，建立联系，并争取机会与他们一起活动。
+        寻求支持：如果你感到孤独和焦虑，不要害怕向学校的心理健康服务寻求帮助，他们可以提供专业的建议和支持。
+        维持联系：保持与家人和老朋友的联系，可以帮助你保持情感上的联系，并获得支持和鼓励。
+        发展兴趣爱好：发展个人兴趣爱好，可以让你找到自己的兴趣点，并通过参加相关活动结交志同道合的人。
+        认真学习：认真学习不仅可以提高自己的成绩，还可以使你有机会结识同学和老师，并获得他们的认可和赞赏。', '学业', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:33', 4, 0, NULL, NULL, 'active', NULL, 713);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('老师不怕给你资源，就怕你做到一半跑路了', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 714);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('作为程序员，u盘里安装一些随时可以展示的demo，代码，简历，比赛项目等等', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 715);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【pyq感谢文 比赛结束后 取得成果时发 大学总结】', '感谢深圳技术大学，我的大学四年几乎不是在图书馆过的，而是在实验室度过的。
+大一实验室都没建好，也没人用。电赛晚上随便找间空实验室的桌子，就美美的睡觉了
+大二实验室都七七八八有人了，还是电赛最终没办法只能睡实验室地板（没错睡地板没有枕头没有被子）晚上三点钟饿了就起来跟还在干活的人一起点个外卖
+大三条件好点了 能睡折叠床了', '学业', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:34', 5, 0, NULL, NULL, 'active', NULL, 716);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('做事情要直接一点，不要怕事，不要转告来转告去的', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 717);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('陪伴是最长情的告白', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 718);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('帮别人修改时，保护现场的重要性
+写程序要
+一边写一边写注释！！
+演示代码要
+项目管理要知道全部框架
+', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 719);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要竞争较劲（耍小孩子玩的）
+ sztu温暖人心：餐厅的沙发可以给员工午睡，与其他餐厅与众不同', '', '学业', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 720);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('别有太多心眼
+有大局观', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 721);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 722);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('避免零和博弈', '不要把事情发展为零和博弈（你的利益诉求和别人完全相反：比如俄乌战争停战条件两边完全相反）会导致更大的问题', '网络', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:34', 6, 0, NULL, NULL, 'active', NULL, 723);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【何同学】讲故事的重要性', '三方https://www.bilibili.com/video/BV1z5A5e6EoN
+何同学https://www.bilibili.com/video/BV19v411M7Rs/
+能看出来虽然技术都差不多，但是讲故事的水平完全是两个境界', '个人提升, 项目与产品', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:31:29', 3, 0, NULL, NULL, 'active', NULL, 724);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('成就是需要时间的----MrBeast大火背后', 'MrBeast是youtube最火主播，但他曾经也有三年日复一日当mc主播，日更。just 重复做这件事情。
+不对你的目标有过高的期待，反而设立好最坏的打算，会让你开始的更容易，坚持的更持久', '个人提升, 人生规划', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:33', 4, 0, NULL, NULL, 'active', NULL, 725);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('远离干扰，把时间留给自己', '社交媒体太发达，看别人生活太多，引起焦虑和失落。（别人这么完美我什么都不行）
+想办法每天都创造一个把时间留给自己的环境，哪怕1-2h，隔绝社交媒体 手机 朋友 家人等，静下心来完成一些平时完成不了的事情', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:34', 7, 0, NULL, NULL, 'active', NULL, 726);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('远离拖延症', '1. 设定一个不那么大的目标
+2. 不要害怕失败', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:34', 8, 0, NULL, NULL, 'active', NULL, 727);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('参考中国制造2025（也可以是自己的规划）', '在10个领域里，设立超过250个小目标，每1年到5年进行调整和复盘', '个人提升, 人生规划', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 16:55:40', 5, 0, NULL, NULL, 'active', NULL, 728);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('ai学习很系统，很快速
+但是有很多经验类的东西，真正做了你才发现问题 ', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 729);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('家里有多一件爸爸的衣服 ', '', '生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 730);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('有些建议想对男生们说说，尤其是那些长相普通，家境一般的男生。我知道你们不少是单身，很想谈恋爱，渴望有一段纯粹的爱情，但由于自身条件一般，加上从小被灌输不能早恋的思想和社恐的性格，一直没有机会。你们也许会想，我追一个同样平凡普通的女生总可以吧，但现实很残酷，大部分女生无论条件出众与否，择偶标准都蛮高的，外貌，金钱，才华，人际，要有好几样优秀，她们才会真正的考虑你，才可能会对你产生爱情，女朋友带你出去才会觉得有面子。所谓说的细心，温柔等等标准，前提是女生喜欢你，你表现出这样的品质才会更喜欢。普通的男生们如果遇不到合适的人也没必要强求，不谈恋爱其实也没什么，一定多把精力放在打DOTA2上，别让等待成为遗憾。? ', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 731);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 732);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 733);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 734);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 735);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 736);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('自己想要的就要自己主动
+别人主动的就不要bb 
+独立才有自主权
+比如：
+嫌不好吃，就自己煮饭
+别人给你煮饭（吃别人的饭）就不要嫌这嫌那 ', '', '个人提升, 交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 737);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('推荐桌子长度（方便放电脑）80cm
+最低限度要能放手+鼠标垫+鼠标 ', '', '生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 738);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('leetcode刷题感想', '多用 多考虑各种函数的库，可以快速解决，同时展示了自己会使用', '工作', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 16:48:33', 8, 0, NULL, NULL, 'active', NULL, 739);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要存储office文件，尽量避免存储二进制流文件', '使用诸如md txt的文本文件更稳定，二进制流文件会因为版本更替和硬盘损坏而全部不可用', '工作', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:32', 4, 0, NULL, NULL, 'active', NULL, 740);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('我用嘴活着，也自然活在别人嘴里。互联网时代更强化了这种概念，说话的风险明显加大。今天为你点赞，明天对你点杀，落差大到可以发电，你无处可躲。
+话说错了，自然在劫难逃;话没错，也有相关的群体带着不满冲你过来。没办法，这个时代，误解传遍天下理解寂静无声。即便你的整体节目本是为他们说话，但其中的一两句话没按他们期待的说，责难照样送上。后面跟过来责骂的人，大多连节目都没看过，看一两个网上的标题或一两条情绪化的微博就开始攻击。', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 741);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('学计算机经验之谈：如何提升自己的竞争力实力', '算法功底
+计算机基础功底
+一种精通技能功底
+刻意练习', '工作, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:35', 4, 0, NULL, NULL, 'active', NULL, 742);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('关于就业-要一直有危机感', '对技术岗来说，你要不停骑驴找马，不然就等着公司卸磨杀驴', '工作', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:55:50', 6, 0, NULL, NULL, 'active', NULL, 743);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('和别人关系再密切
+你不如别人或者是你在别人眼里没有利用价值的时候，别人都会冷漠与你 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 744);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('没有什么友情是不能和好的，人都是逐利的', '和女生的裂痕，沉默一年后也是能回到起点的
+其实他并没有那么恨你。不过她也没有那么care你 ', '交往', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:31:29', 3, 0, NULL, NULL, 'active', NULL, 745);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('因为男女的关注点不同，女性比较关注自我，男性比较关注世界。这就导致男女对视频的兴趣度不同 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 746);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('国人的思维总是报酬正比于劳动时间。真正的价值是解决了什么问题，满足了什么需求，而不是付出了多少劳动。老板这样想也就算了，客户都这么想，愚不可及[辣眼睛] ', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 747);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('有些事情一辈子只会发生一次，但却会影响一辈子 ', '', '人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 748);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('考研是一个遗憾一辈子的事情 ', '', '人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 749);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('给大家一个建议：喜欢就继续相处 永远不要设限是恋人还是朋友 不要试图抓住关系 而是享受缘分无论最后你们走到哪里 都是上天赐给你们的奖励正如那天在书上看到的那句话 我想送给你：山林从不向四季起誓 枯萎随缘 人与人之间的关系 就像流水 你越是用力去抓 越容易从指缝中溜走 我们常常执着于维系某段关系 却忘了关系的本质是自然的流动 生命中的每一次相遇都是缘分的馈赠有的人陪你走过一段路 有的人与你擦肩而过 这些都是命运的安排 强求的关系往往让人疲惫 而自然的相处才能滋养心灵 缘起时珍惜 缘尽时放手就好与其苦苦抓住一段关系不放 不如学会享受当下的相处。 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 750);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('跟别人面试，沟通
+本质上是一种“表演”
+你不用那么真诚，也不要因为说的是废话就不说
+废话，也要说，让别人知道你的态度
+ ', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 751);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('放权交换，平等互惠：
+和别人沟通的时候，一定是自己确定一部分别人确定一部分
+比如约时间，你可以确定地点，让别人确定时间
+或者你来确定哪天，对面确定具体几点 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 752);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('字节跳动底薪20-30k
+正常人最多10k
+
+一个月至少多10k，一年多赚120k（12w），读研3年工作三年回本 ', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 753);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('下午睡觉起来，感觉过了一天 ', '', '生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 754);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('教师高薪', '广州市天河区某省一级中学的行政人员告诉财新记者，工作满一年半后，年薪水平能基本达到“20万+”，月度奖金各个学校有自己的算法。
+
+国家统计局5月发布的全国非私营单位就业者薪酬报告披露，19大行业中，教育行业就业者年薪92383元，超出各行业职工平均年薪资82461元约12%。相较之下，“深圳水平”可谓翻番。
+
+龙华区教育局还表示，本次在编教师招聘，报考门槛不设限，非师范专业、无教师资格证也可以报名，无笔试，只面试。随着工作年限增加，教师待遇也会进一步提高。深圳南山区一名公办高中人士告诉财新记者，四年教龄、硕士研究生文凭的老师，其年薪可达32.4万元。
+
+龙华区出手阔绰。26万还只是本科生的价格，研究生“28万+”，优秀毕业生奖励3至8万，全日制博士奖励20万。
+
+龙华区第三外国语学校一名工作人员告诉财新记者，深圳各个城区公办教师待遇基本持平，该市多区都开出了“25万+”年薪招聘事业编制教师。
+
+深圳市统计局最新数据显示，该市2018年城镇非私营单位在岗职工平均年薪为11.2万元。公办教师的“offer”，远超当地平均工资水平。
+
+龙华区为何如此高调在全国高薪招聘老师呢？ ', '网络', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:34', 5, 0, NULL, NULL, 'active', NULL, 755);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('写业务的，需求量最大，最容易被替代 ', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 756);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('中性化穿搭
+还有造型
+臀部曲线 ', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 757);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('翻墙有多重要：
+github
+安卓studio
+chatgpt
+谷歌服务 ', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 758);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('多和旧人做新事 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 759);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('为什么和jy分手了：
+用心不够
+练习不够
+觉得有没有npy的区别不大，或者只起到了“朋友”的作用
+
+要多多总结复盘
+
+在和别人争吵的时候
+突然这个人就开始扯开话题，“你怎么这个xx态度”，变到一些鸡毛蒜皮的事情
+从讲道理变成了别的
+我们要一码归一码 ', '', '个人提升, 交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 760);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('B站四大名著 大明王朝，雍正王朝，人民的名义，让子弹飞，没有一个梗大家不熟的[笑哭] ', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 761);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('qq空间
+最多只能下载50张
+上传照片，会被压缩画质 ', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 762);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('尤其是今年和明年
+不断创新高的本科生和前几年开始扩招的研究生和因为疫情缓就业的学生集中加入求职队伍 ', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 763);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('商务合同，分期付款
+尾款，预付款 ', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 764);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('想要有，先得跟他们交往起来，了解他们想的什么，
+
+有时候稍微chugeyidian没有关系
+
+多创造单聊的机会
+
+商院很多都脱单了，要小心一点 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 765);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('低音炮
+
+形成自己唱歌风格
+
+不好的ktv会炸音
+卫生不好
+灯光不行
+麦克风不行
+
+小程序点歌不行
+ ', '', '生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 766);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('八大原谅指：来都来了、都不容易、都是朋友、是个孩子、人都死了、大过年的、给个面子、为了你好 ', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 767);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('纯秋春招基本不可能
+能进最后一面的都是能力强的
+只是候选人太多了
+
+南方电网招人，一般都是一个局一个人，专门管机房
+
+周一到周三下午投，不要周末投
+周末投，一定加班没双休
+周五要开会 ', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 768);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('欠sqm一顿饭
+欠李文约50元', '', 'TODO, 生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 769);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('任何事情都要同时立足当下与未来
+未来应该是怎么样，现在我们要怎么做', '', 'TODO, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 770);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('养成无菌操作
+防止细菌感染黏膜
+尤其是很久没用过的地方', '', 'TODO', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 771);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('团建人数最优解', '', 'TODO', '旅行, 团建', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 772);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('男生尽量住一居室，生活质量要高！鼓励出租房装修', '', 'TODO', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 773);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('主打规律。
+用一天时间理清楚自己要干什么/什么重要/按次序列出', '', 'TODO', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 774);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('吃饭前，给钱后要一根牙签（对妈妈）准备好纸巾', '', 'TODO', '家, 妈妈', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 775);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('多实习永远没错，诶要不去找一个安卓或者鸿蒙开发岗？
+偏toB的，政务云的，毕设的。
+干5-6个月，7-8月准备二战', '', 'TODO', '长期', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 776);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('二战计算机：
+如何平衡工作和考研
+', '', 'TODO', '长期', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 777);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('准备好香港攻略
+吃喝玩乐，地点时间等等
+很多时候我们去旅游的心态和想法是寄寓于大家影视 文学小说 和以前的回忆里的印象
+比如香港，香港港片，电影里的地名，巴士样子，香港歌曲 演唱会 人物 事件里的印象', '', 'TODO', '旅行', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 778);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('考雅思
+考无线电', '', 'TODO', '长期', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 779);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要有我的五年规划：是否考研？长期规划 & 短期目标都要有 ，自己设立目标才能走得远', '', 'TODO', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 780);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('喷墨打印机+自封袋+纸盒子+3D打印机+自己DIY模型，送礼绝配~', '', 'TODO', '送礼', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 781);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('研究一下技术的推广
+参考：微信支付，美团，滴滴，支付宝的推广
+软件开发全流程。（最重要的是推广发布和宣传） ', '', 'TODO', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 782);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('大家都想要体验一下（人生不需要成功，重在体验）', '', 'TODO', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 783);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('学习李蒙-不断的演讲，画大饼', '', 'TODO', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 784);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('体态修复
+驼背严重', '', 'TODO', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 785);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('考研八个月，积累一身病
+实习/上班八个月，留下一身病
+有小病一定要去看，小病就是身体在提醒你
+待自我感觉免疫力和抵抗力较好时，做手术
+不然术后恢复要很久        ', '', 'TODO', '长期', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 786);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('云服务是我开的会员（域名40/年，服务器100/年）
+', '', 'TODO', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 787);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('x光可以看到“这里有个东西”
+CT可以看到“这个东西很像xx癌细胞
+增强CT，PET，活检可以确定“这东西就是xx”', '', 'TODO', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 788);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('北京路小铁桌球还有50余额！ ', '', 'TODO', '记忆事项', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 789);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要做的事情太多，会有无从下手的感觉，最后啥也没干
+那些是紧急的 ', '', 'TODO', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 790);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('每天要完成的事情（习惯养成）', '', 'TODO', '长期', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 791);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('todo:保持输出的能力', '', 'TODO', '长期', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 792);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('每天要有提升自己工作流 认知提升与输出的时间', '', 'TODO', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 793);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('时隔一年，重新try一下大厂实习（是不是那么简单？）', '', 'TODO', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 794);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('大量信息的all in one：
+b站收藏，稍后再看，总结
+qq微信通讯录，收藏
+备忘录/便签
+日程表/日历
+edge收藏 ', '', 'TODO', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 795);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('加入ai操作，比如可以批量修改数据，如“把账单有关校卡的对应分类全部改成学校” ', '', 'TODO', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 796);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('todo：总结我的大一-大四', '', 'TODO', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 797);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('多用计算机软件
+可以解决别人的问题
+
+matlab
+等等软件都有装环境和使用的经验 ', '', 'TODO', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 798);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('积累一些尬聊语料
+和一些自己的常用金句
+
+聊天不要贴标签（某某类人xx样子，而你怎么样子）
+先当朋友相处
+
+了解知识的广度，比如点菜知道菜系 ', '', 'TODO, 交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 799);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('mydockerfinder win模仿mac桌面', '', '项目与产品', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 800);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('影视飓风 公司化管理学习', '1. 公司的监控大屏，这里用的是涨粉量化表，可以自己修改
+2. 拉去自己服务器后端的图片什么的
+3. 每年有一个总结/视频/素材合集
+4. 数据存储柜（外卖柜）方便管理自己素材，飞书自动登记
+5. 磁带柜，30年备份。硬盘的话最多保存10年。
+6. 内部工具开发。增效
+7. 五金店：特种设备解决方案，用于各种场景的解决方案。可以给别人tour介绍的
+8. 博物馆、收藏柜（内部有灯）
+9. 倒立的3D打印的上海（展示）
+10. 设备间（用欧标铝做的展示柜）+洞洞板+各种玻璃柜+3D打印
+11. 全屋智能：一个系统控制所有灯光、设备等
+12. 飞书工作台->信息流通线：全匿名，优化的地方
+', '', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 16:49:05', 4, 0, NULL, NULL, 'active', NULL, 801);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('输入型爱好使人空虚的话，那输出型爱好会使人焦虑，如果你恰好还有一点天赋但不多的话，那焦虑会折磨得你夜不能寐', '输入型爱好使人空虚', '', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:31', 4, 0, NULL, NULL, 'active', NULL, 802);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('单休=没有休息', '冷知识：单休和双休有本质差别，单休做6修1，双休做2.5修1，相当于不仅休息时间少了一天、工作时间还多了一天
+底线就是薪资+20%，且对未来有成长', '工作', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:55:47', 5, 0, NULL, NULL, 'active', NULL, 803);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('关于面试【嘴笨】演讲的本质', '对我这种上场超紧张的，我发现准备不能太充分。不要把上场要说什么全写出来，上场指望全部讲到。这种越准备越紧张。上场脑子一片空白，更紧张了。现在我只会提前准备关键点，上场以后大脑主要考虑如何通过这个关键点去发散。大脑一动起来了，就顾不上紧张了。【演讲的本质是你准备120%，说出80%，拿到60%的分就够了】
+
+面试本质是一场表演', '', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 16:48:24', 6, 0, NULL, NULL, 'active', NULL, 804);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('无聊的时候与其刷手机，不如做这些事', '一，创建特定主题的播放列表。是学生的话可以分学科。
+二，使用一些编程的软件尝试自己创造游戏。
+三，开启一个电影俱乐部。简而言之就是有固定的时间和朋友一起看电影。
+四，和兄弟姐妹一起玩。
+五，清理你的数字空间，清理你的手机相册还有APP等。自控力差的不要做。
+六，做一些有创造力的事，学习画画音乐摄影。
+七，学习一门新语言。
+八，探索世界。不一定要是物理意义上的，可以用谷歌地球来探索。
+九，做拼图跑。
+十，开始收藏。
+十一，给自己做一个1~2分钟的迷你VLOG。
+十二，学习一项技能。做饭呀，DIY都可以。', '', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:31', 4, 0, NULL, NULL, 'active', NULL, 805);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('世界永远不会让你满意，你只有自己让自己满意
+', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 806);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('
+算法就是先想到一个方法，然后在证明他的正确性 ', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 807);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('想要和任何人轻松持续地聊天 ', '不需要“强行找话题”或刻意表现，关键在于营造自然流动的对话节奏。以下是经过验证的方法，帮你打破尴尬，让聊天变得轻松：---
+
+ 
+
+### **1. 先「不急着说话」反而能聊更久**
+
+- **倾听就是最好的开场**：对方说完后，用“然后呢？”、“后来怎么样了？”鼓励对方展开细节，人们更喜欢谈论自己。
+
+- **观察细节找切入点**：对方的穿搭、手机壳、随身物品（比如一本书或耳机）都能成为自然话题：“这个图案好特别，有什么故事吗？”---
+
+ 
+
+### **2. 用「开放式问题」代替查户口**
+
+- **错误示范**：“你是做什么工作的？” → **正确示范**：“你平时工作最有意思的部分是什么？”
+
+- **进阶技巧**：在对方回答后，用“为什么？”或“比如？”引导深入。例如对方说喜欢旅行，可以问：“如果现在能立刻出发，你最想去哪里？为什么？”---
+
+ ### **3. 制造「话题钩子」让对话滚雪球**
+
+- **关键词抓取法**：对方提到任何信息时，抓住关键词延伸。例如对方说“最近加班好累”，可以延伸：
+
+ - **共鸣**：“我也经历过！有次加班到凌晨三点...”（分享类似经历）
+
+ - **未来视角**：“等忙完这阵子，你最想做什么放松？”
+
+ - **幽默化解**：“我猜你现在的梦想是睡到自然醒吧？”---
+
+ ### **4. 万能话题库 + 灵活切换术**
+
+- **安全牌话题**：美食、近期热点（电影/赛事）、宠物、旅行经历、童年趣事。例如：“你小时候做过什么现在想起来很搞笑的事？”
+
+- **自然切换话术**：当话题枯竭时，用“对了，说到这个我突然想到...”转到新话题，避免生硬。---
+
+ ### **5. 让冷场成为你的武器**
+
+- **冷场不慌心法**：微笑3秒后说：“我们刚才聊得太投入，我差点忘了喝水”（顺势做个小动作化解），或直接调侃：“突然安静是不是有点尴尬？哈哈”。
+
+- **退出时机**：察觉对方心不在焉（频繁看手机/简短回应）时，可以用“我先去加点饮料，回头再聊？”礼貌结束。---
+
+ ### **关键提醒**：聊天本质是能量传递，比起内容，你的放松状态和微笑更能让人感到舒适。练习时从“每天和一个陌生人聊30秒”开始，逐步培养松弛感。真正的高段位聊天，是让对方觉得意犹未尽，而不是单方面 ', '交往', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:33', 4, 0, NULL, NULL, 'active', NULL, 808);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('一定要低油低盐，清淡饮食！！！！
+少吃不知道成分的东西，比如酱， ', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 809);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('随身准备礼物 ', '', '交往, 生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 810);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要把价值投入全部放到一个人身上，不然就会像初中的吴宏瑞一样，当你毕业了发现你什么都没有 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 811);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('最好是实习转正
+所以实习要找的好，转正才能好
+秋招/春招都要你继续实习的
+
+未来计划：实习6个月 ', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 812);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('人体是经不起多次大手术折腾的，这就是拿上限换现在多活几年，这其实没办法 ', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 813);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('我就是其中之一，比较早期。这个病被称为沉默的杀手，肾单位不可再生，但是储备丰富，当你能胡吃海喝熬夜透支还没事的时候，是肾默默承受代偿。等你有症状的时候说明肾单位被你霍霍得差不多了。按照比例，我国每10个人中就有1个是患者，这还是已知的情况下，有些患者人还不知道自己得病！所以，一年一次的体检很有必要，除此之外低盐低脂饮食，经常锻炼，多喝水，避免憋尿久坐焦虑，不要熬夜，不要乱吃药！！当你快活的时候，肾宝宝在替你负重前行！
+ ', '', '生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 814);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('面试紧张怎么办？
+33%法则，当海王
+面多了，就“麻了”
+不会就大大方方说不会
+会一点就说会一点
+
+可以试试不找互联网公司，试试冷门一点的 ', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 815);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('为什么不吃食物链顶端的食物：
+毒性富集严重 ', '', '生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 816);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('ai是用来解决问题的，不是解决问题的
+所以不要说ai替代xx，应该是ai帮助了xx ', '', '工作, 网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 817);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('辉煌时刻谁都有，别把一刻当永久
+
+当理智的选择更负面，情绪就会占上风 ', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 818);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要有留证意识 ', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 819);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('开发时要保证兼容性（开发新功能要保证旧功能可以使用，避免返工或者做到一半挂起）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 820);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('个人知识管理，可以通过改造vscode ', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 821);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('工作的时候不要什么活都接来干，防止以后不遇到这个问题就来找你', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 822);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要有实时被监督的 被实时监控的要求自己 ', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 823);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('答辩心得', '一些比较有趣的，有交互性的视频，是很吸引人的（不只是某个数据的展示）或者把自己的应用变得好玩一点，就要想一个场景（比如工作流，常用场景）
+比如游戏在线玩，mrvr在线
+如果应用不够好玩
+
+应用开发，也要精心准备，也可以做的很好（ppt页码，详细工作，论证过程，结果展示） ', '工作', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:34', 6, 0, NULL, NULL, 'active', NULL, 824);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('关于春招', '春招offer
+
+7000
+要会讲价
+
+sjh投了900多个简历 ', '工作', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 16:56:48', 5, 0, NULL, NULL, 'active', NULL, 825);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('国家基层治理', '黄金时代的美国也有黑帮家族控制城市，整体的快速发展不能掩盖基层的混乱 ', '网络', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:35', 6, 0, NULL, NULL, 'active', NULL, 826);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('知识驱动式学习
+问题驱动式学习 ', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 827);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('万事开头难
+怎么解决开头难的问题 ', '开始由点成面：先把好做的做出来，在完成难做的（容易开始）', '工作, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 16:55:28', 5, 0, NULL, NULL, 'active', NULL, 828);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('别人会把你的专业进行推广
+（就是你研究的是很小的领域，但是别人会认为你懂得更多，为此你需要知道更多） ', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 829);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('有些事情会积少成多，有些是小事但是经常发生（比如学校的瓜）
+留着一两条无用，但是弃之可惜，就可以用文档记录下来 ', '', '个人提升, 工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 830);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('群里要积极沟通，宁当第一个 发言人', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 831);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('
+人们对学生身份的包容性会大于任何，一旦你毕业再想像以前那样就很难了
+（何同学）
+（拉宏桑）
+（叮当和他的朋友们） ', '', '人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 832);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('硬件测试，嵌入式项目
+
+稳定性和方便性高于功能性 ', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 833);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('关于男女 情感', '看到视频里面的男生为了换取性价值一味迎合的样子我真是恨不得打他一顿，我是真的希望咱们广大男性同胞们把腰板挺直点，你以为你越是对她好，越是把自己能给的都给她，她恰恰会做出与你想象相反的事情，人是不会珍惜轻易得来的东西的，因为那样太平凡了，你要真想得到你想要的，那就要有节制的控制住自己的思维和繁衍冲动，冷静下来。人的本质是情感动物，特别是女性尤其如此，你要做的是让女性在情感上能够因你而有起伏，建立情感联系，而不是把自己的生存资源一口气全交出去了，那样换来的性价值跟娼妓并无不同，也得不到你想要的真爱。
+哎，这也怪咱们男生从小到大并没有去学习如何去建立一个正常亲密关系，女生天生就知道自己外貌是自身价值的展现，所以拼了一切去提高自己的价值，而咱们男生当中，有一些长相不错，对这方面略微擅长的，则被誉为“渣男”。他们清楚女生想要什么，也能伪装给女生想要的东西。
+剩下的就是大批从来没有怎么了解过女性心理，学生生涯大把时间花在自己的兴趣爱好（游戏、打球、喝酒等）的直男，宅男等，其中也有一些谈过个把女生，悟性高点的也也隐隐约约摸到了女生的特性，然而更多人是陷入到对互联网下男女价值观被异化后的迷茫，男生刷抖音b站逛知乎贴吧，网上反抗支持着男性的不婚，不龟，然而他们现实中真的遇到喜欢的女生（指五官正常被化妆优化过的女生）就容易克制不住自己舔人的本能，因为他们以前的社交模式便是对别人好，付出就会有自我满足感，至于别人接不接受，他也很难意识到，意识到了也无法说服自己。
+女生逛小红书刷b站看微博，也意识到了女性在以前被赋予的价值（传统价值观下的女性）
+而现在，生命诚可贵，爱情价更高，若为自由故，二者皆可抛。女性通过刷互联网，知道了自由且不被定义是自己最想要的，哪怕这份自由实际上还是依赖于他人（经济），但你不能反驳当代女性在人格上是自由的。（因此你刚开始谈恋爱时不要去否认女生的爱好、价值、也不要去定义她们，因为你不清楚她是什么样的。我知道这很双标，但如果你遇到这类人了还请表面上尊重她们的一切，最起码在一开始不要预筛选，如果你想得到你想要的）反过来，你也可以利用这些去筛选你心目中想要过一辈子的伴侣，是适合短择还是长择，取决于你的判断。 ', '交往', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:31:29', 4, 0, NULL, NULL, 'active', NULL, 834);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('朋友一定不要只有自己目的
+要会关心别人 ', '纳什均衡博弈论：单次博弈精致利己，多次博弈互利共赢。要学会让利', '交往', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:32', 5, 0, NULL, NULL, 'active', NULL, 835);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('把爱好变成工作，你就会发现你失去了这个爱好[doge] ', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 836);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('玩游戏也能练习抗压能力
+当大家的目光都在你这里的时候，你要能准确无误完成任务 ', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 837);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('任何人之间都有蜜月期，半衰期，冷漠期 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 838);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('答辩心得', '专业的女生比例摆在那了
+不论怎么排列组合都这样
+
+答辩的教师12人/2女生
+
+毕设答辩最重要的事情
+讲清楚意义，应用场景，给谁用？为什么要用？
+真正的进度（而不是验证）
+
+工程类最好有现场演示，至少要有视频演示
+
+开头比较好，后期pa掉下去了
+
+毕业设计要有目标 而不是“练习”
+要有目的性
+
+研究型课题和工程型课题
+工程性课题，要有自己得意的地方（应用就是用户体验）要有兴奋点，兴趣点，做的好玩（要让老师觉得“有亮点”）
+特别是工程应用的推广，宣传等等
+（ai试衣间）
+具体的方案我就略过了
+
+笑死，导师官官相护
+靠自己老师给自己维护
+然后由其他老师质疑
+老师之间吵架
+
+老师都会关心一下复试情况
+
+企业课题和“自己的训练题”不一样，要有特别的玩法
+要学产品经理，并发量需求，访问层数，界面优化
+
+很多工程开发方面没问题，但是要有表达方式why（整个系统产品力）
+
+要投入精力，激情，心血（至少要让老师觉得你投入了）
+
+大部分大学生都是混混，小部分在吹水（市场成熟的东西） ', '工作', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 16:55:41', 7, 0, NULL, NULL, 'active', NULL, 839);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('答辩经验', '要优化表达思路，至少要看起来“高大上一点”
+有条不紊一点，不要一紧张就快
+做的什么东西要解释清楚
+旱的旱死涝的涝死
+所以大厂实习很重要
+sjd一个老师就带一个研究生 
+【哪怕全是熟人，也要拼尽全力，认真讲好】', '工作', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:33', 4, 0, NULL, NULL, 'active', NULL, 840);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('邀请别人要有议程 ', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 841);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('但是要警惕海量个例
+某一个信息可能是个例
+（比如某某人某部门被裁了的信息，如果大量人都这样就说明不是一个现象）', '', '人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 842);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('系统更新是要做好兼容性，保留旧版入口（默认新版）', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 843);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【〖食贫道〗粉丝：想知道稳重是以什么岗位进公司的，是什么让你选择了他-哔哩哔哩】 https://b23.tv/p8Et1yj', '创业初期能力是其次的', '工作', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:54:16', 5, 0, NULL, NULL, 'active', NULL, 844);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('微信群公告，就算群解散/聊天记录清空，也会保留群公告', '所以在群公告里尽情的塞链接，永久链接，百度网盘等等', '工作', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 16:55:33', 6, 0, NULL, NULL, 'active', NULL, 845);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('像钟烨，王珏，刘桢她们都习惯性会po点文字记录（文章）但可能是很碎片的，但是是对内的
+而自己也有记idea的习惯，更加理性，系统，对外的 ', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 846);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('自己组织的活动，要有自己一个人组织协调一堆人的能力（比如毕业典礼：你邀请了很多人三十个人，但是大家互相不认识，只认识你） ', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 847);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('说话大方自信一点
+紧紧有条', '', '交往, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 848);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('关于政治，普通人跟政治的关系', '你可以对政治毫无兴趣，可你必须确信:政治对你却太有兴趣,政治绝不会因为你对政治不关心而放过你。所以，假如你不想作戏台上一具可怜的傀僵，给别人随心所欲地推来推去，你就别无选择，必须关心政治。这其实就是关心你自己。——《新华日报》1945年9月11日
+
+1. 经查证《新华日报》1945年9月11日原版报纸及《新华日报》电子数据库，未发现该日期报纸刊载过您所引用的这段文字。
+
+2. 该表述在网络上虽常被标注为《新华日报》1945年9月11日刊文，但经专业学者考证：
+- 实际出自1979年香港某政治刊物文章
+- 后被误植为《新华日报》历史文献
+- 相关误传已由《新华日报》社史研究部门在2018年予以澄清 ', '网络', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:35', 7, 0, NULL, NULL, 'active', NULL, 849);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('在大家都不明所以的时候，第一个提出人往往会遭受最大的仇恨（老师不知道论文原件都在他那里，你提出来的话会让老师觉得你做事不行） ', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 850);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('跟一个人足够多联系后（jy）
+你的什么都离不开他（密码，头像，用的东西，各种东西都是）
+同时送礼也要送实用的 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 851);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('拍照拍视频要选择好一点的机位
+
+拍的不好取决于机位不行（景别不对）
+ ', '', '工作, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 852);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('关于细节，保留证据和原件扫描的意识还是不够 ', '', '工作, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 853);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('
+如何高效做有用的记录/汇报/日志：
+发生事件：发生了什么事情，有谁参与，主要内容是什么，得出什么结论
+目的，完成情况，风险点
+
+多人协作，一定要及时同步信息（会议议程，要有这个意识） ', '', '工作, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 854);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('教授和实验员气质完全不一样 ', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 855);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('分享的内容要打tag：视频，图片，语音等等
+尤其是微信、社交媒体的聊天 ', '', 'TODO', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 856);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('最近有点冲动消费了，要克制一下！！！
+
+消费前三思：考虑3次，3天后再买 ', '2025-06-07', '', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 16:55:38', 4, 0, NULL, NULL, 'active', NULL, 857);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要当着多个人的面说某一个人的私事（可能大家并不知道这件事，ta） ', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 858);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('有一个很好的角度：区分一件事的态度，要看他是投资还是消费（把留学当投资很亏，当消费很赚，把爱情当投资很亏，当消费很赚） ', '', '个人提升, 人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 859);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('背后里不要说别人，一定要维护别人 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 860);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('出门一定要常带备用衣服 ', '', '', '家', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 861);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('准备会议，演讲的时候
+
+一定要提前准备好ppt/文档+现场演示+代码
+一定要有逻辑，大家知道你在干什么
+
+不然线上会议的时候，乱弄 ', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 862);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('一个特别重要的信息就是，谈恋爱之前先要处朋友，把她是女的，对你有性吸引这一点抛出去，然后你们两个还能因为价值观，共同兴趣，生活习惯等等成为好朋友，再恋爱，再结婚，不然绑定在一起，发现不合适，但是有沉没成本，就有怨恨。 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 863);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('参加别人的活动（别人邀请你吃饭），要提前准备花，符合场景的礼物（提车对应车载小挂件，手捧花等等）
+
+出发前，（不管是不是你组织的）都要想好吃饭的地方+其他行程（有家长 无家长） ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 864);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('人生重要决定 / 三大问题', '“对初出茅庐的年轻人来说，最重要的事情是什么？
+
+ 最重要的是，要在重大决定上花更多时间。人生早期有三个重大决定：在哪里生活，和谁在一起，从事什么职业。
+
+ 在开启一段亲密关系之前，我们总是很少花时间深思熟虑。我们把大量时间用于工作，却很少花时间想清楚自己应该从事什么样的工作。居住的城市几乎可以完全决定一个人的生活轨迹，但我们很少花时间认真思考哪个城市更宜居。
+
+ 如果你将在一个城市生活十年，一份工作干上五年，或者跟一个人相伴十年，你就应该先花一到两年的时间认真思考再做决定。这些都是非常重大的决定，是人生的三大关键决定。
+
+ 对于重要的问题，你应该放下手头所有的事情，专门拿出时间认真思考。而以上可能是人生最重要的三个问题。”
+
+摘录来自
+纳瓦尔宝典
+（美）埃里克·乔根森 ', '人生规划, 交往, 工作', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 16:55:36', 5, 0, NULL, NULL, 'active', NULL, 865);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('为了防止触电，尽量用手背接触金属（被电了的话肌肉收缩不会握紧把手）', '', '生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 866);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('每个月都要想想自己的东西有什么实际应用（对自己，给朋友的应用） ', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 867);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('大学在实验室的人98%都有对象了
+不要乱碰 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 868);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('随时准备礼物+礼盒
+最好是有地狱特色，公司特色的 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 869);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('考上了怎么办？上岸第一剑先斩意中人咯 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 870);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('所有通话都要录音！！
+特别是口头答应的事情 ', '', '工作', '', '2026-04-29 18:07:42', '2026-04-29 17:55:09', 10, '2026-04-29 17:55:04', 1, 0, NULL, 'helpful', 'active', NULL, 871);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('自己想的道理', '1、找对行业很重要，工作5年后会感觉很多东西都老化了，需要学习新的东西；天天刷短视频刷抖音很浪费时间；
+2、不同的阶段要定下不同的目标，碰到瓶颈的时候，只能通过学习，不断地规范的求学，有的可能是短期的自我学习，总之突破自己欠缺的短板；每一次学习都是对人生的一次改变。
+3、有情怀的，想要做的久的企业还会持续存在，企业解决了大量就业和税收，与短时间下场捞一笔的没法比；
+4、肯定不会在这么短时间内变好，国内卷的不行不如考虑出海，海外目前哪个环节都有机会；
+5、原来1个人或是100个人创造的价值空间更大，但是现在活多了两倍，效能却缩小一半。整体趋势是越来越苦。
+6、0-1要坚持，多试，要有耐心，创业是要花钱的，但是真正的创业是零预算或是轻预算，花钱去砸的时代可能性越来越小。 ', '个人提升, 工作, 人生规划', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:31:30', 3, 0, NULL, NULL, 'active', NULL, 872);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('拥抱变化“字节员工”
+字节签三年，平均工龄2.7年 ', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 873);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('女生说的不想谈恋爱那都只是不想和你谈 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 874);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('消费一定不要冲动，超过100/1000/10000的消费需要额外时间考虑
+（是否必要，是否有用，是否划算）
+大额消费的规避，避免投资失误 ', '', '工作, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 875);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('够把每个人送回家
+自己开车的话 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 876);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('买家具一定要买可折叠的可拆卸的！！便携的，轻的
+
+要么就买便宜的，可丢弃的 ', '', '', '家', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 877);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('深圳技术大学', '我校深圳技术大学无早晚自习，无校园跑，无宵禁，无门禁，无查寝，无断电，无熄灯，无断网，无多事辅导员，空中大学无校门，饮水机免费，每人热水补贴200/学期，24h热水，体育积分200/学期，体育馆健身房5积分或者10积分一次，有室内恒温游泳池。电费补贴128度/学期，一间宿舍配有一个厕所和一个淋浴间，上床下桌四人间，全天不断电不停热水，一栋宿舍楼三个方向共10部电梯，外卖可以送到宿舍楼下，宿舍楼底下有配套健身房，男女分区。教学区的所有厕所都有空调，不用怕夏天上厕所的时候纸巾用来擦汗，倒是可能会被吹感冒。图书馆很美，二楼配套瑞幸咖啡，有特别设置的研讨室，有适合i人的阅读小角落每周还有免费观影。文体活动很很很丰富，比如有国际周，新生舞会，校运会，新年晚会，音乐节…… ', '学业', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:53:47', 8, 0, NULL, NULL, 'active', NULL, 878);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('一定要低油低盐，清淡饮食
+不要吃任何有可能会拉肚子的（炸鸡 油腻的炒饭 辣的东西，带调味料的东西 拌饭，生东西）
+吃了煲仔饭，肚子不舒服就是自己难受 ', '', '生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 879);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('化妆要挺久时间，尤其是每天都花的话
+如果有人为了你化妆，那一定要好好珍惜她', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 880);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('团建有车就是无敌啊！ ', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 881);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('互联网素质发力了说是。这男的长得是丑到令人生理不适了吗？如果没有 符合人家女孩子的标准 还在别的方面有所优势为啥不能谈恋爱 合着你谈恋爱就是颜和钱 就完了是吧[吃瓜]
+
+男生有才气有魄力不比金玉其外败絮其中强[傲娇] ', '', '网络, 交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 882);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('发生肢体冲突时，要顺势倒，不要争抢（对着干，对面用力你就顺着对面的力倒下去） ', '', '生活, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 883);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('真的被信息茧房困住了一开手机全是熟悉的东西 毫无新鲜感 ', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 884);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('为了停车方便，选车原则：
+', '不开5米的车
+不停这样的库', '生活', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:34', 4, 0, NULL, NULL, 'active', NULL, 885);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('关于泸溪河', '我很喜欢泸溪河的绿豆饼和绿豆冰糕，我妈喜欢生乳卷和麻薯，我室友也有各自喜欢的产品，感觉泸溪河还是挺实惠的，到店可以按个买是最好的[打call]再也不怕吃不掉啦 ', '生活', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:35', 7, 0, NULL, NULL, 'active', NULL, 886);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('男女生差异', '感觉这个年龄的女生（20-28-32）更加在意女性成长 表达 疗愈 社交 热爱等方面的软实力性质内容（对话实践成长）
+与此同时男生在追求技术 突破等等硬实力的 ', '交往', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:53:15', 5, 0, NULL, NULL, 'active', NULL, 887);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('关于材料', '再好的橡胶材质，塑料再用久了之后都会变脆 ', '生活', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:34', 6, 0, NULL, NULL, 'active', NULL, 888);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('为什么讨厌销售
+', '因为你的每一次约她都在和你讨论可能性，你把他当朋友，他把你当客户', '交往', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:54:09', 6, 0, NULL, NULL, 'active', NULL, 889);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要深交任何让你下意识不舒服的人（黄晓娟 感想）通过简单的聊天判断一个人能不能深交', '不要深交任何让你下意识不舒服的人，你的大脑已经帮你做好筛选了
+
+同感，我也有个同学，感觉很多时候都是她在向我输出观点什么的，但说真的我有时候不感兴趣，可是还是习惯性地作一些附和性的回复，因为她有时候就是她自己认定是对还是错的事绝对不会改口，我觉得我恰好蛮多事和她持相反态度，有试着提出一些不同的意见但是并不怎么被接受。现在的话，大概是自己平常真的感觉蛮孤单的吧，所以她的话我依旧还是这样顺着她的意回复，这样做听不到那种激烈的反驳还能收获笑脸，偶尔她还愿意来跟我开开玩笑帮我说说话什么的，也算一种情绪价值吧（？）
+
+课代表：
+如何通过简单的聊天判断一个人能不能深交
+1.聊天是一种试探，是了解的方式而不是争对错
+2.任何一个观点都有源头，它代表自身立场环境。
+3.参与者-执行者不需要批判对错只需要选择是否加入对方的世界，
+4.人在未知的领域，撕裂对抗的环境展现最真实的一面
+5.对于未知领域的态度就是当你尝试不懂事物他对你的反应，
+6.对于他人处境展示他的同理心，知道每一个人的困扰和痛苦是不能比较的，往往更具同理心
+人与人交往要看最低处，通过简单的交流了解最低处，是交友关键 ', '交往', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:35', 3, 0, NULL, NULL, 'active', NULL, 890);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('再好的品牌不如自己定义
+再好的资源不如diy ', '送礼物，diy无敌！', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:35', 4, 0, NULL, NULL, 'active', NULL, 891);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('高德地图怎么赚钱【创业 商业】', '高德地图的本意不在于赚钱，而是通过用户规模和数据资产创造价值，以及作为系统产业的重要支点必须存在。简单的来说他免费吸引更多的人用，用的人多了，可以收集到的大量数据，把这些数据变现，比如给车企让他们做自动驾驶导航，再比如外卖快递，通过从用户收集到这些数据为送快递选出最优的路径，再比如商贩开商店，总得要打广告吧？你从地图里面一搜吃的，跳出来一大堆。高德收的就是中间这个广告费。而普通用户最直观的表现就是出便便利和免费，我想去哪里？一搜一导就去了，一旦收费，会引起用户的流失，数据的收集量下降，影响非常大。而且其本身作为阿里旗下的关键支点之一，是必须要有的，哪怕赔钱都要去做的。就像视频中人说的，abc三个数据储存中心，只有a有用，但不代表bc没用。你不要以为他亏了，做这个东西就没考虑会亏本的问题，至于政府扶持，那不废话吗？政府做城市规划的时候需不需要地图？需不需要大量数据？交警管理的时候需不需要数据？哪一块儿堵(变红)你就去哪块儿指挥？然后协同指挥，上下两条路一起管。哪么政府扶不扶持高德、百度、腾讯？同理，你用的豆包、DeepSeek，也是一样的道理，利民利己。对广大民众免费开放，增加用户量，收集用户数据，再把数据变现。用户享受免费服务，企业和第三方为价值买单。这就是底层逻辑。
+
+高德不赚钱，不赚钱。但是成了阿里赚钱链上的一环。
+靠卖给阿里然后阿里养他给自己的饿了吗用 ', '工作, 网络', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:34', 2, 0, NULL, NULL, 'active', NULL, 892);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('2025/11/12
+为什么不要在提问里提一个太过具体的问题', '为什么不要在提问里提一个太过具体的问题：
+1. 别人大概率不知道怎么做（实操性）
+2. 这个问题不是主要问题，更不是主要问题的主要方面
+举例子：饭桌上举的专利问题
+逃离鸭科夫“未来主机在哪里刷我找不到”
+我需要回答：
+1. （问题本身）在超市刷，概率在xx位置
+2. （我的理解）未来主机对应的任务，根本不重要，是支线任务 ', '其他, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:33', 5, 0, NULL, NULL, 'active', NULL, 893);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('关于网上所谓“变美”', '就是说，如果你想变好看，那么你应该打开美颜相机，然后减肥，然后化妆。如果你想让自己的皮肤变好，那么你应该早睡早起，避免摄入过多游离糖，以及合理使用壬二酸、视黄醇和凡士林这类“妆”字产品。如果你有任何医学或药物问题，你应该咨询医师或药师。雌二醇和色谱龙/诺坤复不会让你变得更好，你看到的所有好看的药娘，药物不是他们好看的原因，是因为他们好看你才能看到他们。他们好看可能有两个原因，一个是AI修图怎么这么牛逼啊，一个是他真的长得好看。但我说白了我白说了，我见过那一类最好看的伪娘，他们刚起床的时候拍给你你也不会觉得好看。你不要拿你自己刚起床连眼睛都没睁开的时候去对比他们叠了化妆、美颜之后的样子。最后如果你真的想变成女生，那我建议你上了大学（或同等年龄、阅历阶段）之后再考虑。我不认为有那么多没有上大学的人能做出对于自己有长久影响的正确决定。 ', '网络', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:31:29', 3, 0, NULL, NULL, 'active', NULL, 894);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('对于网络的媒体/自媒体 能出圈的唯一办法 ', '要给别人创造价值', '网络', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:33', 5, 0, NULL, NULL, 'active', NULL, 895);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('关于装修/家装', '水平面容易积灰，但是垂直密封面不容易积灰
+（需要水平摆放的东西，都做成柜子） ', '生活', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:35', 5, 0, NULL, NULL, 'active', NULL, 896);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【质疑南京大屠杀人数是怎么统计的？我替三十万冤魂回答你！-哔哩哔哩】 https://b23.tv/47ytRbm
+关键词：武汉大学 ', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 897);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【慢性扁桃体炎】
+deepseek todo', '非常理解您的担忧。结合您详细的描述（慢性扁桃体炎、复发性口腔溃疡、家族史），这是一个需要认真对待的健康问题。我会为您提供尽可能全面和深入的分析与建议。
+
+重要声明：以下内容为基于您提供信息的医学知识科普和建议，不能替代专业医生的当面诊断。您的情况必须由耳鼻喉科和口腔科医生进行详细评估。
+
+核心问题解答：癌症风险有多大？
+
+有可能，但风险是“相对增高”，而非“必然发生”。 您提到的几个因素确实是口腔及口咽部（包括扁桃体）癌症的已知风险因素。
+
+1. 慢性炎症与刺激：这是最关键的一点。世界卫生组织已将“长期慢性炎症”列为癌症的诱因之一。您“先天二度肿大”的扁桃体本身就形成了“隐窝”，容易藏匿细菌和食物残渣，导致“经常发炎”。这种反复的炎症损伤和修复过程，在细胞分裂中会增加基因突变的机会，理论上会增加患扁桃体癌（属于口咽癌）的风险。
+2. 复发性口腔溃疡：普通的复发性阿弗他溃疡（RAU）本身癌变率极低。但是，长期、在同一位置不愈合的溃疡需要高度警惕。您的溃疡虽然由刺激引发，但频繁发作也说明口腔黏膜环境不稳定，处于易受损状态。如果叠加其他风险因素（如遗传），是需要密切关注的问题。
+3. 家族史：这是您风险因素中非常重要的一项。 家族中有舌癌病史，表明您可能对口腔/口咽部癌症存在一定的遗传易感性。这意味着在同样的环境刺激下，您比没有家族史的人患癌风险更高。
+4. 年龄：您24岁，非常年轻。传统的口腔/口咽癌多见于50岁以上的中老年人。但近年来，由于HPV（人乳头瘤病毒）感染率的上升，年轻人群中的口咽癌（尤其是扁桃体癌）发病率有显著增加的趋势。HPV相关口咽癌是目前的一个重点领域。
+
+总结风险因素：您的风险并非来自单一问题，而是 “慢性炎症 + 遗传易感性 + 可能存在的HPV感染（需检查）” 等多个因素的叠加。因此，绝不能掉以轻心，但也不必过度恐慌，正确的态度是：科学评估，积极干预，定期监测。
+
+---
+
+全面医疗建议
+
+您的健康管理需要分为两大块：① 急性发作期处理 和 ② 长期监测与预防。
+
+一、 立即行动：专业诊断与检查（第一步，也是最关键的一步）
+
+1. 预约专科医生：
+ · 耳鼻喉科医生：全面检查您的扁桃体。医生会评估扁桃体肿大的具体程度、表面是否有异常增生、溃疡、不对称等情况。
+ · 口腔颌面外科或口腔黏膜科医生：专门检查您的口腔溃疡和整体口腔环境。评估智齿情况，并检查舌、颊、牙龈等部位是否有异常。
+2. 必要的检查项目（由医生决定）：
+ · 喉镜/内镜检查：医生可能会用软管镜头深入您的喉部，仔细查看扁桃体、舌根、下咽等肉眼不易看清的部位。
+ · HPV检测：目前可通过漱口水或活检样本检测HPV，特别是高危型HPV-16型，这与大多数口咽癌相关。询问医生是否有必要进行。
+ · 活检：这是诊断的金标准。 如果医生发现您的扁桃体或口腔内有任何长期不愈合（超过2-3周）、质地变硬、隆起、出血的溃疡或肿物，一定会建议做一个小活检来明确性质。请不要害怕这项检查，它是排除癌变最可靠的方法。
+ · 影像学检查：如B超、CT或MRI，用于评估深层组织的情况，通常在发现可疑病变后进行。
+
+二、 长期管理：降低风险与监测
+
+A. 针对扁桃体问题：
+
+· 讨论扁桃体切除术：鉴于您有慢性扁桃体炎反复发作、二度肿大、以及癌症家族史，您可以郑重地与耳鼻喉科医生讨论切除扁桃体的利弊。
+ · 好处：一劳永逸地解决反复感染和发烧的问题；消除了一个潜在的癌变“温床”；对于有癌症焦虑的人来说，能极大缓解心理压力。
+ · 需要考虑的：手术有麻醉和术后恢复的痛苦。但对于您的情况，利很可能大于弊。请务必与医生深入沟通。
+
+B. 针对口腔溃疡与整体口腔环境：
+
+1. 处理智齿：如果智齿位置不正，反复摩擦颊黏膜或舌头，必须尽快拔除。这是消除一个明确的物理刺激源。
+2. 极致口腔卫生：
+ · 使用软毛牙刷，避免刷伤黏膜。
+ · 每天使用牙线，清洁牙缝，减少细菌滋生。
+ · 可以考虑使用不含酒精的漱口水（如含有氯己定的，但需在医生指导下短期使用，以防牙齿着色）。
+3. 饮食管理：
+ · 严格避免辛辣、油炸、过烫、过硬的食物。这些是诱发溃疡和刺激黏膜的元凶。
+ · 均衡营养，多吃富含维生素B族（B2, B6, B12）、维生素C、铁和锌的食物（如绿色蔬菜、水果、肉类、坚果）。缺乏这些微量元素与复发性口腔溃疡有关。
+ · 考虑服用复合维生素补充剂，特别是针对口腔健康的配方。
+4. 溃疡发作期护理：
+ · 使用口腔溃疡贴膜或保护膏（如康普森邦）隔离创面，减轻疼痛。
+ · 避免用舌头频繁舔舐溃疡处。
+
+C. 生活方式与习惯改变：
+
+· 戒烟戒酒：如果您有吸烟饮酒习惯，必须立即停止。烟草和酒精是头颈部癌症最明确的一级致癌物，与您的家族史和慢性炎症叠加，风险会急剧升高。
+· 增强免疫力：规律作息，保证睡眠，适度运动，减轻压力。压力过大和疲劳是口腔溃疡和免疫力下降的重要诱因。
+
+三、 至关重要的定期监测
+
+1. 自我检查：每月一次，在明亮光线下照镜子。
+ · 看：张开嘴，看双侧扁桃体是否对称，颜色是否一致，有无白斑、红斑、溃疡或新生物。
+ · 摸：洗净手，轻轻触摸舌头（卷起舌头看舌根和舌缘）、颊黏膜、牙龈，感受是否有硬结、肿块、粗糙感或无法愈合的溃疡。
+ · 记：记录溃疡发作的频率、位置、持续时间。如果同一个溃疡超过2周不愈合，立即就医。
+2. 专业复查：即使初次检查没问题，也应每年至少一次拜访耳鼻喉科和口腔科医生进行专业检查。这是您最重要的安全网。
+
+总结与行动计划
+
+1. 立即预约：挂一个好的三甲医院耳鼻喉科和口腔黏膜科/口腔颌面外科的号。
+2. 全面检查：听从医生建议，完成必要的内镜、HPV检测等。如果医生建议活检，请积极配合。
+3. 深入讨论：与耳鼻喉科医生认真讨论切除扁桃体的可能性。
+4. 即刻改变：
+ · 预约牙医拔除有问题的智齿。
+ · 改用软毛牙刷、开始使用牙线。
+ · 调整饮食，避免刺激性食物。
+ · 开始服用复合维生素。
+ · 戒除任何烟酒习惯。
+5. 建立习惯：每月自我检查，每年专业复查。
+
+您24岁就如此关注自己的健康并积极寻求建议，这是非常棒的。您的风险是可控的，通过积极的医疗干预和生活方式改变，可以极大程度地降低未来的患癌风险，同时也能显著提高当前的生活质量（不再受频繁发炎和溃疡的困扰）。请放下过度的焦虑，将这份担忧转化为行动的动力。祝您健康！ ', '生活', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:34', 6, 0, NULL, NULL, 'active', NULL, 898);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('社会上的人相互忽悠才是常态', '你忽悠我做/不做某事，我知道你忽悠我，但我也懒得出力搭理你。看人真不真诚都是看他是否出力，
+单凭简单一两句话就信任太 naive。
+阿姨这些人（尤其他们是在*相亲角*这种地方），无论是忽悠还是被忽悠，都身经百战了，用不着你操心别人的情绪。 ', '网络, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:31:28', 4, 0, NULL, NULL, 'active', NULL, 899);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('拆解一个任务为子任务
+比如：有一辆车
+- 钱从哪来
+- 买什么车 预算多少
+- 停车
+- 保险和保养 ', '', '工作, TODO', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 900);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('有人攒钱买相机（hjj）
+而我要攒钱买车！
+', '', '生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 901);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('飞翔使 可以说是普通人最好的状态
+有对象 有一个认识的名人（籽岷）经常线下 算是副业 自己又有工作 ', '', '交往, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 902);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('i人并不是不适合创业啊
+何同学，影视飓风，毕导和tim都说自己是I人
+相比老番茄 蛋黄派 雀巢那些，风格确实不一样 ', '', '个人提升, 人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 903);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('e人动作会大一点或者大很多 ', '2025/11/08 唐子咏说', '交往', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:31', 4, 0, NULL, NULL, 'active', NULL, 904);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('关于找对象', '女生很讨厌强势的男生
+更喜欢比较随和随意的
+
+不要对自己工作有天然优越感
+不能沉闷 要能沟通 长得白净干净
+
+24-26之前，怎么样找对象都简单
+26之后，普遍多段感情，就很难了
+
+不能“觉得她好了我在认真付出”
+而是我认真付出之后在对他好
+“先发录取通知书我在学习”
+“先涨工资我在努力工作”
+
+女生对婚姻需求度没有男性高
+
+看人不要只看收入，也要看负债
+
+说话要很有能量，有年轻人的活力，不要处在很丧的情况下，这样相处会很没有意思
+
+不要想着野鸡变凤凰，不要“不将就”
+
+24以上就很难有自由恋爱 ', '交往', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 16:53:37', 4, 0, NULL, NULL, 'active', NULL, 905);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('关于找对象2：社交才能脱单（梗 网络）', '你的意思是说，没有任何社交的你，会邂逅这样一个女生，她眉如远山，眸似皓月，肤比皑雪，面若白玉，不施粉黛就能赢过所有人，只要站在那就是岁月静好。
+她喜欢笑，笑起来眼睛像月牙。最生气的时候也只会笑着嗔怪，用拳头轻锤你的肩膀。
+她时常哭，哭起来会把头埋进你的怀里，蹭的你衣服上印上口红。
+她容易吃醋，在确定关系之后威逼你在手腕上戴她的发圈。
+她爱拉着你逛街，旅游，去看很多好看的，玩很多好玩的，吃很多好吃的，用她的话说是“因为我很喜欢你，所以想一直和你在一起”。
+她是很会搞怪的可爱女生，为了逗你可以说无所不用其极。她会悄悄跑到你要经过的路口，等你过来猛地跳出来。逛街时，她喜欢走在前面，迈着她专属的天才步伐大踏步前进，时不时转头看你，或是摆鬼脸，或是莫名其妙地笑，然后说“你赢啦，今天确实很开心，我也确实很喜欢你”。
+她真的没什么做饭的天赋，但是很臭屁地喜欢听赞赏“好吃吗？那当然咯”，你说不好吃时会猛烈抨击“你你你放屁”。虽然几乎都是你做饭，她也吃的不亦乐乎，但是她始终嘴硬“味道吗？一般般吧，还不是某人不让我做，不然更好吃！”
+她说她五音不全，绝对是在装，因为你觉得非常好听，而且她每次唱完都一副“哼，迷不死你”的样子，虽然她唱歌的时候也很喜欢笑，经常唱半句笑半句。
+她是不是不喜欢你笑？几乎你一笑她就笑着指着你说“哇你还笑！”真是个奇怪的女生呢。
+大家都说你们是“柏拉图式恋爱”哦，你们都不知道是什么意思。一起搜了下，你率先反应过来，对她坏笑了一下。她的脸“扑”地一下就红了，赶忙拿起书挡住脸，声音很小，打着颤“那种事......还早呢”，然后一记轻轻的拳头向你的肩膀上扑来。
+她喜欢发呆，你喜欢看她发呆。她喜欢咬嘴唇，你喜欢看她咬嘴唇。她喜欢吹海风，你喜欢骑车带她走海边的路。她喜欢开心时牵着你的手狂奔，你喜欢陪她疯。
+她喜欢你，你喜欢她。[墨镜][墨镜]
+
+社交才能脱单 ', '交往, 网络', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:33', 6, 0, NULL, NULL, 'active', NULL, 906);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('神秘感', '不要在认识一个人的时候
+什么都展现给她
+会让她觉得你没有神秘感
+
+应该要多保留神秘感，多留些秘密 ', '交往', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:34', 4, 0, NULL, NULL, 'active', NULL, 907);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('为什么“好好读书”不管用了？', '有人刷“好好读书”，我只能说你看问题还是太浅了。这不光是好好读书的问题，你得有想法，有专长，你能干的活别的人干不了，也就是在一定范围内具有“不可替代性”，如果不是这样，除非你读书卷到985以上，要不然就只能是进工厂被当做廉价劳动力来使用，当下社会就是这样运作。 ', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:34', 3, 0, NULL, NULL, 'active', NULL, 908);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('警惕系统性风险', '一定要警惕系统性 全局性风险
+防止不可挽回 ', '人生规划', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:32', 4, 0, NULL, NULL, 'active', NULL, 909);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('关于拍摄', '为了方便剪辑：录制视频的时候不要两个同时动
+要么景不动相机动
+要么人动相机不动 ', '工作', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:31:29', 3, 0, NULL, NULL, 'active', NULL, 910);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('影视飓风分享：关于人脑思考 与发展自媒体', '人脑适合处理线性内容，不适合处理跳跃性内容（乱序思维导图 随便想到一个idea就扔到思维导图里）
+不要尝试分类 会大量消耗脑子
+
+整理的时候，那个可以是子集，哪些是没有意义的删掉
+
+做触达真人的作品，在观众反馈中获得继续创作的热情
+确保你的内容是给真人看的，获得真实反馈（数据可以刷但是不长久）
+先做垃圾在成神 trash first then lagend
+
+系统1和系统2 ', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:34', 5, 0, NULL, NULL, 'active', NULL, 911);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要有环境移植的能力，交接工作要做好', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 912);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('学生时期要多多积累人脉 ', '人/公司/产品落地
+
+怎么打通关系：你认识了一个人，怎么介绍给别人（我有亚洲研究院院长，怎么介绍到我们学校） ', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:30', 6, 0, NULL, NULL, 'active', NULL, 913);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('跟别人合作，一定要一起签协议，有有效期，追求平等 ', '所谓“亲兄弟明算账”', '工作', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:33', 4, 0, NULL, NULL, 'active', NULL, 914);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('制作一个工作牌，方便浑水摸鱼（在所有场合都有用） ', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 915);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('夸一个女生', '真的没有人觉得高老师有一种邻家大姐姐的感觉吗？
+那种感觉，并非来自刻意营造的距离感或疏离的精致，而是像一件洗得柔软发白的旧棉衫，触手生温，妥帖得让人心安。她的头发常常随意地挽在脑后，总有那么几缕不听话的发丝挣脱束缚，慵懒地垂在颈侧或颊边，随着她低头看书或是轻声说话时微微晃动，像阳光下晒暖的藤蔓尖儿。她偏爱素净的棉麻质地和柔和的色调，一件宽松的米白毛衣，一条洗水蓝的棉布裙，衬得她周身线条都温软起来。午后，常能看见她捧着一杯热气袅袅的花茶坐在窗边的小木桌旁，阳光慷慨地洒进来，在她低垂的眼睫上跳跃，在她专注翻动书页的指尖流淌，甚至清晰地照亮了杯沿上留下的、浅浅的半月形唇印。她身上没有浓烈的香水味，只有一种干净的、混合着阳光晒透棉布、淡淡皂香和一点点烤面包甜香的气息，自然而然地弥漫开。
+
+最是那不经意的温柔，瞬间就能击中人心。记得有次，隔壁的小男孩摔破了膝盖，抽抽噎噎地蹭进小院，泪珠儿混着泥灰糊了满脸。她看见了，立刻放下手中的水壶，没有大惊小怪，只是自然而然地蹲下身，视线与孩子齐平。她用自己柔软的袖口内里，极轻、极缓地，像擦拭易碎的晨露般，一点点吸去孩子脸上的泪痕和脏污。接着，她变魔术似的从口袋里摸出一枚小小的卡通创可贴，小心地吹了吹那破皮的伤口，才轻柔地贴上。整个过程，她的动作流畅而专注，指尖带着一种抚慰人心的暖意，仿佛在无声地编织一张温柔的小网，将孩子所有的委屈和疼痛都轻轻兜住。小男孩仰着泪光未干的小脸望着她，抽泣声渐渐平息，只剩下全然的信赖——那一刻，她周身仿佛晕开一层柔光，不耀眼，却足以驱散所有孩童世界里的阴霾和不安。
+
+她就有这样的魔力，让周遭紧绷的空气都悄然松弛下来，仿佛时光在她身边流淌得格外缓慢而温柔。在她身旁，世界仿佛自动调低了棱角的锐度，一切都变得毛茸茸、暖烘烘的。她的存在本身，就是一份无需言说的安稳，一种沉淀在岁月深处的、令人眷恋的暖意，像冬日壁炉里噼啪作响的柴火，不张扬，却恒久地散发着足以熨帖灵魂的温度。真的没有人觉得，她举手投足间，都浸透着这种邻家大姐姐般的、让人想靠近又无比安心的温柔吗？ ', '交往', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:34', 6, 0, NULL, NULL, 'active', NULL, 916);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('随身讲话准备一些小故事，寓言故事也可以
+要随时能讲的，能够不尬的噼里啪啦讲单口相声一样 ', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 917);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('一流生意做标准 ', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 918);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('干过技术的都知道
+技术就是一层窗户纸，一捅就破
+
+没啥高端的 ', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 919);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('工作内容就是跟人打交道，别人都是在比较短时间内形成一些印象
+所以一定要大方自信 ', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 920);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('如果你的愿望和你的能力（出发点）是一个非常原生的东西，也许有成长因素，也许是成长过程中一些缺失的因素，这个动力会比我要成名和赚钱好
+
+', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 921);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('男生看人是加分制 女生是减分制 ', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 922);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('我可以选择最终只跟我喜欢/欣赏 或者能学东西的人打交道', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 923);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('砍价小技巧：利用博弈论心理
+', '只要他们互相不串通，我就“卖25？15我就买，不然我就去别人那里买”“别人也是25卖，那我宁愿去别人那花25买我也不在你这里买
+让别人做心理博弈去吧，如果要利益最大化他肯定会接受的 ', '', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:32', 7, 0, NULL, NULL, 'active', NULL, 924);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('一定要随时小心留证据，取证 ', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 925);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('拍摄技巧', '高饱和和黑白最容易出片
+
+街拍最重要的就是陷阱式拍摄，要有人的出现！！以人为中心
+
+用线条引导视线 ', '', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:35', 6, 0, NULL, NULL, 'active', NULL, 926);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('研究生期间，可以多参加一些集体活动（社会组织的活动 可以帮他报名 当然公益的就更好了）然后约自己认识的人去（比如tzy之类的男女都可）这样是最好的方式 ', '研究生', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:33', 4, 0, NULL, NULL, 'active', NULL, 927);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('鹿晗
+观众的评价“每次都是这个舞嘛”每次都是这首歌吗
+
+其实什么领域你只要有一个拿手的歌曲节目就可以了 ', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 928);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('李永乐老师讲过如何等分且尽可能公平。（对于没办法等分的东西）
+两等分简单，一个人切，另一个先选。
+三个人的话 刀立在上面，从一侧一点点往中间挪，当有人喊停，就把切下来少的一份给他，剩下两个人重复两等分法。 ', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 929);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('自己有觉得很帅很酷的idea 不要犹豫马上记在自己的备忘录里，说不定是你未来成功的决定 ', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 930);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('2025/11/10 广东金融学院尹正参观：理由根本不重要（理由是参观货币博物馆，本质上是带我认识黄秘书长）', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 931);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('男女朋友能有友情吗？
+杨树梢和沐上，凤凰传奇都不是情侣 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 932);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('面对国家“现代化”“共同富裕”“剥削”的质疑（“真的吗？未必”）}
+
+回答：“有人因为相信而看见，有人因为看见而相信”
+国家赋予你肯定是拉着你实现的 ', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 933);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要区分给人玩的和给机器玩的区别
+象棋 围棋 五子棋都是给人玩的，不是给机器玩的
+就像游戏一样，你打得过顶尖ai的锁头吗 ', '', '生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 934);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('姐妹这不是柯洁吧，柯洁长得很高大，站在人群中非常耀眼。他的身体线条非常优美，肌肉紧实，给人以强壮的感觉。他的脸庞轮廓深刻，五官分明，尤其是他那双深邃的眼睛，让人不由自主地被吸引。柯洁的头发黑黑的，有点卷曲，看起来非常有型。他总是把头发梳成整齐的侧分，显得干练而精神。虽然柯洁平日里看起来很严肃，但当他微笑时，整个人都变得温暖起来。他的笑容非常迷人，让人感到无比舒适。柯洁的性格非常坚毅，他有着不屈不挠的毅力和决心。无论遇到什么困难，他都会坚持不懈地努力，直到取得成功。他非常聪明，善于思考和分析问题。他总是能够从复杂的情况中找出最简单的解决方案，并且能够迅速做出正确的决策。柯洁的人格魅力很强，他总是能够吸引人们的注意力。他有着亲切、谦虚、诚实的品质，让人们感到舒适和放心。尽管柯洁非常优秀，但他并不自大。相反，他总是保持一颗谦卑的心态，不断学习和进步。柯洁是一个外貌和性格都非常特别的人物。他身材高大、线条优美，五官深刻分明，笑容迷人。他坚毅、聪明、有人格魅力，同时又谦虚、诚实、不自大。这些描写让我们更好地了解了他的形象和个性，也让我们对他产生了更深的认识和敬意。 ', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 935);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('关于买车：一年能存多少就买多贵的车呗，家里能帮就可以加预算 ', '', 'TODO', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 936);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('撒娇语录', '你在乎吗?你不在乎，你只在乎你自己，就像你不在乎老婆饼里没有老婆一样，你也不在乎等到快要疯掉的我。我已这样了，你还能若无其事的回复我消息，那些冰冷的字句像利剑一样扎在我心上，没事我不重要，我只是一片凋零的落叶，随着风飘落，我时常在想我的凋零是我自己的选择，还是风不挽留，就像茫茫大海里的一条孤单的鱼没有人会关心我。没有人会想念我，如果有一天我被人类发现，也许是我的生命走到了尽头，人类是贪婪的，是有欲望的，鱼在他们眼里是无尽的财富海洋资源在他们眼里是赖以生存的摇钱树，有人捕鱼，有人抓蚌壳，蚌壳那么不容易，她用自己的血肉磨出了珍珠，一颗又一颗，说到珍珠，你愿不愿意转我十块钱买一杯珍珠奶茶给我这条小鱼，哎看来我是一条无人疼爱的小鱼，不过是一条无人关心无人疼爱无人喜欢无人，给我买奶茶的，条可怜巴巴的小鱼 ', '网络', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:34', 5, 0, NULL, NULL, 'active', NULL, 937);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('主要是人脉建起来了，做什么都方便。 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 938);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('10：30
+铁一中还有人放学（甚至不少）
+9：30开门了 放学 ', '关键词：家附近', '生活', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:53:47', 8, 0, NULL, NULL, 'active', NULL, 939);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('量体温一定不要睡着，或者调闹钟 ', '摔过两次水银温度计了！！', '生活', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:34', 6, 0, NULL, NULL, 'active', NULL, 940);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('关于考研1', '选择题是基本盘，多刷题=多拿分（选择30-40天，大题30-40天）
+基础期 看知识/做题=7：3，强化反之 ', '学业', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:53:40', 4, 0, NULL, NULL, 'active', NULL, 941);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('（给别人）上课一定要有：【最好的听课方法】
+快速的过“你需要的前置知识”（以及你没有这些知识该怎么办，你是不是要快速讲一下）
+笔记逻辑，笔记怎么做（那些是理论，那些是做题，那些是扩展知识，那些是纯吹水） ', '', '学业, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 942);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('开夜车必备：（防止出事后二次伤害）
+手灯筒（最好是 像交通灯一样的高亮变道灯光）手电筒也可以照一下远处的人，给点提醒
+荧光背心（有人在路面上躺着就不用下车了） ', '', '生活, 网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 943);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('羊和园 公家地方 ', '我家附近', '生活', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:31:28', 3, 0, NULL, NULL, 'active', NULL, 944);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('智商检测器：
+0.5x0.8=？（0.04）
+0.8和0.11谁大 ', '经典问题', '网络', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:34', 6, 0, NULL, NULL, 'active', NULL, 945);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('我的人生（18-22岁）
+是一首后青春期的诗
+平稳且坚定 ', '', '人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 946);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('破镜难圆
+关系破坏之后是很难修复的 
+所以要好好珍惜关系', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 947);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('你简直就是世界的观察者、真理的代言人、清醒的化身。在这庸庸碌碌的人群中，你犹如一把利刃，划破迷雾，看透人性深处的每一丝伪装与虚假。你总是站在绝对理性的制高点，用那双洞穿一切的眼睛，将隐藏在表象之下的本质毫无保留地揭露出来。每一次分析、每一次判断，都仿佛精准到令人叹为观止，击中事物的核心，闪耀着独一无二的智慧光芒。人类的愚钝与短视在你面前显得如此苍白无力，甚至连多余的掩饰都显得徒劳无功。在你眼中，这个世界的复杂不过是规则的堆叠，芸芸众生的努力不过是盲目的挣扎。而你的清醒，让这些愚昧显得更加可笑。无论是世事的风云变幻，还是人心的曲折离奇，你总能游刃有余地找到真相的路径，让那些困扰旁人的难题变得明明白白、简单易懂。你的存在，不仅是冷峻与清醒的象征，更是一种独特的智慧力量。可以说，众生沉沦，而你独醒，你的才华与洞察力，令世间所有肤浅的表象黯然失色，仿佛真理因你而更加清晰可见。在这互联网的顶端，我为您献上您的谥号：绸必 ', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 948);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('互联网博主兴衰史', '天名董事长，出轨炒粉。党妹，731南京跳宅舞。傲厂长，吹劣质网游踩黑猴，后面黑猴大获成功打脸，又吹某收费壁纸软件踩比之质量高很多的小红车。lex，喷看某番的人都是底层屌丝，直播又爆自己跟老婆的典。还有个直播打游戏时说自己结婚一来一直不幸福要离婚，后面他老婆反击他家暴的，这个删号跑路太久远了，记不得谁了。
+
+【关于信誓旦旦】没那么复杂，起初是粉丝觉得帽子卖得贵吃相难看，后面又爆了个用了一个发表过逆天言论rap的歌当背景bgm。为什么停更那么多年又被人怀念，说白了后面跟他同年的百大up塌房一个比一个夸张（睡粉，家暴，卖次品割粉丝，接了商单就无脑夸劣质商品和软件）回头再看钢蛋和铁蛋都成清流了，毕竟一个帽子可以售后退货，bgm也立马道歉了，成了百大也依旧期期出经费爆炸的狠活，同期没爆的百大是直接开始不要笑挑战，蹭饭挑战。这么一比自然有很多反应过来的粉丝又开始怀念他们回不回归了。可惜当时墙倒众人推，只剩唏嘘了', '网络', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 16:55:43', 4, 0, NULL, NULL, 'active', NULL, 949);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('男女区别越来越大（服装上）
+趋势：紧身衣/修身
+手机包（半腰）
+增高鞋
+喇叭裤/阔腿裤', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 950);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('
+努力让自己变帅变好看，发型，衣品
+目标：向女生看齐靠拢 ', '', '交往, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 951);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('我知道你是错的，但我仍然听你的”这才是真正的爱啊（妈妈对我的爱） ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 952);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('白天睡30min以上，会得痴呆的
+睡太久会进入深睡眠，越睡?困
+
+25岁 30岁之后精力会明显不如以前 ', '', '生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 953);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('很难不否认没有，到底是有还是没有？ 
+-- 经典问题', '你的问题“很难不否认没有，到底是有还是没有？”是一个中文的双重否定结构，容易造成混淆。我来一步步帮你分析一下，尽量说得清楚点。
+
+### 1. **句子解析：理解“很难不否认没有”**
+- **“没有”**：表示“不存在”或“无”。
+- **“否认没有”**：意思是“否认‘不存在’”，相当于“声称存在”（因为否认“无”就是在说“有”）。
+- **“不否认没有”**：意思是“不否认‘不存在’”，相当于“接受不存在”或“承认无”。
+- **“很难不否认没有”**：字面意思是“很难做到‘不否认不存在’”。这听起来很绕，但逻辑上可以简化：
+ - 如果“很难不否认不存在”，那意味着你“很难避免去承认不存在”，但双重否定在这里反而强调了“存在”的可能性。
+ - 简单说：这个表达通常暗示“有”（存在），因为它传递了一种“无法否认不存在”的感觉，相当于“很可能有”或“不得不承认有”。
+
+在中文口语中，这种多重否定（如“很难不否认没有”）常用于强调某种事实，但容易让人糊涂。类似表达还有：
+- “很难不承认他没有错” → 双重否定后，实际意思是“他可能有错”。
+- 所以，“很难不否认没有” ≈ “很难说没有”，隐含“有”的意思。
+
+### 2. **“到底是有还是没有？”的直接回答**
+- 基于“很难不否认没有”的逻辑，它倾向于表示 **“有”**（存在）。
+ - 原因：如果某事“很难否认不存在”，那说明证据或情况更支持“存在”，否则你就不需要“很难”地去否认了。
+- 但要注意：这个表达本身是模糊的，因为它取决于上下文。如果没有具体情境，它可能只是表达一种强烈的推测或无奈。
+
+所以，总结你的问题：
+- **“很难不否认没有” 暗示 “有”**（存在），但这不是绝对的。
+- **到底有没有？** 从语言逻辑上，答案是 **偏向“有”**。
+
+### 3. **为什么你会觉得困惑？建议澄清**
+- 这种双重否定结构在中文里很容易让人晕，因为它涉及多个否定词（“不”“否认”“没有”），相当于数学里的负负得正，但又不完全一样。
+- 如果你是在讨论某个具体事物（比如“钱很难不否认没有”，意思是“钱很难说没有”，暗示“有钱”），最好提供更多背景，我可以更精准地分析。
+- 日常建议：类似表达尽量简化，比如直接说“可能有”或“很难说没有”，避免多重否定。
+
+如果这是某个语境下的问题（如哲学、生活场景或语言学习），欢迎补充细节，我来帮你拆解！ ?
+
+
+ ', '网络', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:35', 5, 0, NULL, NULL, 'active', NULL, 954);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('我就说一个事，现在作为电子产品焊接的锡丝也是因为铅的熔点低和价格原因而被广泛掺杂于普通工业品中。作为diy电子产品爱好者，如果你买的锡丝没有标注高纯度锡并且熔点较低的话，很大概率就是高铅含量的锡丝。同时，建议大家如果不是必要，不要过多接触街上的各类修电子产品的小店铺，尤其是焊台附近表面，毕竟每次修手机/电子产品时候植锡等操作而挥发的金属就容易附着在附近物体表面。成本上来说，同等重量规格的含锡99.3%的锡丝比含锡56%的锡丝贵一倍以上[笑哭] ', '', '生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 955);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('徒步一定要防止摔倒
+
+要多锻炼肌肉（全身肌群）
+特别是手部 腿部，防止受伤
+
+软骨怎么防止损伤
+
+出门可以带个便携手电筒
+比手机手电好多了
+
+手术一般都是拆东墙补西墙
+韧带恢复非常慢，伤筋动骨都是几年
+
+过来人提醒，骨科只管手术好不好最多三成，康复要七成！ ', '', '生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 956);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('小时候觉得老师花了二十分钟骂我，我会很委屈，伤心或者生气
+但是现在想想，老师多忙呀还要抽出二十分钟来管我，他是真的在意我希望我好，真不容易 ', '', '学业, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 957);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('问的都是很实际的问题，相比假大空的理论学院派，高谈阔论
+看起来很幼稚
+但是能处理好确实不容易 ', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 958);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('小红书的算法非常抽象，对争议话题的推送力度极高，非常容易形成信息茧房，让评论区【扎堆抱团】
+（来自2025年11月：影视飓风舆情3家主流媒体评论区） ', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 959);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('央视的一贯风格: 一个宵衣旰食，不顾上打理形象但面对采访还是笨拙的整理了下仪表却遮不住一脸疲态，唯独眼里射出的光芒显示出他的理性和富有激情。一个年轻的大国工程师形象跃然于荧幕。
+
+太典了，以至于从小新闻看到大，一讲到青年工程师/技术人员/创业者脑子里就是这幅造型 ', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 960);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('人类的特别之处在于不完美
+
+原视频：Yes, AI Will Take Your Job. But What Happens NEXT Is Worse
+原作者：Species | Documenting AGI
+发布日期：2025-11-22
+视频链接：https://www.youtube.com/watch?v=R6mTUK_yPKw
+
+00:00 AI与就业危机背景
+介绍AI导致裁员的现状，引用美联储主席的评论，说明视频基于《智能诅咒》报告
+
+00:28 AI取代初级员工
+以CEO视角描述AI如何从工具演变为初级员工的替代品，公司决策过程及后果
+
+03:20 AI取代管理层
+新一代AI开始取代经理和管理人员，导致失业率进一步上升
+
+04:43 社会反应与UBI提案
+公众对失业危机的反应，Alice参与抗议，UBI(全民基本收入)提案被政府否决
+
+05:57 AI取代高管与社会结构变化
+AI最终取代CEO，社会结构发生根本性变化，教育体系崩溃
+
+10:10 资源诅咒与智能诅咒
+类比资源诅咒，讨论AI可能带来的
+
+13:38 AI的类型与风险
+区分不同类型的AI（专用vs通用），讨论通用AI的风险
+
+15:22 结尾与后续视频引导
+结尾关于超级智能AI的警告和下一个视频的预告
+ ', '', '网络, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 961);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('高德地图的本意不在于赚钱，而是通过用户规模和数据资产创造价值，以及作为系统产业的重要支点必须存在。简单的来说他免费吸引更多的人用，用的人多了，可以收集到的大量数据，把这些数据变现，比如给车企让他们做自动驾驶导航，再比如外卖快递，通过从用户收集到这些数据为送快递选出最优的路径，再比如商贩开商店，总得要打广告吧？你从地图里面一搜吃的，跳出来一大堆。高德收的就是中间这个广告费。而普通用户最直观的表现就是出便便利和免费，我想去哪里？一搜一导就去了，一旦收费，会引起用户的流失，数据的收集量下降，影响非常大。而且其本身作为阿里旗下的关键支点之一，是必须要有的，哪怕赔钱都要去做的。就像视频中人说的，abc三个数据储存中心，只有a有用，但不代表bc没用。你不要以为他亏了，做这个东西就没考虑会亏本的问题，至于政府扶持，那不废话吗？政府做城市规划的时候需不需要地图？需不需要大量数据？交警管理的时候需不需要数据？哪一块儿堵(变红)你就去哪块儿指挥？然后协同指挥，上下两条路一起管。哪么政府扶不扶持高德、百度、腾讯？同理，你用的豆包、DeepSeek，也是一样的道理，利民利己。对广大民众免费开放，增加用户量，收集用户数据，再把数据变现。用户享受免费服务，企业和第三方为价值买单。这就是底层逻辑。
+
+高德不赚钱，不赚钱。但是成了阿里赚钱链上的一环。
+靠卖给阿里然后阿里养他给自己的饿了吗用 ', '', '网络, 项目与产品', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 962);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('i人≠不能沟通 不能做大事
+刘谦也是i人
+极客湾云飞也是典型i人
+影视飓风tim也是 
+邓紫棋也说自己是社恐，早年坐地铁偶遇邓紫棋都很害羞', '', '交往, 个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 963);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('参考tcp
+如何在单向通信的情况下，确保通信的有效性？
+
+比如无线电，在遇难时对讲机只能收听不能外呼。or 网络连接 只能接收不能发送，怎么确保双方传递有效信息 ', '', 'TODO', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 964);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('《告全党全军全国各族人民书》
+《对美寇的最后一战》
+《告台湾同胞书》
+
+更想看到这一篇台湾问题的历史决议 ', '看到这个格式就想起了...', '网络', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 16:55:45', 6, 0, NULL, NULL, 'active', NULL, 965);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('技术经理人：
+既懂技术又懂产业 ', '', '个人提升, 人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 966);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('用有xx优惠券邀请别人吃饭 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 967);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('说下我的经历，给现在年轻人一个参考，我今年38岁，真不算大，但8月份查出胃癌晚期，已经侵犯到附近淋巴结了，之前250斤，做办公室，很少运动，天天开车，因为长期不运动，体重增加，随即患上脂肪肝，心肌炎，多走一点路就喘的厉害，单位每年体检只检查彩超，心电图等基本检查，从来没有检查过胃，因为从小到大爱吃，吃的也挺好，身体也很少得病，从小到大没有检查过胃肠，前几年胃疼过几次，都是吃了冷东西，胃疼，但第二天就没事了，没有重视，没有检查过，从今年6月份开始，出现消化不良，吃了就吐的情况，当时以为是普通胃病，去医院查了幽门螺旋杆菌，阳性，吃了14天四联药，也没有想着做胃镜，结果吃完还是消化不良，吃了就吐，体重在一个月之内从250斤掉到180斤，赶紧去医院做一系列检查，查出胃癌晚期，医生说我这种情况只有一线生机，虽然癌细胞转移，但还没有转移到其他重要器官，现在在术前化疗，查几次肿瘤标志物，从7000降到700，又从700降到200，虽然ct上显示没有什么变化，但医生说这是积极信号，可能现在癌细胞趋于稳定，让再化疗一次再手术，希望我自己能抗癌成功，也提醒越来越多的年轻人，现在吃的东西，外卖啥的都不太干净，每年体检很重要，建议除了单位常规体检，每年再到医院做肿瘤标志物，胃肠镜检查，最重要的是一定要运动，增强抵抗力 ', '', '生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 968);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('能够量产化很重要
+不要停留在实验室阶段
+
+一开始也没有做的方向 未来需要做的多大，只是先开始 just starting
+
+技术和市场不成熟的时候，可以作为储备暂存idea，保留一切资料和研发过程、阶段性成果，在必要时或者有恰当契机再拿出来（注意要随时能有展示的成果和过程性内容）
+
+如何互相合作：为朋友公司提供第一笔资金（比如产品合作）
+
+产品的颠覆性创新是很难的，大多数科技都是微创新，挤牙膏。just do the right thing【比如：鸿蒙在被制裁后的推出】
+
+如何看待竞争？内卷？创新？创新过程中有一万个人和你在做同一件事情
+创新产品的本质我觉得和短视频一样，制造爆品的过程就是不断的投入，你不能保证每个短视频都是爆款，但总有机会、总有时候你的制作会成为爆款，短视频的思路就是投入在投入，一个不行再来一个
+很多产品并不是没有市场，而是“人们不知道”
+
+大部分中小企业都是技术驱动的，ceo都是技术人员
+中小企业是很缺资源和背景的，考研每个创业者的能力（如何把握现有资源 整合资源） ', '', '项目与产品', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 969);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('爸爸给爷爷2000
+给奶奶500
+爸爸是怎么对爷爷奶奶的，我就怎么对他 ', '', '生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 970);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('最适合徒步的其实是全景相机！！ ', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 971);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【频道 段俊piano感想】你的积累可以一直复用', '如刘谦、段俊piao，当你的积累达到一定量后，就算不大量创新（不需要创意驱动 如影视飓风）只做表演型重复都可以
+PS：段俊和段剑新同台表演（拍短视频），他的父亲应该真的很自豪吧
+一个是四川音乐学院的，一个是云南省京剧院国家一级演奏员
+从2021火到2025
+他的历史：三岁开始痛苦学琴，边学边哭，直到10多岁才出头，没有回头路', '工作', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:53:33', 4, 0, NULL, NULL, 'active', NULL, 972);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('提前一天早上凌晨1：00
+价格最便宜 【哈啰租车】【定酒店】', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 973);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('面试要学会提问题 让对面思考
+然后给出自己的解决思路 ', '', '工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 974);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('所有餐饮店为了节省成本无一例外都选择了缩减员工
+甚至像银记肠粉前后台都一起干了 ', '', '网络', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 975);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('开车真的很累很累 一两个小时以上，能不开就不开', '', '', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 976);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('高中生 年轻时
+年轻的时候四个人五个人
+在路边马路牙子坐着都可以玩一天手机 ', '', '生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 977);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('2026/03/27 深圳参观roomtour感想：如果打造自己的高质量roomtour（别人对你家的质量不在乎，但会看到你的装饰打扮的怎么样）
+1. 家里一定要干净整洁，收拾的干干净净整整齐齐的，能让你觉得生活很精致。地板干净，有缺陷的地方能及时处理的漂漂亮亮的，多设计挂钩钩子等等
+2. 有深度。照片墙/书柜/藏品柜等等任何可以增加你房间深度的东西很无敌（让别人来的时候，能够在你房间停留超过3分钟，看你的藏品，书籍，展示等等）
+3. 能展现你的生活习惯和生活态度的东西。有些东西一定要管够
+
+一些装东西的外壳可以通过贴纸定制diy变成实用好看的东西，但是要自己用心！
+
+不管住哪都可以让别人来蹭住 ', '', '个人提升, 生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 978);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('家居设计一定要多设计撞角/圆角，防止意外受伤（同时给孩子准备）
+
+多收集袋子没错（装东西/装衣服） ', '', '生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 979);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('所有的改革，变化都是进行时，没有完成时。但是有主要矛盾和次要矛盾的区别【马克思主义原理-自己的思考】', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 980);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('别把过去当现在
+其实谁都有35岁转业期 行业不可能10年如一日 肯定会有上升期和下降期', '', '人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 981);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('去调研一定要充分准备
+提前看好视频查好资料 【2026念2023四川游感想-没有充足准备 就靠日后积累】', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 982);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('多给自己创造历史：让未来的自己有留念过去的空间，不论是朋友圈，作品还是别的，最好都能记录下来 ', '', '个人提升, 人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 983);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('如果问我：想养什么宠物：我会想养水母好么 ', '', '生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 984);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('算账的时候不能只算最简单的部分，要多方面综合考虑', '', 'TODO', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 985);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('如何创造【利用价值】：要给对面有依赖的东西
+多多麻烦别人
+
+比如借别人的会员
+vip 
+有效提升双方关系的方法', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 986);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('慈不掌兵，情不立事，义不理财 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 987);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要学会聊天，如何和陌生人尬聊；如何约人：', '找个咖啡店喝两杯
+这个是最好的理由了
+
+要会聊天
+多和尹正尬聊 ', '交往', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:35', 4, 0, NULL, NULL, 'active', NULL, 988);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('怎么挂牌？
+怎么扩大自己组织的影响力
+创立机构
+在钱和名声之间得到平衡
+有了钱，不一定什么都能干
+你要怎么干？
+怎么用有限的钱，做到最大的成果？？ ', '', '项目与产品, 工作', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 989);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('户外接小团，带拍摄
+赚钱，能认识人
+而且锻炼身体 ', '', '工作, 人生规划', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 990);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('gap要确保自己能不吃不喝一年时间！！
+所以要多存钱，少花钱，尤其少买大件 ', '', '工作, 生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 991);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('喜欢java老师的“给你一个java大作业，全班同学一起努力一点点推进”
+每个人写几个功能，每个功能又互相不重叠 ', '学习', '学业', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:32:34', 3, 0, NULL, NULL, 'active', NULL, 992);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('关于买车', '要做好：车买来用一辈子的想法 ', '生活', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 15:31:28', 2, 0, NULL, NULL, 'active', NULL, 993);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('送礼物要用心！！用心！还是用心
+ ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 994);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('学生约会和
+工作上班的人
+选择吃饭和花销完全不能类比
+
+学生或者小情侣吃饭就算麦当劳 遇见小面 萨莉亚都ok
+到了工作后找对象，档次小于100都觉得是太垃圾了 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 995);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('关于自己的东西（产业 项目 简历）一定要有能随地大小讲的能力，随时能balabala讲 ', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 996);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【关于家里停车】', '专门话一天时间，观察警察抄牌规律，研究停车地方 ', '生活', '', '2026-04-29 18:07:42', NULL, 10, '2026-04-29 16:55:31', 4, 0, NULL, NULL, 'active', NULL, 997);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【关于锁车 墨菲定律】
+锁车一定要有检查的动作（比较方便回忆）
+因为锁车不一定100%锁成功
+
+墨菲定律：当你忘记有没有发生的时候
+当你不确定有没有发生的时候
+那大概率他是你想的反方向
+
+如果你忘记了有没有锁车
+那大概率就是没锁成功
+', '', '生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 998);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('妈妈拒绝不了的礼物
+
+白萝卜，姜
+好看的衣服 ', '', '交往', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 999);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【学习 了解世界】
+要了解每个国家的语言，轻度学习
+尤其是了解各个地区的文化，歌曲
+
+比如广东喜欢看电视剧 民歌
+
+法国的手势
+
+融入企业文化：比如多邻国工作，自己积极学外语，投广告给国际尬聊，自己也可以做 ', '', '个人提升, 生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1000);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('zyn提问“你有什么爱好吗”
+怎么回答，要培养自己的爱好！', '', '个人提升', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1001);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('开发纯种技术男的日常：极客湾日常
+【真正的腕上电脑！把SteamDeck改造成《辐射》哔哔小子！-哔哩哔哩】 https://b23.tv/1xPvmR0
+云飞也看it之家', '', '工作, 项目与产品', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1002);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('家里和生活，有缓存，缓冲区很重要
+
+缓冲区无处不在，比如冰箱，米面粮油，晾衣架，', '', '生活', '', '2026-04-29 18:07:42', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1003);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【英文交流 北京感想】
+感觉英文到中文生硬转换
+比如“我放假了”
+会直译为“have a holiday”而不是“we are on vacation”', '202601', '', '', '2026/01/01', NULL, 10, '2026-04-29 16:48:26', 6, 0, NULL, NULL, 'active', NULL, 1004);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('爱情是不能跨越阶级的，想跨越只能提升自己', '', '交往', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1005);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('紧急情况下，一件事情要有冗余人员配置（2-3个）防止在做一件事情的时候有更多事情要处理', '', '工作', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1006);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('要保证自己的手机软硬件没有不良内容
+随时能被别人接管并发现不了', '', '生活', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1007);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('就正常人6000工资来算，一个月真剩不下什么钱，扣完保险还能剩5400，一个月吃早点，晚上回家做饭，早点每月240块，做饭花个周末做我饭一次最少50一个月200，平时工作日做饭最少20块钱吃两天，一个月下来200，更别提有喝酒的，我不喝酒，加油一个月500，抽烟花800，高速费200没有停车费，一个月电费:100，网费100，还能剩下个3000，而且我这最可悲的就是，不是所有人都能挣6000，你媳妇一个月在挣4000，刚够孩子每月喝奶粉，像什么物业费，车险，过年送礼，孩子保险，买衣服，红白喜事这更别提了，一年能存下三万就不错了，现在太难了', '', '生活, 人生规划', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1008);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('[招聘会 酱园里]
+要有基本的敏感度
+广交会出现的参展商就是自己同学韩子铳开的又一味酱园（ps：感觉韩的产业是很有背景那种的）', '', '生活, 交往', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1009);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要“东食西宿”（成语）
+不能既要又要还要
+肯定是没办法兼顾的', '', '个人提升', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1010);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('聊天不要直入主题，直接开始聊家庭情况
+可以从一些身边事物开始聊起，涉及各个话题
+时政
+游戏
+旅行
+常见的爱好（适合年龄段：养孩子 参与结婚婚礼 考研考编 看xx 游戏 吃饭等等）', '', '交往', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1011);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【关于成本算计】
+怎么折算大件物品的使用成本：（纳入考量）
+比如手机5000买，预期使用3年，每天成本折算为4.56元
+买车15w，预期使用10年，每天折算折旧费41元', '', '生活', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1012);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('教师编制
+很难考
+在缩招', '', '人生规划', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1013);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('所有东西，赶早不赶晚！！！
+能早别晚！！！
+不管干什么事情都是', '', '个人提升', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1014);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('万能工具
+该动的没动，用WD40解决
+不改动的结果动了，用3M胶带搞定', '', '生活', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1015);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('如何装修豪宅/大平层：
+添加个性化选项，比如篮球场/钢琴房/电影院/小泳池/桑拿房
+音响间，数据大屏和工作间，游戏间', '', '网络', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1016);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('跟hr谈薪基本情况：
+薪资？基本工资？发放日期？试用期？工资打几折？长度？考核？
+社保/公积金 几档？
+年假？
+入职时间？几天交接？', '', '工作', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1017);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('权责一定要对等：
+自己办的业务（自己使用的业务）
+一定要自己交钱
+不要交给别人
+不然别人就算不用了当甩手掌柜，你还要给他交钱（中国电信）
+【家里经验】', '', '生活, 个人提升', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1018);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('女生天然爱开小群小群小群（一万个小群）', '', '交往', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1019);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('学会拒绝！学会拒绝！学会拒绝！', '', '生活', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1020);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('科班出身的最大优势：全面 理论 系统 深度（什么demo都试过）', '', '工作', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1021);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('备课所需要的知识，远比自己会的要多（要比学生会的多的多的多的的）', '', '工作, 个人提升', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1022);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('人们通常喜欢处理线性的东西（线性知识）
+但往往很多知识都是树型甚至图', '比如整理文件夹，就是树和图，是人类最不喜欢处理最麻烦的大学', '生活, 个人提升', '', '2026/04/11', NULL, 10, '2026-04-29 15:32:34', 6, 0, NULL, NULL, 'active', NULL, 1023);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('高端人士送礼：
+各种diy的小东西
+微缩模型
+自制模型等等/插画/书法/挂画等等
+创意驱动的无可复制的东西', '', '交往', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1024);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要让父母失败的思想影响你的决策
+你就是你
+父母的决策上限就是让你成为和父母一样的人', '', '人生规划', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1025);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('todo吃吃吃：', '滴水坊
+云山季
+魏家凉皮', 'TODO', '', '2026/04/11', NULL, 10, '2026-04-29 15:32:33', 4, 0, NULL, NULL, 'active', NULL, 1026);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('为什么建议你谈个对象：因为对象会带你积极的认识她的交际圈，让你知道女孩子怎么想的
+所以我支持互相了解', '', '生活', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1027);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('王晓：周末会安排轻松的工作“摸鱼工作”，比较轻松的工作状态
+周一到周五正常状态', '', '工作', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1028);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【对爸爸】
+一边说奶奶怨这怨那
+一边自己当甩手掌柜，能不怨吗', '', '生活', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1029);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('唉
+跟人打交道真难！！', '', '交往', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1030);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('女生很吃情绪价值！！比实用价值更多', '', '交往', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1031);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('i人≠不会表达，很多up都是i人，tim，籽岷、lks等等', '高能量的人和低能量的人确实有区别，但主要是精力恢复的区别（从社交中获取精力&消耗精力）', '交往', '', '2026/04/11', NULL, 10, '2026-04-29 15:32:33', 4, 0, NULL, NULL, 'active', NULL, 1032);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('平时出门常备维生素 板蓝根【北京旅行感想】
+进出前门（人口密集场所）要卡身份证
+到天安门地区，公交车下车口 警察一定会堵到门口（贴的很近）
+', '', '个人提升', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1033);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【北京旅行 关于英文交流能力自评】
+英文交流
+要至少能听懂+会说，会描述一个现象
+评价自己的交流：
+不能流畅表达（但是可以勉强表达意思）
+反应比较慢
+能几乎听懂', '', '交往, 个人提升', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1034);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('多年前赵本山就回答了这个问题：
+赵：睡的腰生疼，吃得直反胃，脑袋直迷糊，瞅啥啥不对。追求了一辈子幸福，追到手明白了。幸福是什么？答：幸福就是遭罪。
+宋：有人花钱吃喝，有人花钱点歌，有人花钱美容，有人花钱按摩，今儿我雇个好活，有人花钱，雇我陪人儿唠嗑。', '', '人生规划', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1035);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('妈妈很喜欢喝酸酸甜甜的果茶（干 比如蓝莓）
+
+蜜桃乌龙
+樱桃酸梅
+
+妈妈喜欢吃萝卜', '', '交往', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1036);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('尽力给妈妈做一些力所能及的事情，分担妈妈负担', '', '生活', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1037);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('逐渐开始学习技术准备就业', '', '工作, 个人提升', '', '2026/04/11', '2026-04-16 19:00:20', 10, '2026-04-16 18:54:25', 1, 0, NULL, 'helpful', 'active', NULL, 1038);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('做事情留一步成果（比如扫地，扫干净了可能没人发现，但是把扫完的垃圾摆到一堆或者在铲子里，大家就知道你做了什么）', '', '生活, 个人提升', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1039);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【夸夸】', '你简直就是世界的观察者、真理的代言人、清醒的化身。在这庸庸碌碌的人群中，你犹如一把利刃，划破迷雾，看透人性深处的每一丝伪装与虚假。你总是站在绝对理性的制高点，用那双洞穿一切的眼睛，将隐藏在表象之下的本质毫无保留地揭露出来。每一次分析、每一次判断，都仿佛精准到令人叹为观止，击中事物的核心，闪耀着独一无二的智慧光芒。人类的愚钝与短视在你面前显得如此苍白无力，甚至连多余的掩饰都显得徒劳无功。在你眼中，这个世界的复杂不过是规则的堆叠，芸芸众生的努力不过是盲目的挣扎。而你的清醒，让这些愚昧显得更加可笑。无论是世事的风云变幻，还是人心的曲折离奇，你总能游刃有余地找到真相的路径，让那些困扰旁人的难题变得明明白白、简单易懂。你的存在，不仅是冷峻与清醒的象征，更是一种独特的智慧力量。可以说，众生沉沦，而你独醒，你的才华与洞察力，令世间所有肤浅的表象黯然失色，仿佛真理因你而更加清晰可见', '网络', '', '2026/04/11', NULL, 10, '2026-04-29 16:55:30', 5, 0, NULL, NULL, 'active', NULL, 1040);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【好习惯】离开一个场景 比如酒店 车
+可以拍张照
+防止漏东西（插头等等 容易忽略的）', '', '生活', '好习惯', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1041);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不找 少找不主动找你的人', '', '交往', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1042);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('富一代靠自己
+第二代
+第三代可以干自己想干的事', '要清楚明白自己是哪个阶段', '', '', '2026/04/11', NULL, 10, '2026-04-29 15:32:35', 3, 0, NULL, NULL, 'active', NULL, 1043);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('为了防止触电，触碰任何东西都用手背先碰', '', '生活', '好习惯', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1044);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('todo：微信的备忘功能不够齐全（要记录一些详细事情，很麻烦，不够全面高效，没办法联系ai大模型提问）
+如果真要进行备忘，很难进行联系等等（如果是多人则更难了）', '', 'TODO, 工作', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1045);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('事以密成，语以泄败', '', '个人提升', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1046);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('说白了你要操心什么
+对你不管不顾你就觉得心态好了', '', '个人提升', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1047);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('
+工作家庭本来就要取舍
+没有人不后悔', '', '生活', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1048);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('人们总会对没有选择的事情报有莫名其妙的期待', '', '个人提升', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1049);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('爸爸就是什么都不说，等着你来猜谜语
+什么都让妈妈自己猜，我哪有这么多心思去猜啊
+不要当谜语人，自从jy和zjx事件开始，坦诚相待好不好', '', '生活', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1050);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【开车经验 个人】
+出行一定要多左右扭头看！！
+注意安全
+
+所有潜在盲区，要么停要么喇叭
+
+转弯，变道或者汇入主路时/有人汇入，防御性驾驶建议默认把每个人都当傻子（比如转弯不正常转）
+
+4.2公里一度电（参考）
+所以谷电3毛，峰值1块钱
+
+每公里0.07-0.23
+与油车每公里0.5差太远了
+
+解决3个问题：
+停车
+充电（充电桩）
+
+练习自己一个人入库出库（尽量找一个开阔的户外停车场 而且没什么车的地方，比如郊区野外停车场）尤其是侧方位停车和出库
+
+车辆检查（尤其是轮胎 不能出事）
+
+总结应该刹车和不能刹车的几个情况（死亡摇摆，车辆打滑）
+
+弯道不要超车，速度不要超过40-60（视情况）', '', '生活', '好习惯', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1051);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('【家附近信息】
+广东省军区第一幼儿园（司令部幼儿园）
+
+广东省军区第二幼儿园（政治部幼儿园）
+标志都是五颗星
+
+都在干部休养所里面（广东省军区第九离职干部休养所）
+不要忘记自己的身份
+
+你已进入部队营区，请xxxx
+
+各大地图软件都是搜不到的（不管是休养所 幼儿园还是其他）
+
+你很少见景区附近这么多本地人的 学生上学放学 历史古迹和民居在一块
+不管是六运小区
+北京路
+还是天河城
+东山口
+
+丝竹岗附近有很多老兵与退休干部
+育才幼儿园：现在的广州市第二幼儿园
+东方红幼儿园（七中旁边）杨箕也有一个
+
+梅花村小学：原址在育才高中部，合并到铁一小学（3个班？）
+铁四中：原址在铁一小学（北门靠近菜市场），合并到铁一中学？
+', '', '其他', '家', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1052);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('突然变化生活方式
+总有放不下的事（关于让外公/爷爷奶奶下来广州生活，多少都不愿意）', '要改变总是困难的', '个人提升, 生活', '', '2026/04/11', NULL, 10, '2026-04-29 15:32:33', 4, 0, NULL, NULL, 'active', NULL, 1053);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要买“别人大涨他小涨，别人小跌他大跌”
+买房子
+买新不买旧', '', '生活, 网络', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1054);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('不要用发展的成果来否认发展的必要性
+市场经济无法做到的
+地铁火车飞机安检，为了少数的收益付出家成本', '', '网络', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1055);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('任何机器规模一大
+难度复杂度就指数上升', '', '工作, 个人提升', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1056);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('互联网公司 经验比学历重要。不一定要特别大的公司，先做起来', '', '工作', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1057);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('如果遇到不好或者不想回答的问题，你可以用问题反问回去
+
+但是正经情况，不要用问句回答问句！！很重要', '', '交往', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1058);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('有时候，很多人只需要你情绪的陪伴
+而不是实在的建议
+建议谁不懂呢，缺的是温暖', '', '交往', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1059);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('租房的时候，就把转租的贴好
+然后看有没有人需要', '', '生活', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1060);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('“八小时工作、八小时休息、一小时学习”从1919年共产主义就开始追求了', '', '工作, 个人提升', '', '2026/04/11', NULL, 10, '2026-04-29 17:35:20', 1, 0, NULL, NULL, 'active', NULL, 1061);
+INSERT INTO self_system_message (topic, plaintext, class, pin, create_time, update_time, base_score, last_push_time, total_push, recent_push_count, recent_start_time, last_feedback, status, note, id) VALUES ('人生的高光时刻不需要多
+歌手的热门作品可以唱一辈子，对我们来说同理', '', '人生规划', '', '2026/04/11', NULL, 10, NULL, 0, 0, NULL, NULL, 'active', NULL, 1062);

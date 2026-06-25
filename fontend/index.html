@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的个人语录工作台</title>
+    <style>
+        body { max-width: 600px; margin: 20px auto; padding: 20px; font-size: 16px; font-family: "Microsoft YaHei"; }
+        .card { padding: 24px; border: 1px solid #eee; border-radius: 12px; margin: 20px 0; background: #fafafa; }
+        .btn { padding: 10px 18px; margin: 6px; border: none; border-radius: 6px; cursor: pointer; font-size: 15px; }
+        .helpful { background: #42b983; color:white; }
+        .done { background: #3eafef; color:white; }
+        .learned { background: #f3a860; color:white; }
+        .edit-btn { background: #667eea; color:white; }
+        .delete-btn { background: #e53935; color:white; }
+        small { color:#666; margin-top:10px; display:block; }
+
+        .toolbar { padding: 12px; background: #f4f6fa; border-radius: 8px; margin-bottom: 16px; }
+        .toolbar input { width: 220px; padding: 6px 8px; border: 1px solid #ccc; border-radius: 4px; }
+        .toolbar label { margin-right: 8px; }
+        .toolbar select, .toolbar input[type=number] { padding: 6px 8px; border: 1px solid #ccc; border-radius: 4px; }
+
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(0,0,0,0.4);
+        }
+        .modal-content {
+            background-color: #fefefe;
+            margin: 15% auto;
+            padding: 20px;
+            border: 1px solid #888;
+            width: 80%;
+            max-width: 500px;
+            border-radius: 12px;
+        }
+        .modal-content input, .modal-content textarea, .modal-content select {
+            width: 100%;
+            padding: 10px;
+            margin: 8px 0;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            box-sizing: border-box;
+            font-size: 14px;
+        }
+        .modal-content textarea { height: 100px; }
+        .close { color: #aaa; float: right; font-size: 28px; font-weight: bold; cursor: pointer; }
+        .close:hover { color: black; }
+    </style>
+</head>
+<body>
+    <h2>今日个人经验推送</h2>
+
+    <div class="toolbar">
+        <label>API 地址：<input id="apiBase" value="http://127.0.0.1:5000"></label>
+        <label>X-Token：<input id="apiToken" value="dancehole"></label>
+        <br><br>
+        <label>类型 c：<input id="filterC" placeholder="留空 = 全部" style="width:120px"></label>
+        <label>min_length：<input id="filterMin" type="number" value="0" style="width:80px"></label>
+        <label>max_length：<input id="filterMax" type="number" value="30" style="width:80px"></label>
+        <label>encode：
+            <select id="filterEncode">
+                <option value="json" selected>json</option>
+                <option value="text">text</option>
+            </select>
+        </label>
+        <button class="btn" style="background:#9c88ff;color:white" onclick="loadNext()">应用并刷新</button>
+    </div>
+
+    <div class="card" id="sayingCard">加载中...</div>
+
+    <button class="btn helpful" onclick="sendFeedback('helpful')">有帮助！</button>
+    <button class="btn done" onclick="sendFeedback('done')">做到了！</button>
+    <button class="btn learned" onclick="sendFeedback('received')">学到了！</button>
+    <button class="btn" style="background: #999; color:white;" onclick="loadNext()">下一条 →</button>
+    <button class="btn edit-btn" onclick="openEditModal()">编辑</button>
+    <button class="btn delete-btn" onclick="confirmDelete()">删除</button>
+
+    <div id="editModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeEditModal()">&times;</span>
+            <h3>编辑语录</h3>
+            <input type="text" id="editTopic" placeholder="标题">
+            <input type="text" id="editClass" placeholder="分类">
+            <input type="text" id="editTag" placeholder="标签">
+            <input type="text" id="editFromWho" placeholder="作者 (from_who)">
+            <textarea id="editContent" placeholder="内容"></textarea>
+            <button class="btn edit-btn" onclick="saveEdit()">保存修改</button>
+        </div>
+    </div>
+
+    <script>
+        let currentId = null;
+        let currentData = null;
+
+        function buildHeaders() {
+            return {
+                "Content-Type": "application/json",
+                "X-Token": document.getElementById("apiToken").value.trim()
+            };
+        }
+
+        function getApiBase() {
+            return document.getElementById("apiBase").value.trim().replace(/\/+$/, "");
+        }
+
+        function buildPushUrl() {
+            const c = encodeURIComponent(document.getElementById("filterC").value.trim());
+            const min = document.getElementById("filterMin").value || 0;
+            const max = document.getElementById("filterMax").value || 30;
+            const enc = document.getElementById("filterEncode").value;
+            const qs = `min_length=${min}&max_length=${max}&encode=${enc}` + (c ? `&c=${c}` : "");
+            return `${getApiBase()}/push?${qs}`;
+        }
+
+        async function loadNext() {
+            try {
+                document.getElementById("sayingCard").innerText = "加载中...";
+                const res = await fetch(buildPushUrl(), { headers: buildHeaders() });
+                if (res.status === 401) {
+                    document.getElementById("sayingCard").innerText = "鉴权失败 (401)：请检查 X-Token";
+                    return;
+                }
+                if (!res.ok) {
+                    const data = await res.json().catch(() => ({}));
+                    document.getElementById("sayingCard").innerText = `加载失败：${data.msg || res.status}`;
+                    return;
+                }
+                const enc = document.getElementById("filterEncode").value;
+                if (enc === "text") {
+                    const text = await res.text();
+                    currentId = null;
+                    currentData = { content: text };
+                    document.getElementById("sayingCard").innerHTML = `<p>${text}</p>`;
+                    return;
+                }
+                const data = await res.json();
+                currentId = data.id;
+                currentData = data;
+                document.getElementById("sayingCard").innerHTML = `
+                    <h3>${data.content}</h3>
+                    <p style="color:#666">${data.from_who || ''}</p>
+                    <small>分类：${data.type || '-'} | 出处：${data.from || '-'} | 长度：${data.length}</small>
+                `;
+            } catch (e) {
+                document.getElementById("sayingCard").innerText = "加载失败：" + e;
+            }
+        }
+
+        async function sendFeedback(type) {
+            if (!currentId) {
+                alert("未选择语录（text 模式不支持反馈）");
+                return;
+            }
+            const res = await fetch(`${getApiBase()}/feedback`, {
+                method: "POST",
+                headers: buildHeaders(),
+                body: JSON.stringify({ id: currentId, type: type })
+            });
+            const data = await res.json().catch(() => ({}));
+            if (data.status === "ok") {
+                alert("反馈成功！");
+                loadNext();
+            } else {
+                alert("反馈失败：" + (data.msg || res.status));
+            }
+        }
+
+        function openEditModal() {
+            if (!currentData) {
+                alert("未选择语录");
+                return;
+            }
+            document.getElementById("editTopic").value = currentData.content ? currentData.content.split("\n")[0] : "";
+            document.getElementById("editClass").value = currentData.type || "";
+            document.getElementById("editTag").value = currentData.from || "";
+            document.getElementById("editFromWho").value = currentData.from_who || "";
+            document.getElementById("editContent").value = currentData.content || "";
+            document.getElementById("editModal").style.display = "block";
+        }
+
+        function closeEditModal() {
+            document.getElementById("editModal").style.display = "none";
+        }
+
+        async function saveEdit() {
+            if (!currentId) {
+                alert("未选择语录");
+                return;
+            }
+            const topic = document.getElementById("editTopic").value.trim();
+            const class_ = document.getElementById("editClass").value.trim();
+            const tag = document.getElementById("editTag").value.trim();
+            const from_who = document.getElementById("editFromWho").value.trim();
+            const content = document.getElementById("editContent").value.trim();
+            if (!topic || !content) {
+                alert("标题和内容不能为空");
+                return;
+            }
+            const res = await fetch(`${getApiBase()}/edit`, {
+                method: "PUT",
+                headers: buildHeaders(),
+                body: JSON.stringify({ id: currentId, topic, class: class_, tag, from_who, plaintext: content })
+            });
+            const data = await res.json().catch(() => ({}));
+            if (data.status === "ok") {
+                alert("修改成功！");
+                closeEditModal();
+                loadNext();
+            } else {
+                alert("修改失败：" + (data.msg || "未知错误"));
+            }
+        }
+
+        async function confirmDelete() {
+            if (!currentId) {
+                alert("未选择语录");
+                return;
+            }
+            if (!confirm("确定要删除这条语录吗？此操作不可恢复！")) return;
+            const res = await fetch(`${getApiBase()}/delete`, {
+                method: "DELETE",
+                headers: buildHeaders(),
+                body: JSON.stringify({ id: currentId })
+            });
+            const data = await res.json().catch(() => ({}));
+            if (data.status === "ok") {
+                alert("删除成功！");
+                loadNext();
+            } else {
+                alert("删除失败：" + (data.msg || "未知错误"));
+            }
+        }
+
+        window.onclick = function (event) {
+            const modal = document.getElementById("editModal");
+            if (event.target == modal) closeEditModal();
+        };
+
+        window.onload = loadNext;
+    </script>
+</body>
+</html>
