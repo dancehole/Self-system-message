@@ -24,6 +24,7 @@ DB_CONFIG = {
     "charset": "utf8mb4",
 }
 TABLE_NAME = "self_system_message"
+CATEGORIES_TABLE = "self_system_message_categories"
 
 # Hitokoto 兼容默认参数
 DEFAULT_MIN_LENGTH = 0
@@ -118,6 +119,8 @@ def push_message():
     try:
         # 参数解析
         type_filter = (request.args.get("c") or "").strip()
+        # 支持多选分类（逗号分隔），转换为列表
+        type_filters = [t.strip() for t in type_filter.split(",") if t.strip()] if type_filter else []
         try:
             min_length = int(request.args.get("min_length", DEFAULT_MIN_LENGTH))
         except ValueError:
@@ -154,9 +157,16 @@ def push_message():
             "AND CHAR_LENGTH(plaintext) >= %s AND CHAR_LENGTH(plaintext) <= %s"
         )
         params = [min_length, max_length]
-        if type_filter:
-            sql += " AND class = %s"
-            params.append(type_filter)
+        if type_filters:
+            # 多选分类：使用 FIND_IN_SET 或 LIKE 匹配任一分类
+            if len(type_filters) == 1:
+                sql += " AND class = %s"
+                params.append(type_filters[0])
+            else:
+                # 使用 OR 匹配多个分类
+                conditions = " OR ".join(["class = %s" for _ in type_filters])
+                sql += f" AND ({conditions})"
+                params.extend(type_filters)
         cursor.execute(sql.format(TABLE_NAME), params)
         messages = cursor.fetchall()
 
@@ -351,6 +361,112 @@ def add_message():
         return jsonify({"status": "ok", "id": new_id})
     except Exception as e:
         print("新增错误：", e)
+        return _err(str(e), 500)
+
+
+# ===================== 分类管理接口 =====================
+@app.route("/categories", methods=["GET"])
+@require_token
+def get_categories():
+    """获取所有分类列表"""
+    try:
+        db = get_db()
+        cursor = db.cursor(pymysql.cursors.DictCursor)
+        cursor.execute("SELECT id, name, sort_order, is_default FROM {} ORDER BY sort_order, id".format(CATEGORIES_TABLE))
+        categories = cursor.fetchall()
+        cursor.close()
+        db.close()
+        return jsonify({"status": "ok", "categories": categories})
+    except Exception as e:
+        print("获取分类错误：", e)
+        return _err(str(e), 500)
+
+
+@app.route("/categories", methods=["POST"])
+@require_token
+def add_category():
+    """新增分类"""
+    data = request.get_json(silent=True) or {}
+    name = (data.get("name") or "").strip()
+    if not name:
+        return _err("分类名称不能为空")
+    try:
+        db = get_db()
+        cursor = db.cursor()
+        # 获取最大排序号
+        cursor.execute("SELECT COALESCE(MAX(sort_order), 0) + 1 AS next_order FROM {}".format(CATEGORIES_TABLE))
+        next_order = cursor.fetchone()[0]
+        cursor.execute(
+            "INSERT INTO {} (name, sort_order) VALUES (%s, %s)".format(CATEGORIES_TABLE),
+            (name, next_order)
+        )
+        db.commit()
+        new_id = cursor.lastrowid
+        cursor.close()
+        db.close()
+        return jsonify({"status": "ok", "id": new_id, "name": name})
+    except pymysql.err.IntegrityError:
+        return _err("分类已存在")
+    except Exception as e:
+        print("新增分类错误：", e)
+        return _err(str(e), 500)
+
+
+@app.route("/categories/<int:cat_id>", methods=["DELETE"])
+@require_token
+def delete_category(cat_id):
+    """删除分类"""
+    try:
+        db = get_db()
+        cursor = db.cursor()
+        cursor.execute("DELETE FROM {} WHERE id = %s".format(CATEGORIES_TABLE), (cat_id,))
+        db.commit()
+        affected = cursor.rowcount
+        cursor.close()
+        db.close()
+        if affected == 0:
+            return _err("分类不存在", 404)
+        return jsonify({"status": "ok"})
+    except Exception as e:
+        print("删除分类错误：", e)
+        return _err(str(e), 500)
+
+
+@app.route("/categories/<int:cat_id>", methods=["PUT"])
+@require_token
+def update_category(cat_id):
+    """更新分类"""
+    data = request.get_json(silent=True) or {}
+    name = (data.get("name") or "").strip()
+    is_default = data.get("is_default")
+    if not name:
+        return _err("分类名称不能为空")
+    try:
+        db = get_db()
+        cursor = db.cursor()
+        if is_default is not None:
+            # 取消其他默认，设置此分类为默认
+            cursor.execute("UPDATE {} SET is_default = 0".format(CATEGORIES_TABLE))
+            cursor.execute(
+                "UPDATE {} SET name = %s, is_default = %s WHERE id = %s".format(CATEGORIES_TABLE),
+                (name, 1 if is_default else 0, cat_id)
+            )
+        else:
+            cursor.execute(
+                "UPDATE {} SET name = %s WHERE id = %s".format(CATEGORIES_TABLE),
+                (name, cat_id)
+            )
+        db.commit()
+        affected = cursor.rowcount
+        cursor.close()
+        db.close()
+        if affected == 0:
+            return _err("分类不存在", 404)
+        return jsonify({"status": "ok"})
+    except pymysql.err.IntegrityError:
+        return _err("分类已存在")
+    except Exception as e:
+        print("更新分类错误：", e)
         return _err(str(e), 500)
 
 
