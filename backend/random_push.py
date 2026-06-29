@@ -49,7 +49,7 @@ def _get_real_ip():
 limiter = Limiter(
     _get_real_ip,
     app=app,
-    default_limits=["1 per 2 seconds"],
+    default_limits=["2 per second"],
     storage_uri="memory://",
 )
 
@@ -58,7 +58,7 @@ limiter = Limiter(
 def rate_limit_handler(e):
     return jsonify({
         "status": "fail",
-        "msg": "请求过于频繁，每 2 秒最多 1 次",
+        "msg": "请求过于频繁，请稍后再试",
     }), 429
 
 # ===================== 工具函数 =====================

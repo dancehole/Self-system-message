@@ -704,7 +704,7 @@ let selectedEditCategories = []; // 编辑弹窗选中的分类
 
 // ==================== 前端节流（防止频繁点击） ====================
 let _lastReqTime = 0;
-const _MIN_REQ_INTERVAL = 2500; // 2.5 秒
+const _MIN_REQ_INTERVAL = 1000; // 1 秒（配合后端 2次/秒）
 
 function _checkThrottle() {
   const now = Date.now();
