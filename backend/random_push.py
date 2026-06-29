@@ -10,6 +10,7 @@ from datetime import datetime
 
 from flask import Flask, jsonify, request, render_template, Response
 from flask_cors import CORS
+from flask_limiter import Limiter
 import pymysql
 
 from push import calculate_score as advanced_calculate_score
@@ -32,6 +33,33 @@ DEFAULT_MAX_LENGTH = 30
 
 app = Flask(__name__)
 CORS(app, origins="*")
+
+# ===================== 速率限制 =====================
+# 每 IP 每 2 秒最多 1 次请求，防止恶意刷接口
+def _get_real_ip():
+    """穿透 Nginx 反代获取真实客户端 IP"""
+    forwarded = request.headers.get("X-Forwarded-For")
+    if forwarded:
+        return forwarded.split(",")[0].strip()
+    real_ip = request.headers.get("X-Real-IP")
+    if real_ip:
+        return real_ip.strip()
+    return request.remote_addr or "unknown"
+
+limiter = Limiter(
+    _get_real_ip,
+    app=app,
+    default_limits=["1 per 2 seconds"],
+    storage_uri="memory://",
+)
+
+# 自定义限流错误响应为 JSON 格式
+@app.errorhandler(429)
+def rate_limit_handler(e):
+    return jsonify({
+        "status": "fail",
+        "msg": "请求过于频繁，每 2 秒最多 1 次",
+    }), 429
 
 # ===================== 工具函数 =====================
 def _err(msg, code=400):
@@ -472,6 +500,7 @@ def update_category(cat_id):
 
 # ===================== 健康检查 =====================
 @app.route("/health")
+@limiter.exempt
 def health():
     return jsonify({"status": "ok", "time": datetime.now().isoformat()})
 
