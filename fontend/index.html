@@ -599,11 +599,11 @@
     <div class="section-title">API 配置</div>
     <div class="form-group">
       <label>API 地址</label>
-      <input type="text" id="setApiBase" placeholder="http://127.0.0.1:5000">
+      <input type="text" id="setApiBase" placeholder="https://dancehole.cn/api/self-system-message">
     </div>
     <div class="form-group">
       <label>X-Token</label>
-      <input type="text" id="setToken" placeholder="dancehole">
+      <input type="text" id="setToken" placeholder="输入鉴权 Token">
     </div>
 
     <div class="section-title">推送参数</div>
@@ -719,8 +719,16 @@ function loadConfig() {
       config = JSON.parse(saved);
     }
   } catch (e) {}
-  if (!config.apiBase) config.apiBase = 'http://127.0.0.1:5000';
-  if (!config.token) config.token = 'dancehole';
+  // 自动迁移：如果 localStorage 里存的是 127.0.0.1 的旧地址或相对路径，更新到完整 URL
+  if (config.apiBase && (
+    config.apiBase.indexOf('127.0.0.1') >= 0 ||
+    config.apiBase.indexOf('/api') === 0
+  )) {
+    config.apiBase = 'https://dancehole.cn/api/self-system-message';
+    saveConfig();
+  }
+  if (!config.apiBase) config.apiBase = 'https://dancehole.cn/api/self-system-message';
+  if (!config.token) config.token = '';
   if (!config.category) config.category = '';
   if (!config.categories) config.categories = []; // 多选分类
   if (config.minLength === undefined) config.minLength = 0;
@@ -1177,8 +1185,8 @@ function applySettings() {
 function resetSettings() {
   if (!confirm('确定恢复默认设置吗？')) return;
   config = {
-    apiBase: 'http://127.0.0.1:5000',
-    token: 'dancehole',
+    apiBase: 'https://dancehole.cn/api/self-system-message',
+    token: '',
     categories: [],
     minLength: 0,
     maxLength: 30,
