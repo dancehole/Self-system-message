@@ -38,6 +38,18 @@ df = df.fillna("")
 df["topic"] = df["topic"].astype(str).str.strip()
 df["plaintext"] = df["plaintext"].astype(str).str.strip()
 
+# 转换 create_time：空值→None，否则格式化日期
+def normalize_date(val):
+    if not val or str(val).strip() == "":
+        return None
+    s = str(val).strip()
+    # 处理 2026/06/12 → 2026-06-12
+    s = s.replace("/", "-")
+    # 保留部分格式（只取日期部分）
+    return s
+
+df["create_time"] = df["create_time"].apply(normalize_date)
+
 # ===================== 1. CSV 内部去重 =====================
 if DEDUP_BY_BOTH:
     before = len(df)
@@ -76,17 +88,36 @@ else:
     new_df = df
     print(f"✨ 数据库为空，全部新增：{len(new_df)} 条")
 
-# ===================== 3. 导入新数据 =====================
+# ===================== 3. 导入新数据（分批插入，显式处理） =====================
 if len(new_df) > 0:
-    with engine.connect() as conn:
-        new_df.to_sql(
-            name=TABLE_NAME,
-            con=conn,
-            if_exists="append",
-            index=False
-        )
-        conn.commit()
-    print(f"✅ 导入成功！新增 {len(new_df)} 条")
+    inserted = 0
+    batch_size = 100
+    with engine.begin() as conn:
+        for start in range(0, len(new_df), batch_size):
+            batch = new_df.iloc[start:start + batch_size]
+            for _, row in batch.iterrows():
+                create_time = row["create_time"]
+                if not create_time:
+                    conn.execute(
+                        text(
+                            f"INSERT INTO {TABLE_NAME} (topic, plaintext, class, pin) "
+                            f"VALUES (:topic, :plaintext, :class, :pin)"
+                        ),
+                        {"topic": row["topic"], "plaintext": row["plaintext"],
+                         "class": row["class"], "pin": row["pin"]}
+                    )
+                else:
+                    conn.execute(
+                        text(
+                            f"INSERT INTO {TABLE_NAME} (topic, plaintext, class, pin, create_time) "
+                            f"VALUES (:topic, :plaintext, :class, :pin, :create_time)"
+                        ),
+                        {"topic": row["topic"], "plaintext": row["plaintext"],
+                         "class": row["class"], "pin": row["pin"],
+                         "create_time": create_time}
+                    )
+                inserted += 1
+    print(f"✅ 导入成功！新增 {inserted} 条")
 else:
     print("ℹ️  没有新数据需要导入")
 
