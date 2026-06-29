@@ -702,6 +702,20 @@ let categories = []; // 分类列表
 let selectedFilterCategories = []; // 设置面板选中的分类
 let selectedEditCategories = []; // 编辑弹窗选中的分类
 
+// ==================== 前端节流（防止频繁点击） ====================
+let _lastReqTime = 0;
+const _MIN_REQ_INTERVAL = 2500; // 2.5 秒
+
+function _checkThrottle() {
+  const now = Date.now();
+  if (now - _lastReqTime < _MIN_REQ_INTERVAL) {
+    showToast('你点的太快了，等会再试试吧', 'error');
+    return false;
+  }
+  _lastReqTime = now;
+  return true;
+}
+
 function init() {
   loadConfig();
   loadHistory();
@@ -1009,6 +1023,7 @@ function buildPushUrl() {
 }
 
 async function loadNext() {
+  if (!_checkThrottle()) return;
   const container = document.getElementById('quoteContent');
   container.innerHTML = '<div class="loading">加载中...</div>';
   try {
@@ -1055,6 +1070,7 @@ async function loadNext() {
 }
 
 async function loadById(id) {
+  if (!_checkThrottle()) return;
   if (!id) return;
   // 从历史记录中查找
   const item = history.push.find(h => h.id === id);
@@ -1134,6 +1150,7 @@ async function copyQuote() {
 }
 
 async function sendFeedback(type) {
+  if (!_checkThrottle()) return;
   if (!currentId) {
     showToast('text 模式不支持反馈', 'error');
     return;
@@ -1236,6 +1253,7 @@ function closeEditModal() {
 }
 
 async function saveEdit() {
+  if (!_checkThrottle()) return;
   if (!currentId) {
     showToast('未选择语录', 'error');
     return;
@@ -1270,6 +1288,7 @@ async function saveEdit() {
 }
 
 async function saveAdd() {
+  if (!_checkThrottle()) return;
   const topic = document.getElementById('editTopic').value.trim();
   const tag = document.getElementById('editTag').value.trim();
   const from_who = document.getElementById('editFromWho').value.trim();
@@ -1303,6 +1322,7 @@ async function saveAdd() {
 }
 
 async function confirmDelete() {
+  if (!_checkThrottle()) return;
   if (!currentId) {
     showToast('未选择语录', 'error');
     return;
